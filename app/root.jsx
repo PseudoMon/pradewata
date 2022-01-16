@@ -11,7 +11,7 @@ import normalizeStyles from '~/styles/normalize.css'
 import baseStyles from '~/styles/base.css' 
 
 export function meta() {
-  return { title: "New Remix App" };
+  return { title: "Pradewata" };
 }
 
 export function links() {

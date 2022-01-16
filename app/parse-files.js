@@ -36,15 +36,25 @@ export async function getCharacterList() {
     }
 
     const name = element.stringKey()
+    const nameId = name.toLowerCase().replace(" ", "-")
+    // turns "Kaedehara Kazuha" to "kaedehara-kazuha"
     const titles = element.toSection().fieldset('title')
     const title = titles.entry("id-new").requiredStringValue()
 
     charaList.push({ 
       name, 
+      nameId,
       title, 
       sideImage: `/images/chara-side/${name.toLowerCase()}.png` 
     }) 
   })
 
   return charaList
+}
+
+export async function getCharaVoiceLines(charaId) {
+  const file = await fs.readFile(
+    path.join(textDataPath, "characters", charaId),
+    "utf-8"
+  )
 }

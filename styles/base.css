@@ -11,7 +11,8 @@
     --color-semitext: #F7EBFF; /* sorta like text, but for bg */
     --color-semibg: #191E33; /* sorta like bg but for text */
 
-
+    /* TODO: Atm all fonts are decided with px. 
+    Should probably switch all that to rem/em eventually */
 }
 
 body {
