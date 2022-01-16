@@ -1,0 +1,119 @@
+:root {
+    --font-main: "Signika Negative", sans-serif;
+    --font-header: "Gentium Book Basic", serif;
+    --color-bg: #1A1E2B;
+    --color-text: #E8E6EA;
+    --color-accent: #7EBF24;
+    --color-overlay: #3D2F44;
+
+    --color-textbg: #222944;
+
+    --color-semitext: #F7EBFF; /* sorta like text, but for bg */
+    --color-semibg: #191E33; /* sorta like bg but for text */
+
+
+}
+
+body {
+    font-family: var(--font-main);
+    background-color: var(--color-bg);
+    color: var(--color-text);
+
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+main {
+    max-width: 1100px;
+    margin: 84px auto 0 auto;
+}
+
+.homepage {
+    margin-top: 133px;
+    padding: 0 1em;
+    font-size: 1.1em;
+
+    h1 {
+        font-size: 48px;
+        line-height: 60px;
+        text-align: center;
+    }
+
+    .text {
+        max-width: 800px;
+        padding: 1em 3em;
+        border-radius: 30px;
+        margin: 0 auto;
+        background-color: var(--color-textbg);
+    }
+}
+
+.site-header {
+    max-width: 1100px;
+    margin: 48px auto 0 auto;
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+
+    h1 {
+        display: flex;
+        align-items: center;
+        font-family: var(--font-header);
+        font-style: normal;
+        font-weight: normal;
+        font-size: 72px;
+        line-height: 149.5%;
+        letter-spacing: 0.075em;
+
+        margin: 0;
+
+        img { width: 64px; height: 64px; margin-right: 0.4em; }
+    }
+
+    h2 {
+        grid-row: 2;
+        grid-column: 1;
+
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 30px;
+
+        margin: -0.2em 0 0 0;
+    }
+
+    nav ul { 
+        grid-row: 1 / 3;
+        grid-column: 2;
+        height: 100%;
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: flex-end;
+
+        list-style: none;
+
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    a:hover {
+        border-bottom: solid 4px var(--color-accent);
+    }
+
+    &::after {
+        content: "";
+        grid-column: 1/-1; /*span all columns */
+        border-bottom: solid 10px var(--color-overlay);
+        position: relative;
+        bottom: -30px;
+    }
+}
+

@@ -1,0 +1,364 @@
+name: Xinyan
+title: Irama Bersenar Api
+type: Voice Lines
+
+-- komentar 
+Xinyan lumayan menarik diterjemahkan karena, baik bahasa Inggris ataupun Jepang ataupun suara Mandarinnya, aksennya memang terdengar jelas berbeda dengan orang lain. Lebih kasar dan lebih "jalanan" begitu. Versi Inggris terutama sangat kreatif dalam membentuk gaya bahasanya sendiri.
+
+Versi resmi Indonesia kurasa terlalu kaku dan canggung, tidak seperti Xinyan dalam bayanganku. Xinyan di versiku banyak menggunakan bahasa yang lebih sehari-hari. Kata-kata yang serasa terlalu "sastra", yang kurasa aneh kalau keluar dari mulutnya, kuganti dengan yang rasanya lebih umum.
+
+Tapi aku maklum aku memang bias sebagai orang Jakarta. Mungkin ada warga non-Jakarta yang merasa Xinyan versi bahasa resmi sudah cukup terdengar seperti anak yang ngamen di jalanan?     
+-- komentar
+
+# Salam
+title:
+id-new = Salam
+en-og = Hello
+id-og = Halo...
+
+-- id-new
+Namaku Xinyan, satu-satunya pemain rock n' roll di Pelabuhan Liyue! Akhir-akhir ini aku banyak kepikiran mau main konser di tempat lain, tapi... Hmm... Dengar-dengar kamu sudah keliling ke banyak tempat ya, Pengembara? Gimana kalau aku ikut tur konser sama kamu? Ke mana saja boleh!
+-- id-new
+
+-- en-og
+Xinyan's the name, an' rock 'n' roll's the game — and I'm the only one who plays it in Liyue Harbor. Been thinking about staging concerts elsewhere lately, but... Hmm... Well, word is that you've been all over the place, Traveler. So, what say you sign me up for your world tour? Anywhere's good!
+-- en-og
+
+-- id-og
+Aku adalah Xinyan, satu-satunya musisi rock 'n' roll di pelabuhan Liyue. Belakangan ini aku sedang berencana untuk mengadakan pertunjukan di tempat lain. Tempat tujuanku selanjutnya... Ah, kudengar kamu sering pergi ke berbagai tempat kan, Pengembara? Biarkan aku ikut denganmu! Aku akan ikut kemana pun kamu pergi.
+-- id-og
+
+# Tentang Xinyan: Menakutkan
+title:
+id-new = Tentang Xinyan: Menakutkan
+en-og = About Xinyan: Frightening
+id-og = Tentang Xinyan: Sangar
+
+-- id-new
+Kamu nggak takut denganku, ya? Banyak orang bilang mataku kayak belati, pakaianku nggak benar, bicaraku terlalu kasar. Aku banyak dijauhi juga, seakan aku hantu atau apa. Memang nggak boleh ya aku hidup dengan gayaku sendiri?
+-- id-new
+
+-- en-og
+Not afraid of me, are you? Some folks say I've got eyes like knives, that I don't wear my clothes right, that I don't speak right. They give me a pretty wide berth, too. Really, can't a girl sport her own style without bein' looked at like she's some weird creature outta who-knows-where?
+-- en-og
+
+-- id-og
+Kamu tidak takut padaku? Heh, banyak yang bilang mataku tajam seperti pisau, baju juga tidak kupakai dengan benar, omonganku juga kasar. Mereka langsung pergi jauh-jauh saat melihatku. Benar-benar... Apakah seorang wanita tidak bisa bergaya dengan bebas, aku juga manusia biasa...
+-- id-og
+
+# Tentang Kita: Para Pemirsa
+title:
+id-new = Tentang Kita: Para Pemirsa
+en-og = About Us: The Audience
+id-og = Tentang Kami: Penonton
+
+-- id-new
+Mau mendengarku main di panggung? Ayo maju ke depan, suaranya bakal lebih bagus dari sini! *ehem*  Tu, wa, ga, oke, mari kita mulai! Langsung dari satu-satunya panggung rock di Liyue!
+-- id-new
+
+-- en-og
+You wanna hear me play? Come to the front — it sounds best from there! *clears throat* Alright then, comin' at you from the one and only rock stage in Liyue!
+-- en-og
+
+-- id-og
+Datang melihat pertunjukanku? Wah, ayo maju ke depan! Duduk di depan lebih asyik, hehe. Kalau begitu, konser rock n roll satu-satunya di Liyue, akan segera dimulai!
+-- id-og
+
+# Tentang Kita: Teman Seperjalanan 
+title: 
+id-new = Tentang Kita: Teman Seperjalanan
+en-og = About Us: Kindred Spirits
+id-og = Tentang Kami: Cocok
+
+-- id-new
+Oh, jadi itu kenapa kita bisa akur! Kamu bukan dari dunia ini, jadi kamu tidak perlu peduli dengan semua aturan yang ada di sini. Memang hidup tuh harusnya begitu! Tidak usah dibatas-batasi, hiduplah bebas!
+-- id-new
+
+-- en-og
+And here I was wonderin' why we got on so well! So you're not from this world, and that's why you don't care for its rules. Now that's how life should be like! Lose the red tape, and live free!
+-- en-og
+
+-- id-og
+Aku masih bingung kenapa aku cocok sekali berbicara denganmu, ternyata kamu bukan datang dari dunia ini, kalau begitu kamu tidak perlu menuruti segala peraturan di dunia ini —— hidup memang harus begitu! Tidak terkekang oleh hal apa pun, bebas melakukan yang kamu.
+-- id-og
+
+# Tentang Kita: Ayo Ikut
+title:
+id-new = Tentang Kita: Ayo Ikut
+en-og = About Us: Invitation
+id-og = Tentang Kita: Undangan
+
+-- id-new
+Aku mau coba menambah rasa-rasa baru ke musik rock n' roll. Mau coba main drum denganku nanti? Ritmemu lumayan bagus... Hah, kamu belum pernah main? Nggak usah dibuat pusing. Yang penting semangatnya, bukan bisa atau enggaknya! Coba aja dulu, pasti kamu bisa! 
+-- id-new
+
+-- en-og
+ I'd sure love to add some extra flavor to my rock 'n' roll. Wanna get on the drums next time? You've got a good sense of rhythm. ...You've never played? Don't sweat it, it's a question of soul, not skill! Give it a go, I just know you'll be great!
+-- en-og
+
+-- id-og
+Sekarang aku sedang ingin memperkaya musik rock n roll-ku. Sebenarnya kamu memiliki bakat membaca ritme, bagaimana kalau kamu jadi pemain drumku? Kamu tidak pernah bermain drum? Jangan khawatir, yang penting bukan teknik, tapi jiwamu. Coba saja dulu, kamu ini benar-benar berbakat!
+-- id-og
+
+# Tentang Visionnya
+title:
+id-new = Tentang Visionnya
+en-og = About the Vision
+id-og = Tentang Vision...
+
+-- id-new
+Kayaknya sih aku satu-satunya di Teyvat yang memakai api dari Vision untuk pertunjukkan rock. Ada yang bilang aku harus lebih menghormati kekuatanku... Tapi menurutku, aku kan sudah dipilih oleh para dewa untuk mendapat Vision ini, jadi berarti mereka memang sudah suka dengan gayaku, kan?
+-- id-new
+
+-- en-og
+I'm guessin' that I'm the only person in Teyvat who uses the fire from their Vision in rock performances. Some say I should respect that power more... But the way I see it, the gods gave the Vision to me, so they like my style, don'cha think?
+-- en-og
+
+-- id-og
+Aku berencana menggunakan api dari Vision milikku untuk iringan musikku, sepertinya belum ada hal seperti ini di Teyvat. Banyak orang yang menceramahiku, katanya aku menggunakan kekuatanku untuk hal yang salah... Menurutku, kalau para dewa sudah memberikan Vision kepadaku, itu berarti mereka juga menyetujui caraku memakainya.
+-- id-og
+
+# Tentang Xiangling
+title:
+id-new = Tentang Xiangling
+en-og = About Xiangling
+id-og  = Tentang Xiangling...
+
+-- id-new
+Aku sering mampir ke Restoran Wanmin malam-malam untuk makan. Kalau Xiangling sedang tidak sibuk, kita bisa mengobrol terus sampai larut malam. Eh? Biasanya aku pesan makanan apa? Anu, sebenarnya, apapun yang Xiangling masak, pasti kumakan! Hahaha! Tidak pernah ada dua masakan Xiangling yang sama. Memang dia itu bintang rock di dunia kuliner!
+-- id-new
+
+-- id-og
+Aku sering pergi ke Wanmin Restaurant untuk makan camilan malam hari, dan kalau Xiangling sedang tidak sibuk dia biasa menemaniku ngobrol hingga larut malam. Ha? Aku biasanya memesan makanan apa? Hmmm, sebenarnya aku makan apa pun yang Xiangling masak untukku, hahaha. Setiap hidangan yang dia masak selalu berbeda, dia benar-benar bisa disebut sebagai seorang bintang di dunia kuliner!
+-- id-og
+
+-- en-og
+I have dinner at the Wanmin Restaurant often. If Xiangling's got some time on her hands, we'll chat till it's real late. Eh? You wanna know what I order? See... I actually eat everything she makes. It's never the same thing, and the flavor's different each time, too. Ooh, she's the rock star of the culinary world, she is!
+-- en-og
+
+# Tentang Zhongli
+title:
+id-new = Tentang Zhongli
+en-og = About Zhongli
+id-og = Tentang Zhongli...
+
+-- id-new
+Jadi dulu, saat belum banyak orang yang mau mendengar musikku, ada orang ini yang mengundangku untuk konser di tempatnya. Aku langsung jadi semangat, kan. Akhirnya ada yang mengerti musikku, begitu! Aku langsung setuju... Tapi saat aku sampai ke tempatnya, ternyata dia konsultan di Rumah Duka Wangsheng. Memangnya pantas main musik rock di situ? Dia memang orang aneh, ya?
+-- id-new
+
+-- en-og
+There was this one fellow who invited me to perform at his place, back when there weren't many who would give my music the time of day. I was touched, let me tell you what. Like, hey, someone gets it! I agreed right away... But when I got there, I found out that he was the consultant at the Wangsheng Funeral Parlor. What a weird guy. I mean, how was that appropriate?
+-- en-og
+
+-- id-og
+Pada awalnya tidak ada orang yang suka mendengar musikku, hingga suatu hari ada seseorang yang mengajakku untuk bermain di tempatnya. Kalau cocok, aku bisa menjadi penyanyi utama di sana. Aku langsung menerima ajakannya dengan penuh semangat, akhirnya ada orang yang mengerti musikku! Tetapi saat aku sampai di tempatnya, aku baru tahu ternyata dia adalah konsultan di Wangsheng Funeral Parlor... Jelas saja musikku tidak cocok! Benar-benar orang yang aneh.
+-- id-og
+
+# Tentang Ningguang
+title:
+id-new = Tentang Ningguang
+en-og = About Ningguang
+id-og = Tentang Ningguang...
+
+-- id-new
+Dulu para Milelith itu selalu merepotkanku. Tidak boleh pasang panggung di sini, tidak boleh konser di sana. Menyebalkan sekali... Ehem. Tapi lalu aku menulis surat ke kantor urusan sipil, dan aku dengar sang Tianquan mengamandemen... ya pokoknya salah satu aturan di Liyue. Beliau menentukan beberapa tempat bisa dijadikan tempat konser asal sudah meminta izin. Huft. Tetap saja repot, kalau kataku, tapi masih lumayan dibandingkan dikejar-kejar terus oleh Milelith...
+-- id-new
+
+-- en-og
+Y'know, the Millelith used to get in my way all the time. Can't set up a stage here, can't perform there. Real bother, it was... Ahem. But after I wrote to the Ministry of Civil Affairs, I heard that the Tianquan amended one of Liyue's... Uh, some rule or something. She designated some spots for performances to take place, so long as you apply. *sigh* It's still a load of trouble if you ask me, but it's better than being harangued by those Millelith every time, so...
+-- en-og
+
+-- id-og
+Apakah kamu tahu tentang Millelith? Dulu mereka sering sekali menghalangiku, selalu bilang kalau di sini tidak boleh membangun panggung, di sana juga tidak boleh, benar-benar merepotkan. Hehe, tetapi setelah kulaporkan mereka ke Bagian Urusan Sipil dan Tianquan merevisi sebuah... Ehmmm, sebuah peraturan lah pokoknya. Mereka menentukan beberapa tempat sebagai tempat khusus pertunjukan, kamu hanya perlu mendaftar saja. Yah... menurutku masih sangat repot, tapi setidaknya aku sudah tidak diusir seperti dulu lagi.
+-- id-og
+
+# Tentang Baizhu
+title:
+id-new = Tentang Baizhu
+en-og = About Baizhu
+id-og = Tentang Baizhu...
+
+-- id-new
+Resep obat dari Dokter Baizhu memang yang paling top untuk merawat suaraku! Dulu aku pernah konser spontan untuknya sebagai tanda terima kasih, tapi lalu ular di lehernya langsung pingsan. Hehe, sekarang dia selalu sembunyi dalam lengan baju si dokter kalau aku datang. Aku baru tahu setelah kejadian itu kalau ular sangat sensatif terhadap getaran.    
+-- id-new
+
+-- en-og
+Dr. Baizhu's prescriptions are the tops at preserving my voice. I did an impromptu performance for him as thanks, but... the snake he keeps around his neck fainted away. Haha, now it ducks up Dr. Baizhu's sleeve every time I'm around. I only discovered afterwards that snakes are very sensitive to vibrations.
+-- en-og
+
+-- id-og
+Obat yang diberikan oleh tuan Baizhu untuk merawat tenggorokanku sangat ampuh. Aku mempersembahkan sebuah lagu untuknya sebagai rasa terima kasihku, tetapi ular yang bertengger di lehernya itu... pingsan. Sekarang setiap kali ular itu melihatku, dia langsung bersembunyi masuk ke dalam kerah tuan Baizhu, hahaha. Sejak saat itu aku tahu bahwa ular sangat sensitif pada getaran.
+-- id-og
+
+# Tentang Beidou
+title:
+id-new = Tentang Beidou
+en-og = About Beidou
+id-og = Tentang Beidou...
+
+-- id-new
+Kak Beidou? Dia tidak pernah sungkan-sungkan bicaranya tapi dia tetap peduli dengan semua orang, jadi kita bisa akur. Petualangan kru Bintang Pari juga hebat-hebat, aku jadi banyak terinspirasi! Aku bahkan pernah menulis lagu khusus tentang mereka. Sekarang, kalau aku menyanyi baris pertamanya saja, semua awak kapalnya pasti langsung ikutan. Sudah jadi syair lautan terbaru, nih.   
+-- id-new
+
+-- en-og
+Her? She speaks her mind and has a big heart, and we get on great. The Crux's adventures are real epic. They've given me tons of inspiration in the past! I even wrote them a song. Nowadays, I just need to sing the first line, and most all the sailors will join in. It's fast becoming a new sea shanty, it is.
+-- en-og
+
+-- id-og
+Dia ya, orangnya selalu berterus terang dan berhati besar, kita berdua sangat cocok. Kisah tentang armada Alcor benar-benar keren, mereka memberiku banyak sekali inspirasi. Aku bahkan menuliskan sebuah lagu khusus untuk mereka. Setiap kali aku mulai menyanyikan lagu itu, semua awak kapal pasti ikut bernyanyi bersamaku. Sepertinya sebentar lagi lagu itu akan menjadi lagu resmi mereka.
+-- id-og
+
+#  Tentang Chongyun
+title:
+id-new = Tentang Chongyun
+en-og = About Chongyun
+id-og = Tentang Chongyun...
+
+-- id-new
+Dia menarik juga, loh. Mungkin kelihatannya dia kalem-kalem saja, tapi pernah suatu hari dia datang ke konserku, diajak temannya kalau nggak salah, dan dia mau bilang sesuatu padaku. Sayangnya aku tidak bisa dengar karena musiknya terlalu kencang, tapi lalu tiba-tiba dia ikut naik ke panggung dan menyanyi keras-keras! Memang isi hati tidak bisa ditebak dari tampangnya, ya.  
+-- id-new
+
+-- en-og
+He's one interesting guy. He looks introverted enough, but there was this one time when he came to one of my performances. A friend brought him or something, and he had some words for me, but I couldn't hear 'em over the music. Before I knew it, he was right up there on the stage with me, singing and rockin' his heart out. Guess you really can't judge a book by its cover!
+-- en-og
+
+-- id-og
+Dia benar-benar orang yang menarik! Dari luar kelihatannya seperti orang pemalu, tetapi waktu itu dia pernah datang ke konserku sekali. Sepertinya dia diajak oleh temannya dan dia ingin mengatakan sesuatu padaku, tetapi suara di panggung terlalu keras sekali. Aku belum sempat mendengar ucapannya, tiba-tiba dia sudah berdiri di atas panggung bersamaku dan bernyanyi sekeras-kerasnya! Benar-benar tidak bisa menilai seseorang dari penampilannya.
+-- id-og
+
+# Tentang Hu Tao
+title:
+id-new = Tentang Hu Tao
+en-og = About Hu Tao
+id-og = Tentang Hu Tao...
+
+-- id-new
+Entah deh apa yang ada di dalam kepalanya. Dia kan kepala Rumah Duka Wangshen, tapi kerjaannya lari sana-sini sambil senyum-senyum dan tertawa-tawa. Dia pernah menyapaku dengan ceria sambil bilang, "Orang-orang yang bermain api adalah jaminan bisnis yang sukses," atau begitu.... Dasar orang aneh.
+-- id-new
+
+-- en-og
+I've no clue what she's thinking, going around looking all happy-clappy like that when she's the head of the Wangsheng Funeral Parlor. Always greets me cheerily too, saying "I like people who play with fire, they're good for business" or somethin' like that... She's a bit bizarre, I tell you.
+-- en-og
+
+-- id-og
+Meskipun dia adalah pimpinan Wangsheng Funeral Parlor, aku benar-benar tidak mengerti kenapa dia bisa begitu ceria setiap harinya. Aku pernah berpapasan dengannya di jalanan dan dia menyapaku dengan lantang dan berkata, "Orang-orang yang senang bermain api adalah jaminan bisnis yang sukses". Dia...sedikit aneh.
+-- id-og
+
+# Tentang Yun Jin
+title:
+id-new = Tentang Yun Jin
+en-og = About Yun Jin
+id-og = Tentang Yunjin...
+
+-- id-new
+Jangan bilang-bilang ya, tapi Yun Jin suka sekali musik rock n' roll, loh. Mau sesibuk apapun dia, dia selalu datang ke konserku seenggaknya tiga kali seminggu. Dia kan kepala grup pergelaran Rumah Teh Heyu, jadi orang pasti mengira dia sukanya dengan seni-seni kelas atas begitu, kan? Haha, mungkin dia sudah muak dengan seni yang itu-itu terus.  
+-- id-new
+
+-- en-og
+Tell you a secret — but you gotta keep it that way, you hear? She's real fond of rock 'n' roll. Comes to watch me at least three times a week no matter how packed her schedule is. You'd think that the head of Heyu Tea House's troupe would be into finer arts and all, eh? But I guess it gets suffocating after a while. Haha.
+-- en-og
+
+-- id-og
+Sini kuberi tahu sebuah rahasia, jangan bilang siapa-siapa ya. Wanita itu adalah penggemar berat rock 'n' roll, tidak peduli seberapa sibuknya dia, dia pasti menyempatkan diri untuk datang ke konserku tiga kali seminggu, bisa lebih, tidak pernah kurang. Padahal lebih masuk akal kalau kepala Heyu Tea House menyukai seni-seni tradisional seperti lukisan-lukisan, bukan? Pasti dia sudah muak dengan semua itu, hahaha.
+-- id-og
+
+-- komentar
+Agak susah mencari padanan untuk "head of Heyu Tea House's troupe" apalagi karena kita belum tahu detail seni yang dilakukan kelompok Yun Jin, ataupun posisi Yun Jin dalam kelompok itu. Versi Jepang dan Perancis hanya menyebut Yun Jin sebagai pemain terdepan di Heyu Tea House, semacam *frontman*, tapi bukan kepala dalam arti manajerial yang diimplikasikan dari "head" dam bahasa Inggris dan tidak pula menyebut kata "Troupe"; hanya menyebut Tea House-nya aja. Sayangnya, aku belum cukup mahir untuk konfirmasi ke versi asli Mandarinnya. :(
+
+Versi Indonesia jelas-jelas salah karena Yun Jin bukan kepala rumah tehnya sendiri (itu Fan Er'ye). Dari drip marketing update 2.3 sih Yun Jin itu "Current Director of Yun Han Opera Troupe"... jadi memang posisinya bos besar, bukan hanya pemainnya?
+
+Kata "Troupe" sendiri juga agak susah dicarinya. Akhirnya yang muncul di kepalaku hanya kata "pagelaran", atau bakunya "pergelaran", yang kesannya lebih tradisional daripada "pertunjukan".
+
+Yawdah, gak usah banyak mikir. Entar jangan-jangan voice line bakal diedit di versi 2.4. (Yun Jin, pulang ya nanti <3)
+-- komentar
+
+# Lebih Dalam Tentang Xinyan: I
+title:
+id-new = Lebih Dalam Tentang Xinyan: I
+en-og = More About Xinyan: I
+id-og = Mengenal Xinyan: I
+
+-- id-new
+Kamu mau lebih kenal denganku? Kamu aneh juga, ya. Kebanyakan orang sih pasti jauh-jauh dariku. Jadi... mulai dari mana, nih? Mau langsung kuajarkan musik rock dulu?
+-- id-new
+
+-- en-og 
+You wanna know more about me? Well, aren't you just odd? Most people would do just the opposite. Well, where should we start? ...Eh, guess we'll start with rock 'n' roll.
+-- en-og 
+
+-- id-og
+Kamu ingin lebih mengerti tentang diriku? Ha, kamu benar-benar aneh, orang-orang biasanya akan pergi jauh-jauh saat melihatku. Baiklah kalau begitu, bagaimana kalau kamu mulai dari... mengenal musik rock n roll-ku terlebih dahulu?
+-- id-og
+
+# Lebih Dalam Tentang Xinyan: II
+title:
+id-new = Lebih Dalam Tentang Xinyan: II
+en-og = More About Xinyan: II
+id-og = Mengenal Xinyan: II
+
+-- id-new
+Waktu aku masih kecil, orang dewasa selalu bilang aku harus lebih seperti perempuan. Aku harus belajar ini, belajar itu, tapi lalu tetap saja aku sering ditegur karena aku tidak bisa mahir semua itu. Beda cerita dengan rock n' roll. Tidak pernah ada yang mengajariku, tapi aku bisa bisa-bisa saja. Lalu orang dewasa selalu bilang ini "kurang perempuan!" Cih. Pikiran mereka memang sempit, ya?
+-- id-new
+
+-- en-og
+Back when I was little, the adults all said I had to be more girly, that I should learn and study all these things. Wasn't ever any good at it, though, and I'd often get roasted bad. Rock 'n' roll's a different story. No one ever taught me, but I can do it just fine. And of course, the adults say "that's unladylike!" *sigh* Talk about prejudice.
+-- en-og
+
+-- id-og
+Sejak aku masih kecil, orang-orang dewasa selalu menyuruhku menjadi lebih feminim, belajar ini, belajar itu, lalu aku akan dimarahi bila aku tidak bisa mempelajarinya. Berbeda dengan rock n roll, aku bisa menguasainya tanpa ada yang mengajariku. Tetapi orang-orang selalu berkata bahwa aku "tidak seperti seorang wanita". Ini baru namanya stereotip.
+-- id-og
+
+# Lebih Dalam Tentang Xinyan: III
+title:
+id-new = Lebih Dalam Tentang Xinyan: III
+en-og = More About Xinyan: III
+id-og = Mengenal Xinyan: III
+
+-- id-new
+Eh, kelihatan tidak? Aku memijat-mijat mukaku agar mulut dan mataku lebih rileks. Aku juga setengah jam latihan di depan cermin agar senyumku lebih halus. Jadi, gimana? Nggak segarang biasanya, kan? ... Hah? Malah lebih seram? Ya sudah, deh...
+-- id-new
+
+-- en-og
+Say, do you notice anything different 'bout me today? I did some facial massages to relax my mouth and eyes, and practiced smiling less broadly in front of a mirror for half an hour. So, how'd it go? Do I look a bit less fierce than usual? ...Even scarier? Huh, okay...
+-- en-og
+
+-- id-og
+Apakah kamu merasa ada yang berbeda dengan diriku hari ini? Demi bertemu denganmu, aku memijat bagian wajahku untuk melemaskan bagian mata dan mulutku sebelum keluar rumah. Aku bahkan berlatih tersenyum di depan kaca selama setengah jam. Bagaimana? Mukaku sudah tidak segarang dulu kan? Apa? Malah semakin garang? Hei...
+-- id-og
+
+# Lebih Dalam Tentang Xinyan: IV
+title:
+id-new = Lebih Dalam Tentang Xinyan: IV
+en-og = More About Xinyan: IV
+id-og = Mengenal Xinyan: IV
+
+-- id-new
+Terima kasih sudah menemaniku latihan! Hampir jam makan siang, nih. Sudah kubuatkan bekal untukmu juga! Ada tomat, sosis, telur ceplok... Hah? "Kok bisa?" H-hei, jangan anggap aku remeh! A-aku juga bisa nyiapin makanan yang imut-imut!
+-- id-new
+
+-- en-og
+Thanks for staying to jam with me! It's almost time for lunch. I've brought your share as well! We've got tomatoes, sausages, fried eggs... Say what? I don't seem like the type? H—Hey now, don't you look down on me. M—Making a nice-looking meal was no problem at all!
+-- en-og
+
+-- id-og
+Terima kasih telah menemaniku latihan! Wah, sudah saatnya makan siang, aku sudah membawakan bekal untukmu juga! Ada tomat, sosis, telur goreng... Apa? Aku tidak kelihatan seperti orang yang bisa memasak? Ja, jangan meremehkanku! Aku juga bisa memasak bekal yang sedikit... imut.
+-- id-og
+
+# Lebih Dalam Tentang Xinyan: V
+title:
+id-new = Lebih Dalam Tentang Xinyan: V
+en-og = More About Xinyan: V
+id-og = Mengenal Xinyan: V
+
+-- id-new
+Aku percaya dengan jiwa pemberontakan yang ada dalam rock n' roll, tapi itu bukan berarti kita harus memaksakannya ke depan orang-orang. Aku bisa kok hidup seperti orang biasa. Aku bisa menjahit, menanam bunga, memelihara ikan, menyiapkan makanan yang lucu. Aku bebas untuk suka dengan apapun... dan siapapun, kan?   
+-- id-new
+
+-- en-new
+I believe in rock 'n' roll's spirit of resistance, but I don't think it means that I have to go around shoving it in people's faces. I'm perfectly capable of living normally. I can sew, I can grow flowers and keep fish, and make nice-looking meals. I'm allowed to like anything... or anyone I want, right?
+-- en-new
+
+-- id-og
+Aku percaya pada jiwa kegigihan rock n roll, tapi bukan berarti aku harus memaksa orang untuk menyukai musikku. Aku juga tetap bisa hidup dengan normal, bisa menjahit, bisa menanam bunga, memelihara ikan, dan membuat bekal yang lucu. Aku bebas untuk menyukai hal apa pun... atau siapa pun, kan?
+-- id-og
+

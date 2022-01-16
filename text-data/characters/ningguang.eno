@@ -1,0 +1,418 @@
+name: Ningguang
+title: Bintang Pembayang Bulan
+type: Voice Lines
+
+-- komentar
+Ningguang kupilih menjadi tokoh kedua yang kuterjemahkan karena karakternya bertolak belakang dengen Xinyan (tokoh pertama yang kuterjemahkan). Ningguang kesannya lebih formal, lebih dewasa, lebih "kelas atas".
+
+Tadinya kucoba Ningguang memakai "saya", tapi setelah dirasa-rasai lagi, kayaknya Ningguang cocok-cocok saja kalau pakai "aku". "Saya" terasa terlalu merendahkan diri sedangkan Ningguang toh kan bos besar di Liyue.
+
+"Kamu" rasanya terlalu keras, jadi Ningguang pakai "engkau", yang rasa-rasanya lebih formal? Tapi dia bisa pakai "kamu" ke teman, jadi kadang kumunculkan untuk voice line yang butuh Friendship Level tinggi. 
+
+Versi resmi bahasa Indonesia untuk Ningguang ini sejujurnya sudah lumayan bagus; beberapa baris mungkin lebih bagus daripada versiku. Tapi ada juga beberapa yang :) patut dipertanyakan :) :). Silakan baca yang sudah saya pasangi komentar, ya.
+-- komentar
+
+# Salam
+title:
+id-new = Salam
+en-og = Hello
+id-og = Halo...
+
+-- id-new
+Namaku Ningguang, Tianquan dari Qixing. Ada yang ingin engkau transaksikan denganku? Jadilah pengawal pribadiku, dan akan kuperlihatkan cara engkau bisa makin sukses di Liyue.
+-- id-new
+
+-- en-og
+I am Ningguang, Tianquan of Qixing. You wish to trade? You be my personal bodyguard, and I will show you how to get ahead in Liyue.
+-- en-og
+
+-- id-og
+Aku Ningguang, Tianquan dari Qixing. Apa kamu ingin bertransaksi? Kamu bisa menjadi pengawalku dan akan kutunjukkan cara agar kamu bisa sukses di Liyue.
+-- id-og
+
+-- zh-cn
+我是七星之「天权」，凝光。要做个交易吗？你来做我的贴身侍卫，而我，会教导你在璃月出人头地的技巧。
+-- zh-cn
+
+
+# Tentang Ningguang: Sudut Pandang
+title:
+id-new = Tentang Ningguang: Sudut Pandang
+en-og = About Ningguang: Worldview
+id-og = Tentang Ningguang: Sudut Pandang
+
+-- id-new 
+Baik dalam urusan tawar-menawar sehari-hari maupun dalam perang dagang terbuka, keberanian dan kemampuanmu hanyalah faktor-faktor kecil. Untuk memenangkannya, engkau harus tahu lebih dulu apa saja yang diketahui musuh. 
+-- id-new
+
+-- en-og
+Be it simple price negotiation or a full-blown trade war, momentum and bargaining chips are but minor factors. To win, you need to be first to find out what cards your opponent is holding.
+-- en-og
+
+-- id-og
+Entah itu negosiasi sederhana atau perang dagang terbuka, momentum dan tawar menawar merupakan faktor kecil. Untuk bisa menang, kamu harus tahu kartu yang akan dimainkan oleh lawan.
+-- id-og
+
+# Tentang Ningguang: Kesan
+title:
+id-new = Tentang Ningguang: Kesan
+en-og = About Ningguang: Impression
+id-og = Tentang Ningguang: Kesan
+
+-- id-new 
+Kesanmu tentangku sudah berubah? Haha. Ya, memang pada awalnya kami membutuhkan kekuatanmu, jadi sudah sepantasnya aku berusaha ramah denganmu. Tapi sekarang kita adalah mitra dalam kontrak yang penting, jadi bisa kita buang semua formalitas itu.
+-- id-new
+
+-- en-og
+Your impressions of me have changed? Haha, well, at first I required your strength, so naturally I had to be as cordial as possible. But now that we are partners bound by contract, we may do away with such pretentious formalities.
+-- en-og
+
+-- id-og
+Kamu merasa kesanmu tentang diriku sudah berbeda? Heh, waktu itu aku membutuhkan bantuanmu, tentu saja aku harus berpura-pura ramah. Tetapi sekarang aku sudah menjadikanmu partner dalam kontrak penting. Sebagai partner, kita sudah tidak perlu memalsukan perasaan lagi.
+-- id-og
+
+# Tentang Kita: Rumor
+title:
+id-new = Tentang Kita: Rumor
+en-og = About Us: Rumors
+id-og = Tentang Kita: Rumor
+
+-- id-new
+Tentunya engkau sudah mendengar banyak rumor tentangku? Aha... Orang semacam apakah aku? Biar kuserahkan pada dirimu sendiri untuk menentukan... Tentu saja, penilaianmu juga akan menjadi bagian dari rumor yang ada.
+-- id-new
+
+-- en-og 
+I suppose you've heard enough rumors about me. Hehe... What kind of person am I? I shall leave that for you to decide... Of course, your judgement will become a part of the rumor.
+-- en-og
+
+-- id-og
+Sepertinya kamu telah mendengar banyak rumor tentangku. Hehe... orang seperti apa diriku? Biar dirimu sendiri saja yang menilai... tentu saja, penilaianmu juga akan menjadi bagian dari rumor itu.
+-- id-og
+
+# Tentang Kita: Perhatikan
+title:
+id-new = Tentang Kita: Perhatikan
+en-og = About Us: Observing
+id-og = Tentang Kita: Observasi
+
+-- id-new
+Kita sudah bersama cukup lama sekarang. Aku kamu sudah belajar untuk memerhatikan? Kalau begitu, perhatikanlah aku. Perhatikan hingga kamu bisa menjadi pendampingku yang paling kupercaya.
+-- id-new
+
+-- en-og
+You've been with me for some time now. Have you learned to observe? Then observe me. Observe me right down to my very core.
+-- en-og
+
+-- id-og
+Kamu sudah lama bersamaku. Apa kamu sudah belajar dan mengamati? Amati saja aku. Amati aku sampai ke dalam-dalamnya.
+-- id-og
+
+# Tentang Kita: Bilik Giok
+title:
+id-new = Tentang Kita: Bilik Giok
+en-og = About Us: Jade Chamber
+id-og = Tentang Kita: Jade Chamber
+
+-- id-new
+Kemarilah, berdiri di sebelahku. Apa kamu lihat Bilik Giok di atas sana? Awalnya hanya ada satu ruangan di bangunan itu, tapi sekarang ia bisa membayangi seluruh Liyue. Suatu hari nanti, ia juga akan membayangi ketujuh negeri di Teyvat, dan pada hari itu kamu juga akan berdiri di sebelahku.
+-- id-new
+
+-- en-og
+Come forward, stand beside me. Do you see the Jade Chamber? At first it was just a room, and now it clouds Liyue. When the time comes that it hangs above all of the seven nations, you shall stand by my side on that day too.
+-- en-og
+
+-- id-og
+Kemarilah dan berdiri di sampingku. Apa kamu melihat Jade Chamber? Pada awalnya itu hanya sebuah ruangan, namun sekarang bisa menutupi langit di atas Liyue. Ketika saatnya tiba bahwa Jade Chamber akan menutupi seluruh langit di tujuh benua, kamu juga akan berdiri di sisiku pada hari itu.
+-- id-og
+
+# Tentang Visionnya
+title:
+id-new = Tentang Visionnya
+en-og = About the Vision
+id-og = Tentang Vision...
+
+-- id-new
+Kita tidak perlu menggunakan Vision untuk urusan yang bisa diselesaikan dengan Mora. Sedangkan urusan yang bisa diselesaikan dengan Vision... Hanya ada satu hal yang muncul di benakku.
+-- id-new
+
+-- en-og
+There's no need to use a Vision in affairs that Mora can solve. As far as affairs only a Vision can solve go, I know of only one...
+-- en-og
+
+-- id-og
+Tidak perlu menggunakan Vision untuk urusan yang bisa diselesaikan oleh Mora. Adapun hal-hal yang tidak bisa diselesaikan oleh Mora dan harus memakai Vision, sejauh ini aku hanya tahu satu hal saja.
+-- id-og
+
+# Yang Ingin Diceritakan: Bandar
+title:
+id-new = Yang Ingin Diceritakan: Bandar
+en-og = Something to Share: Banker
+id-og = Berbagi Cerita: Bandar
+
+-- id-new
+Pejudi selalu memasang harapan pada gulungan dadu berikutnya... Tapi pada akhirnya selalu para bandar judi yang diuntungkan meskipun mereka tidak pernah menyentuh satupun dadu.  
+-- id-new
+
+-- en-og
+Gamblers always place their bets on the next dice roll... But the bankers always have the last laugh, and they never touch a single die.
+-- en-og
+
+-- id-og
+Penjudi akan selalu menggantungkan harapan mereka pada dadu berikutnya... Tapi pada akhirnya, tentu saja, pedagang yang tidak pernah menyentuh dadulah yang akan selalu menghasilkan uang.
+-- id-og
+
+-- komentar
+Versi Jepang menyebutnya 庄家 sedangkan versi Mandarin menyebutnya 荘家... Dua-duanya tidak ada di kamus bahasa Jepang dan bahasa Mandarin yang kupakai. Terka-terka dari Kanji/Hanzinya, itu hubungannya dengan "rumah". Terka-terka dari isinya, mungkin maksudnya pemilik rumah judi. Di bahasa Inggris menggunakan "Banker"; udah kerasa nih si penerjemah udah stres, gak tahu lagi mau gimana. Dalam bahasa Inggris, istilah yang dipakai paling "House" seperti "The House always win", tapi di luar konteks rasanya ambigu.
+
+Judul di versi resmi bahasa Indonesia menggunakan "bandar", dan ini big brain sekali, aku rasanya langsung tercerahkan. "Bandar" ada di KBBI dengan arti sebagai penyelenggara/pembiaya penjudian. Tapi entah kenapa terjemahan sempurna ini gak dipakai di teksnya sendiri? Kalian kenapa?  
+-- komentar
+
+# Yang Ingin Diceritakan: Tujuan
+title:
+id-new = Yang Ingin Diceritakan: Tujuan
+en-og = Something to Share: Goal
+id-og = Ada yang Mau Dibagikan: Target
+
+-- id-new
+Kepergian Rex Lapis akan menjadi ujian yang berat baik bagi para Qixing maupun kota Liyue. Sudah lama sekali sejak ada urusan yang sampai membuatku tidak bisa tidur seperti urusan ini. Walaupun begitu, aku tidak akan lupa akan tujuanku. Akan ada hari nanti ketika Bilik Giok membanyangi Teyvat dari ujung ke ujung.
+-- id-new
+
+-- en-og
+The departure of Rex Lapis will be no small test for both the Qixing and the city of Liyue. Seldom has any matter kept me tossing and turning at night like recent events. Nevertheless, I shall not lose sight of my goal. There will come a day when the shadow cast by the Jade Chamber reaches every end of Teyvat.
+-- en-og
+
+-- id-og
+Kepergian Rex Lapis merupakan cobaan berat bagi Liyue dan Qixing. Aku juga sudah lama tidak merasa gundah seperti ini.
+
+Tetapi, aku tidak akan menyerah untuk mencapai tujuanku. Suatu hari nanti, aku pasti akan membuat bayang-bayang Jade Chamber menutupi ketujuh bangsa——
+-- id-og
+
+# Serba-Serbi
+title:
+id-new = Serba-Serbi
+en-og = Interesting Things
+id-og = Rumor yang menarik...
+
+-- id-new
+Tulisan-tulisan kuno Liyue banyak membahas keindahan Bakung Kaca. Sayangnya, pada masa kini bunga itu sudah berada di ambang kepunahan dan hanya bisa dilihat di Teras Yujing. Karena itu, harganya pun melambung tinggi.
+-- id-new
+
+-- en-og
+In Liyue's ancient texts, there's no shortage of mentioning the beauty of the glaze lily, but in the modern era, the flower is on the brink of extinction. Now they can only be found in Yujing Terrace, and as such to come with a hefty price tag.
+-- en-og
+
+-- id-og
+Dalam teks kuno Liyue, semuanya selalu menyebutkan keindahan glaze lily, namun pada era modern sekarang ini, bunga itu di ambang kepunahan. Sekarang mereka hanya dapat ditemukan di Yujing Terrace, dan dengan harga yang sangat mahal.
+-- id-og
+
+-- komentar
+Sejujurnya, aku kurang mengerti yang dimaksud Ningguang di sini. Glaze Lily juga ada di Desa Qingce kok? Di wilayah bawahnya kota Liyue juga ada? Jadi bunganya mahal karena langka atau mahal harus ke Yujing dulu baru bisa lihat? Emangnya ke Yujing mesti bayar tiket masuk dulu? Atau maksudnya karena harus berpakaian/beretika kelas atas gitu baru bisa bebas masuk ke sana? Sengaja ambigukah? Jangan-jangan nih versi bahasa Inggris dan bahasa Indonesia aja yang ngawur?  
+-- komentar
+
+# Tentang Beidou: Denda
+title: 
+id-new = Tentang Beidou: Denda
+en-og = About Beidou: Fines
+id-og = Tentang Beidou: Denda
+
+-- id-new
+Ah... Kapten kapal itu. Memang banyak yang mengaguminya, tapi dia juga senang sekali melanggar aturan. Jika ditotalkan, semua denda yang sudah dibayarnya bisa cukup untuk membeli satu kapal baru.
+-- id-new
+
+-- en-og
+That... captain. She clearly receives the adoration of many, but will always be the first to disregard the rules. The fines she has paid would be enough to buy her a whole new ship...
+-- en-og
+
+-- id-new
+Kapten itu, dia jelas-jelas mendapatkan banyak hormat dari orang-orang, tapi selalu saja menjadi orang pertama yang mengabaikan aturan. Denda yang dia bayar sebenarnya cukup untuknya membeli sebuah kapal baru.
+-- id-new
+
+# Tentang Beidou: Perilaku
+title:
+id-new = Tentang Beidou: Perilaku
+en-og = About Beidou: Attitude
+id-og = Tentang Beidou: Perilaku
+
+-- id-new
+Memang tidak ada orang lain yang seperti dia. Tidak peduli berapa kali aku menegurnya, tetap saja dia bertindak seenaknya sendiri. Ah, sudahlah. Tolong jauhkan Kapten Beidou itu dariku.
+-- id-new
+
+-- en-og
+Perhaps you've never heard me speak like this. All that can be said has been said — both the good and the bad — but she still does as she pleases. Forget it. Keep Beidou out of my sight.
+-- en-og
+
+-- id-og
+Mungkin kamu tidak pernah mendengarku berbicara seperti ini. Semua yang harus dikatakan sudah dikatakan, yang baik dan yang buruk, namun dia masih saja bertindak seenaknya. Ah sudahlah lupakan saja, tolong jauhkan Beidou dariku.
+-- id-og
+
+-- komentar
+Versi resmi bahasa Indonesia ini jelas merupakan terjemahan langsung dari versi bahasa Inggris: dua-duanya sama-sama terdengar aneh dengan cara yang sama. Kalau dari baca-baca/terka-terka versi bahasa Jepang dan Mandarin dan sampai Perancis pun kujamah, di sini Ningguang bercerita kalau dia belum pernah bertemu orang yang seperti si Beidou ini, yang sampai ditegur berkali-kali dengan cara macam-macam pun ("mau baik ataupun buruk") tetap saja seenaknya sendiri.
+
+Kalau ada yang bisa bahasa Mandarin dan bisa mengoreksi, tolong pencerahannya.
+-- komentar
+
+# Tentang Zhongli
+title:
+id-new = Tentang Zhongli
+en-og = About Zhongli
+id-og = Tentang Zhongli
+
+-- id-new
+Zhongli... dari Rumah Duka Wangsheng? Dia sangat berpengalaman akan banyak hal, bahkan hal-hal yang tidak diketahui orang lain... Tetapi hingga aku tahu kelemahannya, aku tidak akan bisa memanfaatkannya.
+-- id-new
+
+-- en-og
+Zhongli... Of the Wangsheng Funeral Parlor. He's very versed in a great deal of affairs. Although... such excellent pawns are of no use to me until I know their weaknesses.
+-- en-og
+
+-- id-og
+Zhongli... dari Wangsheng Funeral Parlor. Dia sangat berpengalaman dalam banyak urusan. Meskipun... bidak seperti itu tidak berguna bagiku sampai aku tahu kelemahannya.
+-- id-og
+
+
+# Tentang Xingqiu
+title:
+id-new = Tentang Xingqiu
+en-og = About Xingqiu
+id-og = Tentang Xingqiu
+
+-- id-new
+Putra kedua dari Perserikatan Dagang Feiyun. Seseorang sepertinya seringkali tidak tahan melihatku, tapi itu bisa dimengerti. Aku pun tidak ingin mengganggunya. Biarkanlah dia dengan jalannya sendiri, dan aku dengan jalanku.
+-- id-new
+
+-- en-og
+The second son of the Feiyun Commerce Guild. People like him can't stand the sight of me, which is only to be expected. I have no intention of troubling him either. Those who have different beliefs should not work together.
+-- en-og
+
+-- id-og
+Putra kedua dari Feiyun Commerce Guild. Orang sepertinya tidak akan tahan denganku, sesuai dugaan. Aku juga tidak berniat untuk menyusahkannya. Mereka yang mempunyai kepercayaan berbeda sebaiknya jangan bekerja sama.
+-- id-og
+
+# Tentang Ganyu
+title:
+id-new = Tentang Ganyu
+en-og = About Ganyu
+id-og = Tentang Ganyu
+
+-- id-new
+Seseorang tidak sepatutnya terlalu tergantung pada orang lain, walaupun orang itu Ganyu. Ada peribahasa di Liyue yang berbunyi, "Dalam seratus rancangan sempurna, pasti ada satu celanya". Karena itu, ketika ada masalah penting yang harus diselesaikan, akan lebih baik jika kuurus secara pribadi.
+-- id-new
+
+-- en-og
+One cannot afford to be overly reliant on others — even when it comes to Ganyu. There is a Liyue saying which goes, "Even the most meticulous can fall prey to happenstance." When there are more important affairs to deal with, it is always safer to investigate and resolve it personally.
+-- en-og
+
+-- id-og
+Seseorang seharusnya jangan terlalu bergantung pada orang lain, bahkan kepada Ganyu sekalipun. Ada pepatah di Liyue yang berkata, "Butuh seratus orang untuk menjaga rahasia, namun hanya butuh satu orang untuk membocorkannya." Jadi ketika ada masalah penting untuk diselesaikan, akan lebih baik jika kita menginvestigasi dan menyelesaikannya sendirian saja.
+-- id-og
+
+-- komentar
+Voice line "Tentang Ganyu" ini sungguh *cursed cursed double cursed*. 
+
+Peribahasa yang disebutkan di sini berbeda untuk tiap versi bahasa resmi di Genshin. Padahal sudah disebutkan itu peribahasa khusus Liyue jadi gapapa toh kalau rasanya aneh di bahasa lain? "In Indonesia we have a saying which goes 'An empty barrel makes a loud sound'.". Kedengerannya aneh kalau terjemahan langsung tapi yowess emang peribahasanya gitu toh? Tinggal tambah konteks lagi kalau butuh. 
+
+Belum lagi dalam versi bahasa yang beda arti peribahasanya pun bisa beda. Di versi Jepang artinya kurang lebih "seseorang yang ahli pun bisa gagal", close enough lah. Nah, versi Indonesia (dan kebetulan Perancis juga) gagal paham: malah ngebahas rahasia-rahasiaan. 
+
+Setelah konsultasi dengan temanku yang penerjemah bahasa Mandarin-Inggris (Thanks @SiriusWolfHS!), peribahasa yang ada di versi Mandarin original memang suatu peribahasa yang dipakai IRL di China. Ini peribahasa yang cukup kuno dan memang kalau melihat Hanzinya ada kata "rahasia" walau bukan itu maksudnya, jadi dia maklum kalau ada penerjemah yang salah menanggapi.  
+
+Peribahasa yang kupakai di sini kuadaptasi dari terjemahan bahasa Inggris darinya, jadi mungkin sudah lewat filter-filter lagi tapi seenggaknya lebih mendekati rasa aslinya. Kurasa arti peribahasanya sudah cukup jelas, jadi Ningguang tidak perlu menjelaskan lagi ke si Pengembara.
+-- komentar
+
+# Lebih Dalam Tentang Ningguang: I
+title:
+id-new  = Lebih Dalam Tentang Ningguang: I
+en-og = More About Ningguang: I
+id-og = Mengenal Ningguang: I
+
+-- id-new
+Kalau denganmu, tidak perlu kita menegakkan formalitas. Lebih santailah denganku, tapi kuharap engkau tetap menghormati waktuku. Jika ada yang ingin disampaikan, langsung saja. Tidak ada waktuku yang bisa kubuang.
+-- id-new
+
+-- en-og
+Seeing as it's you, there's no need to keep up the formalities. You can be a little more casual. But I still ask that you respect my time. If you have something to say, be concise — I have no time to waste.
+-- en-og
+
+-- id-new
+Kalau kamu, tidak perlu bersikap formal. Santai saja, tapi kuharap kamu menghargai waktuku. Jika ada yang ingin disampaikan, langsung saja. Aku tidak punya banyak waktu.
+-- id-new
+
+# Lebih Dalam Tentang Ningguang: II
+title:
+id-new = Lebih Dalam Tentang Ningguang: II
+en-og = More About Ningguang: II
+id-og = Mengenal Ningguang: II
+
+-- id-new
+Anak-anak memiliki pikiran yang paling jernih, sehingga berita dari mereka juga kuanggap yang paling berharga. Bagaimana denganmu? Berita apa yang bisa engkau sampaikan padaku?
+-- id-new
+
+-- en-og
+I've always believed that children are the most naive and innocent. The reports they give me are of the most value. So, what about you? What will you have for me?
+-- en-og
+
+-- id-og
+Aku percaya bahwa anak-anak itu naif dan polos. Laporan yang mereka berikan padaku adalah yang paling berharga. Jadi bagaimana denganmu? Apa yang akan kamu tawarkan padaku?
+-- id-og
+
+-- komentar
+Versi Inggris dan versi resmi Indonesia sama-sama rancu maknanya: kalau naif, kata dengan konotasi negatif, kok jadi yang paling berharga? Setelah konfirmasi ke bahasa lain, aku ketemu kata "jernih" i.e. belum terbebani urusan dewasa, yang sepertinya lebih cocok. 
+-- komentar
+
+# Lebih Dalam Tentang Ningguang: III
+title:
+id-new = Lebih Dalam Tentang Ningguang: III
+en-og = More About Ningguang: III
+id-og = Mengenal Ningguang: III
+
+-- id-new
+Ada yang sedang kupikirkan akhir-akhir ini. Jika aku menahanmu agar tidak pergi dari Liyue... pada saat yang tepat, kota ini mungkin bisa... Tapi semua ini hanya terka-menerka saja. Sebaiknya kupikirkan dulu apakah ini sepadan dengan usaha yang harus kulakukan.
+-- id-new
+
+-- id-og
+Akhir-akhir ini aku sedang memikirkan sesuatu. Jika kamu tetap berada di Liyue, mungkin ... jika saatnya tiba, aku bisa memanfaatkan kota ini untuk ... Untuk sekarang, ini hanya dugaan belaka saja. Aku pikir sampai benar-benar matang apakah investasi ini berharga atau tidak.
+-- id-og
+
+-- en-og
+I've been thinking about something lately. If I were to keep you in Liyue, perhaps... at the right time, I might be able to leverage this city to... For now, it's mere conjecture. I should really consider whether the investment is worth it some more.
+-- en-og
+
+-- komentar
+Setelah kuperiksa ke beberapa versi, memang kalimat ini ambigu. Antara kotanya yang diubah dengan memanfaatkan si Pengembara, atau kotanya yang dimanfaatkan untuk melakukan hal lain, atau si Pengembara yang diubah, entahlah. Kalau ada yang bisa bahasa Mandarin, tolong pencerahannya.
+-- komentar
+
+# Lebih Dalam Tentang Ningguang: IV
+title:
+id-new = Lebih Dalam Tentang Ningguang: IV
+en-og = More About Ningguang: IV
+id-og = Mengenal Ningguang: IV
+
+-- id-new
+Silakan belajar dariku cara menggunakan Mora untuk mempermudah urusanmu. Tapi ingatlah, hubungan yang dibangun dari Mora tidak akan selalu bisa diandalkan... Dan itulah mengapa aku tidak pernah membawa Mora ke dalam hubungan kita.
+-- id-new
+
+-- en-og
+You can learn from me, and use Mora to make things a little easier on yourself. But remember, relationships built on Mora can only be relied on for a time. Hehe... And that is why I have never brought Mora into our relationship.
+-- en-og
+
+-- id-og
+Kamu bisa belajar dariku, manfaatkan Mora untuk membuat segala sesuatunya jadi lebih mudah. Tapi ingat, hubungan yang terjalin karena Mora itu hanya sementara. Hehe ... Karena itulah aku tidak pernah membawa Mora ke dalam hubungan kita.
+-- id-og
+
+# Lebih Dalam Tentang Ningguang: V
+title:
+id-new = Lebih Dalam Tentang Ningguang: V
+en-og = More About Ningguang: V
+id-og = Mengenal Ningguang: V
+
+
+-- id-new
+Ini sungguh investasi yang menguntungkan. Memang benar tidak ada satupun Mora yang kudapatkan dari hubungan ini, tapi waktu yang kuhabiskan denganmu sudah menjadi imbalan yang sepadan bagiku. Haha, sepertinya aku menang lagi kali ini... Aku memang sudah bertaruh pada orang yang tepat.
+-- id-new
+
+-- en-og
+This is truly a great investment. Sure, no Mora has been made from it, but the time I've spent with you is already a solid return. Haha, seems I win again - I put my money on the right person.
+-- en-og
+
+-- id-og
+Ini benar-benar investasi yang bagus. Memang tidak ada Mora yang dihasilkan, tapi waktu yang kuhabiskan bersamamu adalah imbalan yang sangat baik. Haha, sepertinya aku menang lagi. Aku bertaruh pada orang yang tepat.
+-- id-og

@@ -1,0 +1,470 @@
+name: Zhongli
+title: Pengelana Dunia Fana
+type: Voice Lines
+
+-- komentar
+Ah... Zhongli... Beliau mungkin salah satu karakter yang paling menarik untuk diterjemahkan. Lebih-lebih karena suara versi Mandarin, Jepang, dan Inggris, semuanya memiliki "rasa" yang berbeda (saya kurang terbiasa bahasa Korea jadi belum bisa menerka rasa dalam bahasa itu, maap). Dalam ketiganya, Zhongli terdengar sudah tua dan menggunakan gaya bahasa lama, tapi lalu variasinya beda-beda jauh. 
+
+Dalam rasa original bahasa Mandarin, dia terdengar berwibawa, terhormat, tetapi lembut sekali. Dia kesannya sangat penyayang yang juga sangat sedih karena banyak terbebani ingatan masa lalu. Dalam bahasa Inggris dia *boomer*, orang tua yang gagap masa modern dan suka dijadikan bahan ejekan. Dalam bahasa Jepang justru kebalikannya: dia dewa perang 100%, percaya diri, sanggup mengalahkan semua orang, versi nyata meme ini: "please stop praying for my grandpa!! you are making him too strong. he broke out of the hospital and the cops cant get him. he's too powerful".
+
+Old man (affectionately) vs old man (deragatory) vs old man (broke out of the hospital)
+
+Dalam versi bahasa Indonesia ini saya banyak mengambil rujukan dari sastra Indonesia lama, jadi kesannya mungkin seseorang yang berwibawa, tapi dari tahun-tahun terdahulu dan sudah tidak cocok dengan generasi sekarang. Mungkin hasilnya jadi melenceng jauh dari versi resmi bahasa Indonesia ya, haha.
+
+Untuk kata gantinya saya membuatnya memakai "Saya" dan "Anda". Selain karena dia *old-fashioned*, Zhongli juga bukan tipe yang memajukan dirinya sendiri, jadi kurasa ini lebih cocok daripada "Aku" / "Kamu" bahkan dalam percakapannya sehari-hari.
+-- komentar
+
+# Salam
+title:
+id-new = Salam
+en-og = Hello
+id-og = Halo...
+zh-cn = 初次见面…
+
+-- id-new
+Kontrak yang baru? Baiklah. Saya masih sedang rehat, tapi saya bisa menemani Anda untuk sementara waktu. Nama yang tertera di dalam kontrak? Ada banyak nama yang saya pakai saat masa rehat... Tapi silakan memanggil saya Zhongli. Sedangkan Anda sendiri, Pengembara? Nama apa yang akan tertera dalam kontrak ini? 
+-- id-new
+
+-- en-og
+A new contract? Okay. I'm still on leave, but I can accompany you for a while. What name should I use on the contract? I have a great many names, though when on leave... I tend to go by Zhongli. And you, Traveler? What name will you be signing on this contract?
+-- en-og
+
+-- id-og
+Sebuah kontrak baru? Baiklah... meskipun aku sedang berlibur, tapi tidak ada salahnya menemanimu sebentar. Nama apa yang harus kutulis di atas kontrak ini? Aku memiliki banyak nama, misalnya saat aku sedang berlibur, orang-orang memanggilku "Zhongli". Bagaimana denganmu, Pengembara? Nama apa yang akan kamu tuliskan?
+-- id-og
+
+-- zh-cn
+一份新的「契约」？好吧…虽然我还在度假，但也可以陪你走一趟。契约书上，该签什么名字呢？我有许多名字，度假期间的话…我会自称「钟离」。你呢，旅行者？你会签下什么名字？
+-- zh-cn
+
+# Tentang Zhongli
+title:
+id-new = Tentang Zhongli
+en-og = About Zhongli
+id-og = Tentang Zhongli sendiri...
+zh-cn = 关于钟离自己…
+
+-- id-new
+Tanpa adanya aturan, tidak akan ada yang bisa dicapai. Baik manusia maupun adepti, semua memiliki perannya sendiri. Hanya dengan inilah perdamaian bisa terwujud di Liyue. 
+-- id-new
+
+-- en-og
+Nothing can be accomplished without rules or standards. No matter if it is mortals or adepti, everyone has their place. This rule keeps Liyue in peace.
+-- en-og
+
+-- id-og
+Ikuti peraturan, taati hukum. Setiap manusia ataupun Adeptus memiliki peran masing-masing untuk menjaga kedamaian Liyue.
+-- id-og
+
+-- zh-cn
+不以规矩，不能成方圆。不管是常人还是仙人，惟有各司其职，方能保璃月长久太平。
+-- zh-cn
+
+# Tentang Kita: Emas
+title:
+id-new = Tentang Kita: Emas
+en-og = About Us: Gold
+id-og = Tentang Kita: Emas
+zh-cn = 关于我们・黄金
+
+-- id-new
+Emas adalah kekayaan utama Liyue yang mengalir bagaikan darah dalam jantung kota ini. Sedangkan jantung Anda sendiri, Pengembara, masih harus kita lihat apakah juga bersinar seperti emas.
+-- id-new
+
+-- en-og
+Gold is Liyue's treasure. It is the blood that runs through her heart. As for whether your own heart shines like gold — we will have to wait and see.
+-- en-og
+
+-- id-og
+Emas adalah kekayaan utama Liyue, bagaikan darah yang membuat jantung Liyue berdetak. Biar kulihat dengan mataku sendiri, apakah kamu memiliki hati yang bersinar bagaikan emas?
+-- id-og
+
+-- zh-cn
+黄金是璃月的财富，是令璃月的心脏搏动的血液。你是否拥有黄金般闪耀的心，就让我拭目以待吧。
+-- zh-cn
+
+# Tentang Kita: Kontrak
+title:
+id-new = Tentang Kita: Kontrak
+en-og = About Us: Contracts
+id-og = Tentang Kita: Persetujuan
+zh-cn = 关于我们・契约
+
+-- id-new
+Sudah ada kontrak di antara kita berdua, jadi silakan bertanya tentang apapun yang berada dalam cakupan kontrak tersebut.
+-- id-new
+
+-- en-og
+You and I have a contract, so feel free to discuss anything at all within the scope of said contract.
+-- en-og
+
+-- id-og
+Aku dan kamu terikat oleh sebuah kontrak——Maka kita dapat mendiskusikan semua hal yang berhubungan dengan kontrak itu.
+-- id-og
+
+-- zh-cn
+你我既有「契约」之交——那么凡在契约范围内的事，都可同我商量。
+-- zh-cn
+
+-- komentar
+Aku banyak debat dengan diri sendiri, apakah "contract" (契约) dijadikan "perjanjian" atau "persetujuan" atau dibiarkan saja "kontrak"? Kata "kontrak", selaku kata serapan, rasanya kurang "berwibawa". Tapi itu juga kata dengan arti yang paling jelas maksudnya: dua pihak yang menandatangani sesuatu yang mengikat. Morax sukanya yang jelas-jelas, kan?
+
+Akhirnya, ya sudah deh, kontrak aja. Paling pendek pula, ehe.
+-- komentar
+
+# Tentang Kita: Adil
+title:
+id-new = Tentang Kita: Adil
+en-og = About Us: Fairness
+id-og = Tentang Kita: Keadilan
+zh-cn = 关于我们・公平
+
+-- id-new
+Kita juga bisa membicarakan hal-hal di luar kontrak. Saya sudah cukup lama berada di tanah ini, dan saya pun sudah tahu akan berbagai macam hal. Tentu saja, saya juga berharap Anda bisa membantu saya, Pengembara. Barulah dengan itu kita bisa adil.
+-- id-new
+
+-- en-og
+We can discuss matters that fall outside of our contract too. After all, I have been on this land for a time, and have come to know a thing or two. Of course, I do hope you can do some things for me as well. That would only be fair.
+-- en-og
+
+-- id-og
+Kamu juga bisa bertanya kepadaku tentang hal-hal di luar kontrak. Aku tahu banyak hal karena aku sudah hidup cukup lama di sini. Oh, meski begitu, aku juga berharap kamu bisa membantuku melakukan beberapa hal. Ini baru namanya "adil" kan?
+-- id-og
+
+-- zh-cn
+「契约」之外的事也可与我相谈。毕竟我在这片土地上活了这么久，凡事都略通一二。哦，虽说如此，我也有希望你能为我做的事情。毕竟，这样才符合「公平」嘛。
+ -- zh-cn
+
+# Tentang Kita: Kebingungan
+title:
+id-new = Tentang Kita: Kebingungan
+en-og = About Us: Confusion
+id-og = Tentang Kita: Kebingungan
+zh-cn = 关于我们・困惑
+
+-- id-new
+Kontrak tak bisa digunakan untuk menentukan tingkat persahabatan ataupun mengukur perasaan seseorang terhadap orang lain. Lantas, apa yang bisa kita gunakan untuk mengukur kedekatan satu sama lain? Apa Anda memiliki jawabannya, wahai sahabat saya?  
+-- id-new
+
+-- en-og
+Contracts cannot be used to define friendship, nor measure sentiment. So just what can we use to measure the weight of our emotions? Do you know the answer, friend?
+-- en-og
+
+-- id-og
+Sebuah "kontrak" tidak dapat mendefinisikan "pertemanan" dan tidak dapat mengukur "persahabatan", lalu bagaimana kita bisa mengukur dekatnya hubungan kita berdua? Apakah kamu tahu jawabannya, "sahabat"?
+-- id-og
+
+-- zh-cn
+「契约」无法界定「友谊」、无法丈量「情谊」，那到底用什么才能称量你我之间情感的重量呢？「朋友」，你知道答案吗？
+-- zh-cn
+
+# Tentang Vision
+title:
+id-new = Tentang Vision
+en-og = About the Vision
+id-og = Tentang Vision...
+zh-cn = 关于「神之眼」…
+
+-- id-new
+Vision... juga merupakan semacam kontrak. Tidak ada kekuatan yang didapat tanpa biaya yang setimpal. Setiap kekuatan yang didapatkan seseorang juga merupakan tanggung jawab yang diembannya.
+-- id-new
+
+-- en-og
+Visions... are also a type of contract. You should know that all power comes at a price. For every bit of power you gain, so too do you gain more responsibility.
+-- en-og
+
+-- id-og
+Vision... juga merupakan sebuah "kontrak". Kamu harus tahu bahwa setiap kekuatan memiliki sebuah harga, seribu kekuatan akan disertai seribu tanggung jawab.
+-- id-og
+
+-- zh-cn
+「神之眼」…也是一种「契约」。须知一切力量皆有其代价，一千种权力伴随着一千种责任。
+-- zh-cn
+
+-- komentar
+Ah, "seribu kekuatan disertai seribu tanggung jawab" ini sepertinya peribahasa langsung dari versi Mandarin, tapi tidak diimpor ke versi bahasa Inggris. Hmm. Aku memutuskan untuk tidak mengimpornya juga, karena 1) konsep "kekuatan" biasanya tidak bisa dihitung; kalimat ini jadi terdengar canggung jika diterjemahkan langsung, 2) udah terlanjur suka dengan versi terjemahanku sendiri, ehe, 3) ya gapapalah, biar ada banyak versi.
+-- komentar
+
+# Yang Ingin Diceritakan
+title:
+id-new = Yang Ingin Diceritakan
+en-og = Something to Share
+id-og = Ada yang ingin diceritakan
+zh-cn = 有什么想要分享…
+
+-- id-new
+Perdagangan diatur dengan adanya kontrak, dan kontrak dibuat berdasarkan keadilan. Inilah satu hal yang tidak bisa dilupakan saat membuat dan menyetujui suatu kontrak. Jika keadilan hilang, maka kontrak itu akan menjadi bukti kemuslihatan.
+-- id-new
+
+-- en-og
+Trade relies on both contracts and fairness. There is one thing you must never forget when making and abiding by a contract: if fairness is lost, then the contract shall become proof of one's deception.
+-- en-og
+
+-- id-og
+Peraturan dalam "transaksi" adalah sebuah "kontrak" yang berdasar pada "keadilan". Bila sebuah transaksi sudah kehilangan keadilannya, sebuah kontrak hanyalah sebuah bukti penipuan. Hal inilah yang harus diingat oleh orang yang membuat dan menaati kontrak.
+-- id-og
+
+-- zh-cn
+「交易」的规矩是「契约」，准则是「公平」。这是订立、遵循「契约」者绝不可忘却之事：倘若失了公平，那契约便成了欺瞒的凭据。
+-- zh-cn
+
+# Serba-Serbi
+title:
+id-new = Serba-Serbi
+en-og = Interesting Things
+id-og = Rumor yang menarik...
+zh-cn = 感兴趣的见闻…
+
+-- id-new
+Jika Anda berniat pergi ke Lembah Jueyun, wahai Pengembara, tolong bawakan saya beberapa untai bunga Qingxin. Segenggam saja sudah cukup. Biaya perjalannya... Ah, hampir saya lupa. Selama masa aktif kontrak kita, biaya perjalanan ditanggung oleh Anda sendiri. Maaf telah merepotkan.
+-- id-new
+
+-- en-og
+If you're heading to Jueyun Karst, please bring me back a bunch of Qingxin. Just one bunch is enough. Travel expenses... Ah, I almost forgot, during the effective period of our contract, travel expenses are to be paid for by yourself. Sorry to bother you.
+-- en-og
+
+-- id-og
+Bila kamu pergi ke Jueyun Karst, tolong ambilkan segenggam Qingxin untukku. Satu genggam saja sudah cukup. Sedangkan untuk biaya perjalanannya... Ah, hampir saja aku lupa, selama kontrak masih berlaku, biaya perjalanan akan ditanggung olehmu. Mohon bantuannya, ya.
+-- id-og
+
+-- zh-cn
+你若去往「绝云间」，便替我采来一束「清心」吧。一束就好。此行的旅费…啊，差些忘了，「契约」生效期间，旅费由你代为垫付。那就有劳了。
+-- zh-cn
+
+# Tentang Xiao
+title:
+id-new = Tentang Xiao
+en-og = About Xiao
+id-og = Tentang Xiao...
+
+-- id-new
+Ah, sang adeptus muda dari Dataran Guili... Hingga hari ini pun dia masih menjalankan tugasnya. Tolong bawakan obat penahan sakit ini untuknya. Ah ya, dan tolong pastikan Paimon tidak memakannya. Obat ini... Makhluk biasa tidak akan kuat mencernanya. 
+-- id-new
+
+-- en-og
+You speak of the young adeptus of Guili Plains... *sigh* Still fulfilling his duty to this very day. Please give these Remedium Tertiorum to him on my behalf. Oh, yes — be sure not to let Paimon eat them. Nothing of this world can withstand the power of this medicine.
+-- en-og
+
+-- id-og
+Kamu berbicara tentang Adeptus muda di Guili Plains itu ya... Ah, dia masih menjalankan tugasnya hingga hari ini. Oh, tolong bawakan obat penahan rasa sakit ini untuknya. Oh iya, pokoknya jangan biarkan Paimon memakan obat ini... Tidak ada makhluk biasa yang bisa menahan efek obat ini.
+-- id-og
+
+-- zh-cn
+你说，归离原的少年仙人…啊…直至今日，他仍在履行他的职责…哦，这副「连理镇心散」，请替我带给他。对了，可千万不能让小派蒙偷吃了去，这里的药力…绝非常人所能承受。
+ -- zh-cn
+
+-- komentar
+Obat yag diberikan Zhongli ke Xiao dinamai  连理镇心散 (dibaca Lianli Zhenxinsan?) di versi original Mandarin. Di versi Inggris diterjemahkan menjadi "Remedium Tertiorum". Kata ini tidak pernah dipakai lagi di seluruh Genshin setahuku, dan berusaha mengurai artinya (bagi seseorang yang nggak bisa bahasa Mandarin seperti saja) juga susah bukan main. 
+
+Tadinya mau kupotong saja dari versi terjemahanku, tapi lalu ternyata di versi Indo resminya diganti jadi "obat penahan rasa sakit". Oke, terima kasih penerjemah resmi! o7
+
+Fun fact: Nama obat ini dicopas mentah-mentah ke versi Jepang dari Mandarin, padahal dua dari lima kanjinya tidak ada di kamus umum. Orang Jepang juga bacanya bingung kali ya?
+-- komentar
+
+# Tentang Venti
+title:
+id-new = Tentang Venti
+en-og = About Venti
+id-og = Tentang Venti...
+
+-- id-new
+Tsk, bau alkohol yang menyengat ini... Sang penyair itu baru saja lewat di sini, bukan? Sungguh, pemabuk itu tidak bisa tidak mempermalukan dirinya sendiri. Ah, apa dia memperdayamu hingga ikut mabuk, Pengembara? Tunggu sebentar. Akan saya seduh teh yang bisa menghilangkan mabuk. Akan selesai dalam enam jam, jadi mohon tunggu sebentar.
+-- id-new
+
+-- en-og
+Tsk... It reeks of wine. That bard has just been through here, hasn't he? That drunkard is a disgrace to the arts. Oh... Has he tricked you into getting drunk? You're slurring a little. Wait a moment, I'll brew a pot of sobering tea. It'll be ready in only six hours, so just wait a moment.
+-- en-og
+
+-- id-og
+Ck... bau alkoholnya menyengat sekali. Penyair pemabuk itu hanya mempermalukan nama penyair saja! Kamu... oh, kamu ditipu dia untuk mabuk-mabukan, omonganmu juga sudah tidak jelas... Tunggu sebentar, aku akan membuatkanmu secangkir "Teh Penyegar", aku hanya perlu menyeduhnya selama enam jam. Tunggu sebentar ya...
+-- id-og
+
+-- zh-cn
+嘶...好浓的酒气。那个诗人刚刚来过吧，那个和风雅二字搭不上一点关系的酒鬼诗人！你这里…唔，被他诱骗着灌了酒，话也说不清了么…你等一下，我去沏一壶「醒神茶」，只需三个时辰便好。你等一下…
+-- zh-cn
+
+# Tentang Ningguang
+title:
+id-new = Tentang Ningguang
+en-og = About Ningguang
+id-og = Tentang Ningguang...
+
+-- id-new
+Walaupun hari-harinya selalu dipenuhi kesibukan, ia selalu maju dengan gigih. Ia memang manusia yang hebat. Masih terngiang di benak saya saat dulu ia harus berjalan tanpa alas kaki dari Teluk Yaoguang hingga ke pelabuhan di selatan, berusaha menjual dagangannya. Sungguh, waktu memang kejam terhadap manusia biasa.  
+-- id-new
+
+-- en-og
+Despite the multitude of affairs she deals with in a day, Ningguang always continues to press on. A rare gem indeed. I'm reminded of the time that she used to walk barefoot from Yaoguang Shoal to the south wharf, trying to sell her wares as she went. Time is cruel to humans.
+-- en-og
+
+-- id-og
+Meskipun Ningguang harus mengurus begitu banyak hal setiap hari, tetapi dia tetap selalu giat, dia benar-benar hebat. Aku teringat bahwa dia pernah berjalan tanpa alas kaki dari Yaoguang Shoal hingga ke bagian selatan dermaga untuk menjual barang dagangannya. Terkadang, waktu memang kejam terhadap manusia...
+-- id-og
+
+-- zh-cn
+即便每日经手的事务千条万缕，她仍不失进取之心，实属难得。让我想起，彼时的她赤着脚从瑶光滩走到南码头，一路叫卖货品的样子。时间对于常人，真是残酷…
+-- zh-cn
+
+# Tentang Hu Tao
+title:
+id-new = Tentang Hu Tao
+en-og = About Hu Tao
+id-og = Tentang Hu Tao...
+
+-- id-new
+Pemimpin Rumah Duka sekarang ini? Saya tidak tahu cara menangani anak itu. 
+-- id-new
+
+-- en-og
+The current overseer of the funeral parlor? Ahem. I cannot deal with that child.
+-- en-og
+
+-- id-og
+Pemimpin Funeral Parlor yang sekarang? Hmm... aku benar-benar tidak bisa menangani anak itu.
+-- id-og
+
+-- zh-cn
+ 当代堂主？嗯…那孩子，我应付不来。
+-- zh-cn
+
+# Tentang Tartaglia: Tenang
+title:
+id-new = Tentang Tartaglia: Tenang
+en-og = About Tartaglia: Composed
+id-og = Tentang Tartaglia: Tenang
+
+
+-- id-new
+Serdadu dari Snezhnaya itu masih belum pergi juga dari Liyue? Tidak apa-apa. Kabari saya jika dia membuat onar lagi. Akan saya sendiri yang mengatasinya.
+-- id-new
+
+-- en-og
+That rascal from Snezhnaya has yet to depart from Liyue? No matter, just let me know if he gives you any trouble. I shall deal with the matter swiftly.
+-- en-og
+
+-- id-og
+Ahli bela diri dari Snezhnaya itu belum pergi dari Liyue? Tidak apa, kalau dia berani mencari masalah denganmu, kamu bisa memanggilku untuk mengatasinya.
+-- id-og
+
+-- zh-cn
+那位来自至冬的武人，还没离开璃月吗？没关系，要是他找你麻烦，你可以唤我去应付他。
+-- zh-cn
+
+# Tentang Tartaglia: Berbagi Kisah
+title:
+id-new = Tentang Tartaglia: Berbagi Kisah
+en-og = About Tartaglia:
+id-og = Tentang Tartaglia: Minuman
+
+-- id-new
+Saya dengar reputasi sang Raden Mas di antara para Fatui telah sekali lagi merosot. Tapi dari yang saya tahu tentangnya, dia pasti akan dengan mudah mengalahkan semua yang berani menentangnya. Hm... Pasti akan ada banyak kisah yang bisa didengar darinya saat kita bertemu dan bertukar sapa lagi. Saat waktu itu tiba, apa Anda ingin ikut bersama kami, wahai Pengembara? 
+-- id-new
+
+-- en-og
+It's said that Childe and his reputation have yet again stirred up waves among the inner-ranks of the Fatui. Knowing his type, he will be sure to swiftly depose anyone who dares to challenge his actions. Hm... Come to think of it, there will be a lot of interesting news to be heard the next time we gather for drinks. Care to join me when the time comes, Traveler?
+-- en-og
+
+-- id-og
+Kudengar bahwa reputasi Childe di Fatui telah merosot belakangan ini. Tetapi orang sepertinya pasti akan menggunakan tindakan nyata untuk membersihkan kembali namanya. Hmm, sepertinya akan ada banyak hal menarik saat kita berkumpul lagi nanti. Pengembara, bagaimana kalau kamu ikut berkumpul bersama kami?
+-- id-og
+
+-- zh-cn
+听说「公子」最近在愚人众的风评又变糟了不少。但像他这样的人，一定会用积极的行动去扫清那些对他的怨言吧。嗯…这样想来，下回酒桌上又有不少趣事可以听了。旅者，你也一起来吗？
+-- zh-cn
+
+-- komentar
+Aku sebenarnya kurang suka "公子" diterjemahkan jadi "Childe" dalam versi bahas Inggris, apalagi ketika diambil mentah-mentah dari bahasa Inggris ke bahasa lain. Lalu di versi bahasa Indonesia otakku sendiri bolak balik bacanya kayak kata bahasa Inggris "Child" atau "Chil-de". Bah.
+
+Silakan baca komentar di halaman si Raden Mas Tartaglia sendiri kenapa saya ambil terjemahan ini untuk namanya. 
+-- komentar
+
+# Tentang Ganyu 
+title:
+id-new = Tentang Ganyu
+en-og = About Ganyu
+id-og = Tentang Ganyu... 
+
+-- id-new
+Kesejahteraan Liyue tidak hanya dibangun dari ramalan dan kebijaksanaan Yanwang Dijung, tetapi juga oleh abdi-abdinya yang menghormati kontrak mereka.  Dari mereka semua, Ganyu telah mengabdi dalam waktu terlama. Jika ada tentang masa lalunya yang ingin Anda ketahui, Pengembara... Sebaiknya Anda tanyakan langsung padanya. Saya tidak ingin menyinggung perasaannya. 
+-- id-new
+
+-- en-og
+Liyue's prosperity has not been merely built on Rex Lapis' oracles or wisdom, it is also thanks to the countless servants of the Geo Archon who have honored their end of the contract. Of them, Ganyu is the one who has served for the longest time. If you want to know about her past... You should ask her about it. I fear my wording would not be delicate enough to receive her approval.
+-- en-og
+
+-- id-og
+Kemakmuran Liyue bukan hanya dihasilkan oleh ramalan Rex Lapis, tetapi juga karena para pelayan Archon Geo yang selalu menaati "kontrak". Ganyu adalah salah satu pelayan yang telah mengabdi paling lama. Cerita tentang masa lalunya... lebih baik kamu tanyakan langsung pada dirinya, aku khawatir aku tidak cukup pandai menceritakannya.
+-- id-og
+
+-- zh-cn
+璃月这个国度的繁荣，靠得绝不仅是「岩王帝君」的神谕，而是无数响应「契约」的岩神子民。在这之中，甘雨已是就职时间最长的一位了。关于她的往事…我怕她怪罪，让她自己和你说吧。
+ -- zh-cn
+
+# Tentang Keqing
+title:
+id-new = Tentang Keqing
+en-og = About Keqing
+id-og = Tentang Keqing... 
+
+-- id-new
+Di antara para Qixing, dialah yang paling tidak menggantungkan kepercayaannya pada para dewa. Sejujurnya, saya sendiri merasa senang dengan adanya orang-orang sepertinya. Mereka yang berani mengungkapkan pikirannya ketika mereka tahu mereka benar, dan lalu berani maju dan bertindak atas ucapannya itu... keberadaan mereka adalah alasan saya merasa bisa mundur dari administrasi Liyue.
+-- id-new
+
+-- id-og
+Dia adalah orang yang paling "tidak hormat" di antara semua Qixing, tetapi aku cukup kagum dengan orang sepertinya. Tipe orang "Bila kamu merasa dirimu benar, katakan dengan lantang dan segera bertindak" —— Aku bisa mempertimbangkan untuk pensiun karena aku tahu masih ada orang-orang sepertinya di Liyue.
+-- id-og
+
+-- en-og
+She is the most impious of the Qixing — but I actually find the conviction of such people quite endearing. The only reason I was able to consider taking a step back from such overarching management of Liyue was because there are people like her. People who speak up when they believe themselves to be right, and then go and do something decisive about it.
+-- en-og
+
+-- zh-cn
+她是当代七星中最「不敬神」的，但我还挺欣赏这样的人。「觉得自己是正确的，就大声地说出来、坚决地去行动」——就是因为璃月有这样的人，我才会考虑退休一事。
+ -- zh-cn
+
+# Tentang Yanfei
+title:
+id-new = Tentang Yanfei
+en-og = About Yanfei
+id-og = Tentang Yanfei... 
+
+
+-- id-new
+Ia memang tidak pernah menandatangani kontrak dengan saya, tapi Yanfei tetap menegakkan keteraturan di berbagai lapisan masyarakat Liyue dengan caranya sendiri, yakni dengan membersihkan kerancuan makna dan membenarkan galat... Jika ayahnya suatu hari memutuskan untuk kembali, dia pasti akan merasa bangga atas perkembangan putrinya. 
+-- id-new
+
+-- id-og
+Walaupun tidka pernah menandatangani kontrak denganku, dia menegakkan ketertiban dalam banyak lapisan masyarakat Liyue dengan caranya sendiri, menghilangkan kesalahpahaman dan mengoreksi yang tidak benar... Jika ayahnya suatu hari kembali dari perjalanannya, aku yakin dia akan lebih senang daripada aku.
+-- id-og
+
+-- zh-cn
+她未曾与我签订「契约」，却在以自己的方式维护璃月各界的规矩，并将有失偏颇的观念纠正。倘若某天，她的父亲远游归来，想来会比我更欣慰吧。
+-- zh-cn
+
+# Tentang Baal  
+
+-- id-new
+Segala hasrat akan lama kelamaan terasah oleh waktu. Demi pendiriannya, ia pun tidak segan mengorbankan segalanya. Mungkin karena itulah dia bisa berada di tempatnya berdiri sekarang. Jika ada kesempatan, saya pun ingin belajar tentang "Keabadian" yang begitu teguh dikejarnya itu.
+-- id-new
+
+-- id-og
+Waktu akan menempa semua keinginan. Dan kebetulan dia adalah orang yang akan mengorbankan segalanya demi kepercayaannya. Mungkin karena inilah dia bisa sampai ke tempat dia berada sekarang. Kalau ada kesempatan, aku juga ingin mempelajari tentang "Keabadian" yang sangat ingin dia capai itu.
+-- id-og
+
+-- en-og
+Time tempers all volition. Yet she would give up everyone for her beliefs. Perhaps it is for this very reason that she has come to where she stands today... Should the chance come by me, I too would like to learn of the Eternity for which she so earnestly endeavors.
+-- en-og
+
+-- zh-cn
+时间会淬炼一切意志。而她，恰好是会为信念付出所有的人。或许正因如此，她才能走到这一步。如有机会，我也想见识一下她为之倾尽一切的「永恒」。
+-- zh-cn
+
+-- komentar
+"Time tempers all volition". Di versi Inggris ini agak rancu, karena "temper" bisa berarti mengurangi, melunakkan, membuat yang tadinya tajam atau berlebih menjadi moderat. Jarang "temper" digunakan dengan arti memperkuat.
+
+Aku cek ke temanku yang bisa bahasa Mandarin dan tinggal di China dan dia konfirmasi kalau kata "temper" yang digunakan di sini, "淬炼", berarti memperkuat besi dan bisa juga digunakan untuk memperkuat mental. Yowes!
+
+Aku ambil "terasah" agar maknanya lebih jelas saja, plus variasi lah dengan versi resminya. Versi bahasa Jepang resmi juga menggunakan kata "mengasah" 磨く yang konotasinya kurang lebih sama dengan di bahasa Indonesia. 
+
+... Oke kalau dipikir lagi, "menempa" seakan membuat makin keras dan "mengasah" seakan membuat makin tajam ini konotasinya masih beda tipis. Ah, tapi kalau gini terus sih gak habis-habis ya.
+-- komentar

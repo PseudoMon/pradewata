@@ -1,0 +1,176 @@
+name: Tartaglia
+title: Raden Mas
+type: Voice Lines
+
+-- komentar
+Aku gak habis pikir. Ini penerjemah bahasa Inggris dapet dari nama nama "Childe" untuk nerjemahin "公子" (*Gongzi*, kurang lebih artinya "Tuan Muda")??? Lalu seperti biasa versi bahasa Indonesia cuman ambil mentah-mentah tanpa nengok asal muasalnya, lalu hasilnya orang-orang Indonesia kebingungan bacanya kayak kata bahasa Inggris Child aka "bocah", atau chil-de, dua suku kata. Terima kasih Genshin, telah membuat otak bilingualku stres.
+
+Aku tolak itu semua! Jadinya kumikir dulu, kata bahasa Indonesia apa yang paling bisa melambangkan nama/gelar ini? "Tuan Muda" rasanya terlalu biasa... Akhirnya kepikiran... "Raden Mas"? Ini Jawa/Sunda sih, bukan Indonesia umum, tapi okelah! Bisa! Plus kocak juga ngebayangin Tatang dipanggil Raden. "Mas Raden!" gitu kan lebih enak daripada "Tuan Childe!"
+
+Asumsi nama/gelar Gongzi ini munculnya dari para Fatui aka orang Snezhnaya aka asalnya Rusia, harusnya sih kita nyari istilah dari bahasa Rusia ya? Sayangnya aku belum punya teman dari Rusia yang bisa dikonsultasi, jadi yah. Jadilah orang Jawa dulu ya, Mas Tatang.
+-- komentar
+
+# Salam Kenal
+title:
+id-new = Salam Kenal
+id-og = Halo
+en-og = Hello
+
+-- id-new
+Aku Raden Mas Tartaglia, anggota kesebelas dari Sebelas Fatui Harbinger. Dan kamu... Haha, kamu juga tipe yang suka membuat masalah, ya? Kita pasti bisa jadi sahabatan.
+-- id-new
+
+#  Tentang Tartaglia
+title:
+id-new = Tentang Tartaglia
+id-og = Tentang Tartaglia
+en-og = About Tartaglia
+
+-- id-new
+Seorang petarung harus siap menghadapi tantangan apapun dengan pedangnya. Kalah atau menang itu tidak penting, yang penting bisa mendapat pengalaman yang baru.
+-- id-new
+
+# Tentang Kita: Kerja Sama
+title:
+id-new = Tentang Kita: Kerja Sama
+id-og = Tentang Kita: Seperjuangan
+en-og = About Us: Comrades
+
+-- id-new
+Ahaha, aku yakin para Harbinger lain sudah tahu kalau kita bekerja sama sekarang. Tampang mereka seperti apa ya saat mereka tahu? Hahaha!
+-- id-new
+
+# Tentang Kita: Senjata 
+title:
+id-new = Tentang Kita: Senjata 
+id-og = Tentang Kita: Senjata 
+
+-- id-new
+Sebenarnya aku paling tidak mahir dengan busur panah, tapi justru karena itulah senjata ini pantas kutaklukan.
+-- id-new
+
+# Tentang Kita: Bertahan Hidup
+title:
+id-new = Tentang Kita: Bertahan Hidup
+id-og = Tentang Kita: Bertahan Hidup
+en-og = About Us: Survival
+
+-- id-new
+Tanpa Vision pun, kamu bisa mengerahkan kekuatan yang begitu besar... Ahaha, aku jadi semangat memikirkan perkembanganmu nanti. Ayo kita lihat batas kemampuanmu. Tapi jangan mati ya sebelum kita bisa mengerahkan segalanya untuk pertempuran terakhir kita! Dilarang keras!
+-- id-new
+
+-- komentar
+伙伴 diterjemahinnya jadi "partner" aja di versi bahasa Indonesia? Kata serapan?? LEMAH. Bahasa Inggris aja ambilnya "Comrade" biar lebih tematis.
+
+Aku ambil "Sobat". Kadang kepikiran mau "Bung", tapi enggak ah. Plus "Sobat" mirip suaranya kayak 伙伴 (*Huoban*).  
+-- komentar 
+
+# Tentang Kita: Undangan
+title:
+id-new = Tentang Kita: Undangan
+id-og = Tentang Kita: Undangan
+en-og = About Us: Invitation
+
+-- id-new 
+Sobat, gimana kalau kamu bergabung dengan Fatui? ... Eh, nggak usah deh. Dengan kemampuanmu itu, kita berdua bisa menantang Sebelas Harbinger dan menang! Masa kesempatan seperti ini kita lewatkan begitu saja?
+-- id-new
+
+# Tentang Visionnya
+title:
+id-new = Tentang Visionnya
+id-og = Tentang Vision
+en-og = About the Vision
+
+-- id-new
+Kalau ada yang bisa membuatku lebih kuat, apapun itu akan kuambil. Vision? Boleh. Delusion? Boleh. Ajaran sesat dari Abyss? Boleh banget, sini.
+-- id-new
+
+# Yang Ingin Diceritakan
+title: 
+id-new = Yang Ingin Diceritakan
+id-og = Berbagi Cerita
+en-og = Something to Share
+
+-- id-new
+Di padang salju yang tak berujung itu, nyawamu bisa kapanpun habis direngus salju hingga tidak meninggalkan belulang sekalipun. Inilah musuh tak terlihat yang kita lawan setiap hari.
+-- id-new
+
+-- id-og
+Di padang bersalju tak berujung ini, nyawamu bisa saja hilang tanpa jejak di siang bolong. Ini adalah pertarungan dengan musuh tak terlihat yang kita hadapi setiap hari.
+-- id-og
+
+-- en-og
+The skeletal-white snowscape devours life without leaving any trace. It is the invisible enemy we fight against each day.
+-- en-og
+
+-- komentar
+Voice line ini asik banget diterjemahin, sampai tiap bahasa punya versinya sendiri-sendiri :'). Aku kurang mahir menafsirkan versi bahasa Jepangnya, tapi kurang lebih memang ada kata "kapanpun" "tulang" "putih salju" "hingga tidak meninggalkan jejak". "Siang bolong" ini nggak ada di versi Jepang tapi sepertinya ada di versi bahasa Mandarin.  
+
+Versi Perancis lebih gahar. "Salju, putih seperti belulang mayat, melahap nyawa tanpa meninggalkan jejak."
+
+Aku agak bingung memasukkan konsep "tulang" tapi sayang kalau gak kepake. Yaudah aku kreatif dikit deh.
+-- komentar
+
+# Serba-Serbi
+title: 
+id-new = Serba-Serbi
+id-og = Rumor yang menarik
+en-og = Interesting Things
+
+-- id-new
+Dulu aku pernah berkelana ke liang terdalam Abyss dan bertemu dengan binatang buas yang begitu besar. Entah namanya apa, tapi tampangnya saja membuat bulu kudukku berdiri. Camkan ini. Suatu hari nanti, aku akan kembali dan menaklukan binatang itu. Dan kamu akan jadi saksiku, sobat!
+-- id-new
+
+# Tentang Skirk
+title: 
+id-new = Tentang Skirk
+id-og = Tentang Skirk
+en-og = About Skirk
+
+-- id-new
+Sudah bertahun-tahun sejak aku terakhir bertemu dengan Guru. Kuharap saat kita bertemu lagi, setidaknya dia harus menggunakan kedua tangannya untuk melawanku.
+-- id-new
+
+# Tentang Zhongli: Berpikir-pikir
+title: 
+id-new = Tentang Zhongli: Berpikir-pikir
+id-og = Tentang Zhongli: Pertimbangkan
+en-og = About Zhongli: Pondering
+
+-- id-new
+Orang itu... banyak yang disembunyikannya. Kekuatannya pun sepertinya bukan main. Akan kunantikan saat kita bisa melihatnya!
+-- id-new
+
+# Tentang Zhongli: Penantang
+title: 
+id-new = Tentang Zhongli: Penantang
+id-og = Tentang Zhongli: Tantangan
+en-og = About Zhongli: Challenge
+
+-- id-new
+Jadi apa kabar Pak Zhongli akhir-akhir ini? Sehat-sehat saja? Sepertinya dia sudah terbiasa ya menjadi manusia biasa? Hmph. Bisa-bisanya dia menipuku! Muslihat seperti ini tidak akan kumaafkan begitu saja! Satu-satunya cara menyelesaikannya adalah dengan pertarungan sengit! Hah, apa katamu? Aku pasti akan kalah? Hahaha.... hahahaha!
+-- id-new
+
+-- komentar
+Off-topic tapi aku suka banget suara tawa Tartaglia versi bahasa Mandarin. Unhinged chaos man, what will he do.
+-- komentar
+
+# Tentang Tsaritsa 
+title: 
+id-new = Tentang Tsaritsa
+id-og = Tentang Tsaritsa
+en-og = About Tsaritsa
+
+-- id-new
+Yang Mulia Tsaritsa sebenarnya adalah seseorang yang sangat halus. Terlalu halus, bahkan, sehingga beliau harus menjadikan dirinya semakin keras. Ia memerangi seluruh dunia justru karena ia mendambakan perdamaian. Dan karena ia menjadi musuh seluruh dunia, aku jadi bisa bertemu denganmu. 
+-- id-new
+
+# Tentang Varka
+title: 
+id-new = Tentang Varka
+id-og = Tentang Varka
+en-og = About Varka
+
+-- id-new
+Varka? Kalau suatu hari nanti aku bisa bertemu dan bertarung satu lawan satu dengannya, sang Kesatria Boreas yang legendaris, pemimpin Kesatria Favonius... membayangkannya saja sudah membuatku semangat. Hidup di dunia ini memang indah.
+-- id-new
