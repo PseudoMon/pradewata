@@ -28,13 +28,13 @@ export default function CharacterPage() {
   }
 
   return (
-    <article class="character-main">
-      <section class="sidebar">
+    <article className="character-main">
+      <section className="sidebar">
         <img src={`/images/chara-side/${ charaId }.png`} />
       </section>
 
-      <section class="main-content">
-        <ul class="lang-picker">
+      <section className="main-content">
+        <ul className="lang-picker">
           <li 
             className={ getIsLangActive("id-new") }
             onClick={ () => setLang("id-new") }
@@ -53,7 +53,7 @@ export default function CharacterPage() {
           >ZH Orig</li>
         </ul>
 
-        <ul class="voice-lines">
+        <ul className="voice-lines">
           { voiceLines.map(voiceLine => (
             <li><VoiceLineCard 
               voiceLine={voiceLine} 

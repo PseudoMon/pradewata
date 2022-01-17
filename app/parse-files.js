@@ -58,11 +58,8 @@ export async function getCharaVoiceLines(charaId) {
     "utf-8",
   )
 
-
-  const fallbackData = JSON.parse(await fs.readFile(
-    path.join(textDataPath, "characters", "fallback", `${charaId}.json`),
-    "utf-8"
-  ))
+  const fallbackData = await getFallbackData(charaId) 
+  // will return false if no fallback data file exist
 
   // Remove carriage returns from the file
   const enodoc = enolib.parse(file.replace(/\r|/g, ''))
@@ -101,8 +98,9 @@ export async function getCharaVoiceLines(charaId) {
       thisVoiceLine.line[element.stringKey()] = thisLanguageLine.requiredStringValue() 
     })
 
-    thisVoiceLine = fillFallbackVoiceLine(fallbackData, thisVoiceLine)
-
+    if (fallbackData) {
+      thisVoiceLine = fillFallbackVoiceLine(fallbackData, thisVoiceLine)
+    }
 
     voiceLines.push(thisVoiceLine)
   })
@@ -110,12 +108,32 @@ export async function getCharaVoiceLines(charaId) {
   return voiceLines
 }
 
+async function getFallbackData(charaId) {
+  // Returns false if the file doens't exist
+
+  let file 
+  try {
+    file = await fs.readFile(
+      path.join(textDataPath, "characters", "fallback", `${charaId}.json`),
+      "utf-8"
+    )
+  } 
+  catch (error) {    
+    if (error.code === "ENOENT") {
+      //the file doesn't exist
+      return false
+    } 
+    else {
+      throw error
+    }
+  }
+
+  return JSON.parse(file)
+}
+
 function fillFallbackVoiceLine(fallbackData, voiceLine) {
   // voiceLine is a SINGLE voice line
   // TODO typescript this shit eventually i guess
-
-  console.log("YEAH")
-  console.log(voiceLine)
 
   const titlesLang = Object.keys(voiceLine.title)
   const linesLang  = Object.keys(voiceLine.line)
@@ -124,14 +142,13 @@ function fillFallbackVoiceLine(fallbackData, voiceLine) {
 
   titlesLang.forEach(lang => {
     if ( !linesLang.includes(lang) ) {
-      console.log(`${lang} is missing!`)
       // We have the language specific title
       // but not the line
       // we should get it from the fallback file
 
       if (typeof fallbackData[lang] === "object" ) {
         // will only fill in if the language exist
-        // if the languag exist but the line doesn't
+        // if the language exist but the line doesn't
         // it'll just be set to undefined
         extraVoiceLines[lang] = fallbackData[lang][voiceLine.title[lang]]
       }
