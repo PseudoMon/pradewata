@@ -50,11 +50,12 @@ ul {
         border-radius: 20px;
 
         font-size: 28px;
+        line-height: 100%;
         font-weight: bold;  
         color: var(--color-semibg);  
 
         display: inline-block;
-        padding: 0.2em 0.5em;
+        padding: 0.5em 0.6em;
         max-width: 60%;
         margin-right: 10px;
     }

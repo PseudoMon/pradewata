@@ -1,0 +1,6 @@
+TODO
+- Footer
+- Scrape data from honey hunter
+- Use it as fallback when processing the eno file
+- Design Terminologies page
+- Implement see above

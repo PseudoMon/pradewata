@@ -1,5 +1,6 @@
 import { useLoaderData } from 'remix'
 import { useState } from 'react'
+import { getCharaVoiceLines } from '~/parse-files'
 import VoiceLineCard from '~/components/voice-line-card.jsx'
 import charaPageStyles from '~/styles/charapage.css'
 
@@ -7,12 +8,16 @@ export function links() {
   return [{ rel: "stylesheet", href: charaPageStyles }]
 }
 
-export function loader() {
-  return null //TODO
+export async function loader({ params }) {
+  const charaId = params.chara
+  const voiceLines = await getCharaVoiceLines(params.chara)
+  
+  return { voiceLines, charaId }
 }
 
 export default function CharacterPage() {
   const [currentLang, setLang] = useState("id-new") 
+  const { voiceLines, charaId } = useLoaderData()
 
   const getIsLangActive = (lang) => {
     if (currentLang === lang) {
@@ -25,7 +30,7 @@ export default function CharacterPage() {
   return (
     <article class="character-main">
       <section class="sidebar">
-        <img src="/images/chara-side/xinyan.png" />
+        <img src={`/images/chara-side/${ charaId }.png`} />
       </section>
 
       <section class="main-content">
@@ -49,18 +54,12 @@ export default function CharacterPage() {
         </ul>
 
         <ul class="voice-lines">
-          <li>
-            <VoiceLineCard />
-          </li>
-          <li>
-            <VoiceLineCard />
-          </li>
-          <li>
-            <VoiceLineCard />
-          </li>
-          <li>
-            <VoiceLineCard />
-          </li>
+          { voiceLines.map(voiceLine => (
+            <li><VoiceLineCard 
+              voiceLine={voiceLine} 
+              lang={ currentLang }
+            /></li>
+          )) }
         </ul>
       </section>
     </article>

@@ -54,7 +54,48 @@ export async function getCharacterList() {
 
 export async function getCharaVoiceLines(charaId) {
   const file = await fs.readFile(
-    path.join(textDataPath, "characters", charaId),
-    "utf-8"
+    path.join(textDataPath, "characters", `${charaId}.eno`),
+    "utf-8",
   )
+
+  // Remove carriage returns from the file
+  const enodoc = enolib.parse(file.replace(/\r|/g, ''))
+
+  let voiceLines = []
+
+  enodoc.elements().forEach(element => {
+    if (!element.yieldsSection()) {
+        // Not a section, therefore not a voice line
+        return
+    }
+
+    const thisVoiceLineData = element.toSection()
+
+    let thisVoiceLine = {
+        title: {},
+        line: {},
+    }
+
+    const title = thisVoiceLineData.fieldset('title')
+
+    title.entries().forEach(entry => {
+      // each entry's key is a language id
+      thisVoiceLine.title[entry.stringKey()] = entry.requiredStringValue()
+    })
+
+    thisVoiceLineData.elements().forEach(element => {
+      if (!element.yieldsField()) {
+          // Not a field, therefore not the language-specific text
+          return
+      }
+
+      const thisLanguageLine = element.toField()
+
+      thisVoiceLine.line[element.stringKey()] = thisLanguageLine.requiredStringValue() 
+    })
+
+    voiceLines.push(thisVoiceLine)
+  })
+
+  return voiceLines
 }

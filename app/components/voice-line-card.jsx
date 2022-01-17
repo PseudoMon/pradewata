@@ -1,16 +1,30 @@
-export default function VoiceLineCard() {
+import { useState } from 'react'
+
+export default function VoiceLineCard({ voiceLine, lang }) {
+  const [isOpen, setOpenState] = useState(false)
+
+  console.log(voiceLine)
   return (
-    <div class="voice-line-card">
-      <div class="header">
-        <span>Salam Kenal</span>
+    <div className="voice-line-card">
+
+      <div 
+        className="header"
+        onClick={() => setOpenState(!isOpen)}
+      >
+        <span>{ voiceLine.title[lang] }</span>
         <svg width="32px" height="32px">        
           <image xlink:href="https://icongr.am/fontawesome/chevron-circle-down.svg?size=32&color=E8E6EA" />    
         </svg>
       </div>
       
-      <div class="content">
-        <p>Namaku Xinyan, satu-satunya pemain rock n' roll di Pelabuhan Liyue! Akhir-akhir ini aku banyak kepikiran mau main konser di tempat lain, tapi... Hmm... Dengar-dengar kamu sudah keliling ke banyak tempat ya, Pengembara? Gimana kalau aku ikut tur konser sama kamu? Ke mana saja boleh!</p>
-      </div>
+      {
+        isOpen ? (
+          <div className="content">
+            <p>{ voiceLine.line[lang] }</p>
+          </div>
+        ) : null
+      }
+      
     </div>
   )
 }
