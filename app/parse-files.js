@@ -58,6 +58,12 @@ export async function getCharaVoiceLines(charaId) {
     "utf-8",
   )
 
+
+  const fallbackData = JSON.parse(await fs.readFile(
+    path.join(textDataPath, "characters", "fallback", `${charaId}.json`),
+    "utf-8"
+  ))
+
   // Remove carriage returns from the file
   const enodoc = enolib.parse(file.replace(/\r|/g, ''))
 
@@ -91,11 +97,49 @@ export async function getCharaVoiceLines(charaId) {
 
       const thisLanguageLine = element.toField()
 
+      // The key of the line is the language id
       thisVoiceLine.line[element.stringKey()] = thisLanguageLine.requiredStringValue() 
     })
+
+    thisVoiceLine = fillFallbackVoiceLine(fallbackData, thisVoiceLine)
+
 
     voiceLines.push(thisVoiceLine)
   })
 
   return voiceLines
+}
+
+function fillFallbackVoiceLine(fallbackData, voiceLine) {
+  // voiceLine is a SINGLE voice line
+  // TODO typescript this shit eventually i guess
+
+  console.log("YEAH")
+  console.log(voiceLine)
+
+  const titlesLang = Object.keys(voiceLine.title)
+  const linesLang  = Object.keys(voiceLine.line)
+
+  let extraVoiceLines = {}
+
+  titlesLang.forEach(lang => {
+    if ( !linesLang.includes(lang) ) {
+      console.log(`${lang} is missing!`)
+      // We have the language specific title
+      // but not the line
+      // we should get it from the fallback file
+
+      if (typeof fallbackData[lang] === "object" ) {
+        // will only fill in if the language exist
+        // if the languag exist but the line doesn't
+        // it'll just be set to undefined
+        extraVoiceLines[lang] = fallbackData[lang][voiceLine.title[lang]]
+      }
+    }
+  })
+
+  return {
+    title: voiceLine.title,
+    line: { ...voiceLine.line, ...extraVoiceLines }
+  }
 }

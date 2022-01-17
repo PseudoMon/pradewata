@@ -2,8 +2,7 @@ import { useState } from 'react'
 
 export default function VoiceLineCard({ voiceLine, lang }) {
   const [isOpen, setOpenState] = useState(false)
-
-  console.log(voiceLine)
+  
   return (
     <div className="voice-line-card">
 
