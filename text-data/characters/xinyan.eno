@@ -12,9 +12,10 @@ Tapi aku maklum aku memang bias sebagai orang Jakarta. Mungkin ada warga non-Jak
 
 # Salam
 title:
-id-new = Salam
+id-new = Salam Kenal
 en-og = Hello
 id-og = Halo...
+zh-cn = 初次见面…
 
 -- id-new
 Namaku Xinyan, satu-satunya pemain rock n' roll di Pelabuhan Liyue! Akhir-akhir ini aku banyak kepikiran mau main konser di tempat lain, tapi... Hmm... Dengar-dengar kamu sudah keliling ke banyak tempat ya, Pengembara? Gimana kalau aku ikut tur konser sama kamu? Ke mana saja boleh!
@@ -33,6 +34,7 @@ title:
 id-new = Tentang Xinyan: Menakutkan
 en-og = About Xinyan: Frightening
 id-og = Tentang Xinyan: Sangar
+zh-cn = 关于辛焱自己·凶恶
 
 -- id-new
 Kamu nggak takut denganku, ya? Banyak orang bilang mataku kayak belati, pakaianku nggak benar, bicaraku terlalu kasar. Aku banyak dijauhi juga, seakan aku hantu atau apa. Memang nggak boleh ya aku hidup dengan gayaku sendiri?
@@ -51,6 +53,7 @@ title:
 id-new = Tentang Kita: Para Pemirsa
 en-og = About Us: The Audience
 id-og = Tentang Kami: Penonton
+zh-cn = 关于我们·观演
 
 -- id-new
 Mau mendengarku main di panggung? Ayo maju ke depan, suaranya bakal lebih bagus dari sini! *ehem*  Tu, wa, ga, oke, mari kita mulai! Langsung dari satu-satunya panggung rock di Liyue!
@@ -69,6 +72,7 @@ title:
 id-new = Tentang Kita: Teman Seperjalanan
 en-og = About Us: Kindred Spirits
 id-og = Tentang Kami: Cocok
+zh-cn = 关于我们·投缘
 
 -- id-new
 Oh, jadi itu kenapa kita bisa akur! Kamu bukan dari dunia ini, jadi kamu tidak perlu peduli dengan semua aturan yang ada di sini. Memang hidup tuh harusnya begitu! Tidak usah dibatas-batasi, hiduplah bebas!
@@ -87,6 +91,7 @@ title:
 id-new = Tentang Kita: Ayo Ikut
 en-og = About Us: Invitation
 id-og = Tentang Kita: Undangan
+zh-cn = 关于我们·邀请
 
 -- id-new
 Aku mau coba menambah rasa-rasa baru ke musik rock n' roll. Mau coba main drum denganku nanti? Ritmemu lumayan bagus... Hah, kamu belum pernah main? Nggak usah dibuat pusing. Yang penting semangatnya, bukan bisa atau enggaknya! Coba aja dulu, pasti kamu bisa! 
@@ -105,6 +110,7 @@ title:
 id-new = Tentang Visionnya
 en-og = About the Vision
 id-og = Tentang Vision...
+zh-cn = 关于「神之眼」…
 
 -- id-new
 Kayaknya sih aku satu-satunya di Teyvat yang memakai api dari Vision untuk pertunjukkan rock. Ada yang bilang aku harus lebih menghormati kekuatanku... Tapi menurutku, aku kan sudah dipilih oleh para dewa untuk mendapat Vision ini, jadi berarti mereka memang sudah suka dengan gayaku, kan?
@@ -123,6 +129,7 @@ title:
 id-new = Tentang Xiangling
 en-og = About Xiangling
 id-og  = Tentang Xiangling...
+zh-cn = 关于香菱…
 
 -- id-new
 Aku sering mampir ke Restoran Wanmin malam-malam untuk makan. Kalau Xiangling sedang tidak sibuk, kita bisa mengobrol terus sampai larut malam. Eh? Biasanya aku pesan makanan apa? Anu, sebenarnya, apapun yang Xiangling masak, pasti kumakan! Hahaha! Tidak pernah ada dua masakan Xiangling yang sama. Memang dia itu bintang rock di dunia kuliner!
@@ -141,6 +148,7 @@ title:
 id-new = Tentang Zhongli
 en-og = About Zhongli
 id-og = Tentang Zhongli...
+zh-cn = 关于钟离…
 
 -- id-new
 Jadi dulu, saat belum banyak orang yang mau mendengar musikku, ada orang ini yang mengundangku untuk konser di tempatnya. Aku langsung jadi semangat, kan. Akhirnya ada yang mengerti musikku, begitu! Aku langsung setuju... Tapi saat aku sampai ke tempatnya, ternyata dia konsultan di Rumah Duka Wangsheng. Memangnya pantas main musik rock di situ? Dia memang orang aneh, ya?
@@ -159,6 +167,7 @@ title:
 id-new = Tentang Ningguang
 en-og = About Ningguang
 id-og = Tentang Ningguang...
+zh-cn = 关于凝光…
 
 -- id-new
 Dulu para Milelith itu selalu merepotkanku. Tidak boleh pasang panggung di sini, tidak boleh konser di sana. Menyebalkan sekali... Ehem. Tapi lalu aku menulis surat ke kantor urusan sipil, dan aku dengar sang Tianquan mengamandemen... ya pokoknya salah satu aturan di Liyue. Beliau menentukan beberapa tempat bisa dijadikan tempat konser asal sudah meminta izin. Huft. Tetap saja repot, kalau kataku, tapi masih lumayan dibandingkan dikejar-kejar terus oleh Milelith...
@@ -177,6 +186,7 @@ title:
 id-new = Tentang Baizhu
 en-og = About Baizhu
 id-og = Tentang Baizhu...
+zh-cn = 关于白术…
 
 -- id-new
 Resep obat dari Dokter Baizhu memang yang paling top untuk merawat suaraku! Dulu aku pernah konser spontan untuknya sebagai tanda terima kasih, tapi lalu ular di lehernya langsung pingsan. Hehe, sekarang dia selalu sembunyi dalam lengan baju si dokter kalau aku datang. Aku baru tahu setelah kejadian itu kalau ular sangat sensatif terhadap getaran.    
@@ -195,6 +205,7 @@ title:
 id-new = Tentang Beidou
 en-og = About Beidou
 id-og = Tentang Beidou...
+zh-cn = 关于白术…
 
 -- id-new
 Kak Beidou? Dia tidak pernah sungkan-sungkan bicaranya tapi dia tetap peduli dengan semua orang, jadi kita bisa akur. Petualangan kru Bintang Pari juga hebat-hebat, aku jadi banyak terinspirasi! Aku bahkan pernah menulis lagu khusus tentang mereka. Sekarang, kalau aku menyanyi baris pertamanya saja, semua awak kapalnya pasti langsung ikutan. Sudah jadi syair lautan terbaru, nih.   
@@ -213,6 +224,7 @@ title:
 id-new = Tentang Chongyun
 en-og = About Chongyun
 id-og = Tentang Chongyun...
+zh-cn = 关于重云…
 
 -- id-new
 Dia menarik juga, loh. Mungkin kelihatannya dia kalem-kalem saja, tapi pernah suatu hari dia datang ke konserku, diajak temannya kalau nggak salah, dan dia mau bilang sesuatu padaku. Sayangnya aku tidak bisa dengar karena musiknya terlalu kencang, tapi lalu tiba-tiba dia ikut naik ke panggung dan menyanyi keras-keras! Memang isi hati tidak bisa ditebak dari tampangnya, ya.  
@@ -231,6 +243,7 @@ title:
 id-new = Tentang Hu Tao
 en-og = About Hu Tao
 id-og = Tentang Hu Tao...
+zh-cn = 关于胡桃…
 
 -- id-new
 Entah deh apa yang ada di dalam kepalanya. Dia kan kepala Rumah Duka Wangshen, tapi kerjaannya lari sana-sini sambil senyum-senyum dan tertawa-tawa. Dia pernah menyapaku dengan ceria sambil bilang, "Orang-orang yang bermain api adalah jaminan bisnis yang sukses," atau begitu.... Dasar orang aneh.
@@ -249,9 +262,10 @@ title:
 id-new = Tentang Yun Jin
 en-og = About Yun Jin
 id-og = Tentang Yunjin...
+zh-cn = 关于云堇…
 
 -- id-new
-Jangan bilang-bilang ya, tapi Yun Jin suka sekali musik rock n' roll, loh. Mau sesibuk apapun dia, dia selalu datang ke konserku seenggaknya tiga kali seminggu. Dia kan kepala grup pergelaran Rumah Teh Heyu, jadi orang pasti mengira dia sukanya dengan seni-seni kelas atas begitu, kan? Haha, mungkin dia sudah muak dengan seni yang itu-itu terus.  
+Jangan bilang-bilang ya, tapi Yun Jin suka sekali musik rock n' roll, loh. Mau sesibuk apapun dia, dia selalu datang ke konserku seenggaknya tiga kali seminggu. Dia kan kepala grup opera yang sering main di Rumah Teh Heyu, jadi orang pasti mengira dia sukanya dengan seni-seni kelas atas begitu, kan? Haha, mungkin dia sudah muak dengan seni yang itu-itu terus.  
 -- id-new
 
 -- en-og
@@ -263,13 +277,9 @@ Sini kuberi tahu sebuah rahasia, jangan bilang siapa-siapa ya. Wanita itu adalah
 -- id-og
 
 -- komentar
-Agak susah mencari padanan untuk "head of Heyu Tea House's troupe" apalagi karena kita belum tahu detail seni yang dilakukan kelompok Yun Jin, ataupun posisi Yun Jin dalam kelompok itu. Versi Jepang dan Perancis hanya menyebut Yun Jin sebagai pemain terdepan di Heyu Tea House, semacam *frontman*, tapi bukan kepala dalam arti manajerial yang diimplikasikan dari "head" dam bahasa Inggris dan tidak pula menyebut kata "Troupe"; hanya menyebut Tea House-nya aja. Sayangnya, aku belum cukup mahir untuk konfirmasi ke versi asli Mandarinnya. :(
+Agak susah mencari padanan untuk "head of Heyu Tea House's troupe", apalagi karena di sini ambigu pengartiannya. Versi Indonesia jelas-jelas salah karena Yun Jin bukan kepala rumah tehnya sendiri (itu Fan Er'ye). Versi Jepang dan Perancis hanya menyebut Yun Jin sebagai pemain terdepan di Heyu Tea House, semacam *frontman*, tapi bukan kepala dalam arti manajerial yang diimplikasikan dari "head" dam bahasa Inggris. Versi bahasa Inggris jua mengimplikasikan kalau troupe ini ekslkusif milik Heyu Tea House; bahasa lain tidak menyebut kata "Troupe", hanya menyebut Tea House-nya aja. 
 
-Versi Indonesia jelas-jelas salah karena Yun Jin bukan kepala rumah tehnya sendiri (itu Fan Er'ye). Dari drip marketing update 2.3 sih Yun Jin itu "Current Director of Yun Han Opera Troupe"... jadi memang posisinya bos besar, bukan hanya pemainnya?
-
-Kata "Troupe" sendiri juga agak susah dicarinya. Akhirnya yang muncul di kepalaku hanya kata "pagelaran", atau bakunya "pergelaran", yang kesannya lebih tradisional daripada "pertunjukan".
-
-Yawdah, gak usah banyak mikir. Entar jangan-jangan voice line bakal diedit di versi 2.4. (Yun Jin, pulang ya nanti <3)
+Yah... Yun Jin udah rilis sih sekarang, jadi kita tahu kalau dia adalah pemimpin Yun-Han Opera Troupe, yang sering main di Heyu Tea House, tapi bukan eksklusif punya rumah teh itu. Terjemahanku sudah dibuat agar cocok dengan ini.
 -- komentar
 
 # Lebih Dalam Tentang Xinyan: I
@@ -277,6 +287,7 @@ title:
 id-new = Lebih Dalam Tentang Xinyan: I
 en-og = More About Xinyan: I
 id-og = Mengenal Xinyan: I
+zh-cn = 想要了解辛焱·其一
 
 -- id-new
 Kamu mau lebih kenal denganku? Kamu aneh juga, ya. Kebanyakan orang sih pasti jauh-jauh dariku. Jadi... mulai dari mana, nih? Mau langsung kuajarkan musik rock dulu?
@@ -295,6 +306,7 @@ title:
 id-new = Lebih Dalam Tentang Xinyan: II
 en-og = More About Xinyan: II
 id-og = Mengenal Xinyan: II
+zh-cn = 想要了解辛焱·其二
 
 -- id-new
 Waktu aku masih kecil, orang dewasa selalu bilang aku harus lebih seperti perempuan. Aku harus belajar ini, belajar itu, tapi lalu tetap saja aku sering ditegur karena aku tidak bisa mahir semua itu. Beda cerita dengan rock n' roll. Tidak pernah ada yang mengajariku, tapi aku bisa bisa-bisa saja. Lalu orang dewasa selalu bilang ini "kurang perempuan!" Cih. Pikiran mereka memang sempit, ya?
@@ -313,6 +325,7 @@ title:
 id-new = Lebih Dalam Tentang Xinyan: III
 en-og = More About Xinyan: III
 id-og = Mengenal Xinyan: III
+zh-cn = 想要了解辛焱·其三
 
 -- id-new
 Eh, kelihatan tidak? Aku memijat-mijat mukaku agar mulut dan mataku lebih rileks. Aku juga setengah jam latihan di depan cermin agar senyumku lebih halus. Jadi, gimana? Nggak segarang biasanya, kan? ... Hah? Malah lebih seram? Ya sudah, deh...
@@ -331,6 +344,7 @@ title:
 id-new = Lebih Dalam Tentang Xinyan: IV
 en-og = More About Xinyan: IV
 id-og = Mengenal Xinyan: IV
+zh-cn = 想要了解辛焱·其四
 
 -- id-new
 Terima kasih sudah menemaniku latihan! Hampir jam makan siang, nih. Sudah kubuatkan bekal untukmu juga! Ada tomat, sosis, telur ceplok... Hah? "Kok bisa?" H-hei, jangan anggap aku remeh! A-aku juga bisa nyiapin makanan yang imut-imut!
@@ -349,6 +363,7 @@ title:
 id-new = Lebih Dalam Tentang Xinyan: V
 en-og = More About Xinyan: V
 id-og = Mengenal Xinyan: V
+zh-cn = 想要了解辛焱·其五
 
 -- id-new
 Aku percaya dengan jiwa pemberontakan yang ada dalam rock n' roll, tapi itu bukan berarti kita harus memaksakannya ke depan orang-orang. Aku bisa kok hidup seperti orang biasa. Aku bisa menjahit, menanam bunga, memelihara ikan, menyiapkan makanan yang lucu. Aku bebas untuk suka dengan apapun... dan siapapun, kan?   

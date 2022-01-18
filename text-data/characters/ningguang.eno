@@ -14,9 +14,9 @@ Gelar Ningguang, yang diterjemahkan menjadi "Eclipsing Star" di versi bahasa Ing
 Versi resmi bahasa Indonesia untuk Ningguang ini sejujurnya sudah lumayan bagus; beberapa baris mungkin lebih bagus daripada versiku. Tapi ada juga beberapa yang :) patut dipertanyakan :) :). Silakan baca yang sudah saya pasangi komentar, ya.
 -- komentar
 
-# Salam
+# Salam Kenal
 title:
-id-new = Salam
+id-new = Salam Kenal
 en-og = Hello
 id-og = Halo...
 zh-cn = 初次见面…
@@ -304,6 +304,17 @@ The second son of the Feiyun Commerce Guild. People like him can't stand the sig
 Putra kedua dari Feiyun Commerce Guild. Orang sepertinya tidak akan tahan denganku, sesuai dugaan. Aku juga tidak berniat untuk menyusahkannya. Mereka yang mempunyai kepercayaan berbeda sebaiknya jangan bekerja sama.
 -- id-og
 
+# Tentang Xiangling
+title:
+id-new = Tentang Xiangling
+en-og = About Xiangling
+id-og = Tentang Xiangling
+zh-cn = 关于香菱…
+
+-- id-new
+Putri pemilik Restoran Wanmin itu... Jelas dari wajahnya kalau ia sering curiga padaku. Haha, seperti apa ya raut wajahnya jika ia tahu akulah yang membantu membiayai restorannya itu?
+-- id-new
+
 # Tentang Ganyu
 title:
 id-new = Tentang Ganyu
@@ -328,12 +339,77 @@ Voice line "Tentang Ganyu" ini sungguh *cursed cursed double cursed*.
 
 Peribahasa yang disebutkan di sini berbeda untuk tiap versi bahasa resmi di Genshin. Padahal sudah disebutkan itu peribahasa khusus Liyue jadi gapapa toh kalau rasanya aneh di bahasa lain? "In Indonesia we have a saying which goes 'An empty barrel makes a loud sound'.". Kedengerannya aneh kalau terjemahan langsung tapi yowess emang peribahasanya gitu toh? Tinggal tambah konteks lagi kalau butuh. 
 
-Belum lagi dalam versi bahasa yang beda arti peribahasanya pun bisa beda. Di versi Jepang artinya kurang lebih "seseorang yang ahli pun bisa gagal", close enough lah. Nah, versi Indonesia (dan kebetulan Perancis juga) gagal paham: malah ngebahas rahasia-rahasiaan. 
+Belum lagi dalam versi bahasa yang beda arti peribahasanya pun bisa beda. Versi Jepang menggunakan "上手の手から水が漏る" yang artinya kurang lebih "seseorang yang ahli pun bisa gagal", close enough lah. Nah, versi Indonesia (dan kebetulan Perancis juga) gagal paham: malah ngebahas rahasia-rahasiaan. 
 
-Setelah konsultasi dengan temanku yang penerjemah bahasa Mandarin-Inggris (Thanks @SiriusWolfHS!), peribahasa yang ada di versi Mandarin original memang suatu peribahasa yang dipakai IRL di China. Ini peribahasa yang cukup kuno dan memang ada kata "rahasia" di dalamnya walau bukan itu maksudnya, jadi dia maklum kalau ada penerjemah yang salah menanggapi.  
+Setelah konsultasi dengan temanku yang penerjemah bahasa Mandarin-Inggris (Thanks @SiriusWolfHS!), peribahasa yang ada di versi Mandarin memang suatu peribahasa yang dipakai IRL di China. Ini peribahasa yang cukup kuno dan memang ada kata "rahasia" di dalamnya walau bukan itu maksudnya, jadi dia maklum kalau ada penerjemah yang salah menanggapi.  
 
-Peribahasa yang kupakai di sini kuadaptasi dari terjemahan bahasa Inggris darinya, jadi mungkin sudah lewat filter-filter lagi tapi seenggaknya lebih mendekati rasa aslinya. Kurasa arti peribahasanya sudah cukup jelas, jadi Ningguang tidak perlu menjelaskan lagi ke si Pengembara.
+Peribahasa yang kupakai di sini kuadaptasi dari terjemahan bahasa Inggris dari temanku ini, jadi mungkin sudah lewat filter-filter lagi tapi seenggaknya lebih mendekati rasa aslinya. Kurasa arti peribahasanya sudah cukup jelas, jadi Ningguang tidak perlu menjelaskan lagi ke si Pengembara.
 -- komentar
+
+# Tentang Yaoyao
+title:
+id-new = Tentang Yaoyao
+en-og = About Yaoyao
+id-og = Tentang Yaoyao
+zh-cn = 关于瑶瑶…
+
+-- id-new
+Maksudmu gadis kecil yang dirawat oleh Ganyu?  Jangan khawatir. Aku tidak akan membeberkan hal ini ke orang lain. Aku bersedia memalingkan wajah dari beberapa gerak-gerik si kapten kapal itu. Tapi ada satu hal yang menggangguku. Yaoyao sepertinya terlalu tergantung dengan makanan laut. Tolong bantu Ganyu agar ada juga buah dan sayur dalam pola makannya. 
+-- id-new
+
+-- komentar
+Aku gak ngerti gimana versi bahasa Indonesia resmi bisa jadi gitu. Ningguang tiba-tiba jadi kapten kapal?? Aku asumsi maksudnya Beidou: jadi Beidou yang ngebawa Yaoyao ke Ganyu?? Tbh di versi manapun juga, ini ambigu sih. Yaoyao juga belum dirilis saat aku mengerjakan terjemahan ini, jadi mungkin masih bisa ada yang berubah nanti.
+-- komentar
+
+# Tentang Keqing
+title:
+id-new = Tentang Keqing
+en-og = About Keqing
+id-og = Tentang Keqing
+zh-cn = 关于刻晴…
+
+-- id-new
+Sang Yuheng... Dia telah banyak berubah akhir-akhir ini. Tapi apakah Liyue akan lebih baik dengan Yuheng yang sekarang atau Yuheng yang dahulu? Hanya waktu yang bisa menentukan.   
+-- id-new
+
+# Tentang Jean
+title:
+id-new = Tentang Jean
+en-og = About Jean
+id-og = Tentang Jean
+zh-cn = 关于琴…
+
+-- id-new
+Wakil Grand Master dari Mondstadt pasti adalah wanita yang tegas dan cermat. Surat-surat darinya ditulis dengan etiket yang sempurna dan bahkan dilipat sesuai dengan kaidah yang benar. Hal-hal kecil seperti inilah yang, walaupun jarang dilihat orang, bisa memperlihatkan martabat seseorang. 
+-- id-new
+
+-- komentar
+Versi bahasa Indonesia kayaknya agak kreatif di sini. Di bahasa Inggris memang agak ambigu, tapi sepertinya sih Ningguang hanya menebak sifat Jean karena belum pernah ketemu langsung. Di bahasa Jepang konotasinya "dia pasti seperti ini, ya?" 
+
+Bahasa Inggris menggunakan kata "strict" (ketat) dan "impeccable" (standar yang tinggi, tidak bercela). Bahasa Jepang menggunakan 真面目 (serius, jujur, kokoh, tegas) dan 繊細 (hati-hati, sensitif, gemulai). Kata-kata yang kupilih, "tegas" dan "cermat", kayaknya sudah cukup mewakili.
+-- komentar
+
+# Tentang Yanfei
+title:
+id-new = Tentang Yanfei
+en-og = About Yanfei
+id-og = Tentang Yanfei
+zh-cn = 关于烟绯…
+
+-- id-new
+Yanfei? Bisa dikatakan dia adalah sainganku yang paling berharga. Jikalau ia tidak semahir ini mempelajari liku-liku hukum, atau ia tidak mengabari kliennya akan semua celah yang ia temukan itu, akan butuh berbulan-bulan lagi bagiku untuk menemukan dan mengetatkan celah-celah hukum tersebut.
+-- id-new
+
+# Tentang Yun Jin
+title:
+id-new = Tentang Yun Jin
+en-og = About Yun Jin
+id-og = Tentang Yun Jin
+zh-cn = 关于云堇…
+
+-- id-new
+Yun Jin... Apa engkau bisa menikmati pertunjukannya? Mungkin agak sulit di awal, tapi kusarankan untuk mencoba menontonnya. Alasanku untuk membiayai operanya sederhana saja: Seni yang elok seperti ini layak diturunkan ke generasi mendatang.
+-- id-new
 
 # Lebih Dalam Tentang Ningguang: I
 title:

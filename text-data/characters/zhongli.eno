@@ -5,18 +5,18 @@ type: Voice Lines
 -- komentar
 Ah... Zhongli... Beliau mungkin salah satu karakter yang paling menarik untuk diterjemahkan. Lebih-lebih karena suara versi Mandarin, Jepang, dan Inggris, semuanya memiliki "rasa" yang berbeda (saya kurang terbiasa bahasa Korea jadi belum bisa menerka rasa dalam bahasa itu, maap). Dalam ketiganya, Zhongli terdengar sudah tua dan menggunakan gaya bahasa lama, tapi lalu variasinya beda-beda jauh. 
 
-Dalam rasa original bahasa Mandarin, dia terdengar berwibawa, terhormat, tetapi lembut sekali. Dia kesannya sangat penyayang yang juga sangat sedih karena banyak terbebani ingatan masa lalu. Dalam bahasa Inggris dia *boomer*, orang tua yang gagap masa modern dan suka dijadikan bahan ejekan. Dalam bahasa Jepang justru kebalikannya: dia dewa perang 100%, percaya diri, sanggup mengalahkan semua orang, versi nyata meme ini: "please stop praying for my grandpa!! you are making him too strong. he broke out of the hospital and the cops cant get him. he's too powerful".
+Dalam rasa original bahasa Mandarin, dia terdengar berwibawa, terhormat, tetapi lembut sekali. Dia kesannya sangat penyayang tapi juga sangat sedih karena banyak terbebani ingatan masa lalu. Dalam bahasa Inggris dia *boomer*, orang tua yang gagap masa modern dan suka dijadikan bahan ejekan. Dalam bahasa Jepang justru kebalikannya: dia dewa perang 100%, percaya diri, sanggup mengalahkan semua orang, versi nyata meme ini: "please stop praying for my grandpa!! you are making him too strong. he broke out of the hospital and the cops cant get him. he's too powerful".
 
-Old man (affectionately) vs old man (deragatory) vs old man (broke out of the hospital)
+Kurang lebih: Old man (affectionately) vs old man (deragatory) vs old man (broke out of the hospital)
 
-Dalam versi bahasa Indonesia ini saya banyak mengambil rujukan dari sastra Indonesia lama, jadi kesannya mungkin seseorang yang berwibawa, tapi dari tahun-tahun terdahulu dan sudah tidak cocok dengan generasi sekarang. Mungkin hasilnya jadi melenceng jauh dari versi resmi bahasa Indonesia ya, haha.
+Dalam versi bahasa Indonesia ini saya banyak mengambil rujukan dari sastra Indonesia lama, jadi kesannya mungkin seseorang yang berwibawa, tapi dari tahun-tahun terdahulu dan sudah tidak cocok dengan generasi sekarang.
 
 Untuk kata gantinya saya membuatnya memakai "Saya" dan "Anda". Selain karena dia *old-fashioned*, Zhongli juga bukan tipe yang memajukan dirinya sendiri, jadi kurasa ini lebih cocok daripada "Aku" / "Kamu" bahkan dalam percakapannya sehari-hari.
 -- komentar
 
 # Salam
 title:
-id-new = Salam
+id-new = Salam Kenal
 en-og = Hello
 id-og = Halo...
 zh-cn = 初次见面…
@@ -65,7 +65,7 @@ title:
 id-new = Tentang Kita: Emas
 en-og = About Us: Gold
 id-og = Tentang Kita: Emas
-zh-cn = 关于我们・黄金
+zh-cn = 关于我们·黄金
 
 -- id-new
 Emas adalah kekayaan utama Liyue yang mengalir bagaikan darah dalam jantung kota ini. Sedangkan jantung Anda sendiri, Pengembara, masih harus kita lihat apakah juga bersinar seperti emas.
@@ -88,7 +88,7 @@ title:
 id-new = Tentang Kita: Kontrak
 en-og = About Us: Contracts
 id-og = Tentang Kita: Persetujuan
-zh-cn = 关于我们・契约
+zh-cn = 关于我们·契约
 
 -- id-new
 Sudah ada kontrak di antara kita berdua, jadi silakan bertanya tentang apapun yang berada dalam cakupan kontrak tersebut.
@@ -117,7 +117,7 @@ title:
 id-new = Tentang Kita: Adil
 en-og = About Us: Fairness
 id-og = Tentang Kita: Keadilan
-zh-cn = 关于我们・公平
+zh-cn = 关于我们·公平
 
 -- id-new
 Kita juga bisa membicarakan hal-hal di luar kontrak. Saya sudah cukup lama berada di tanah ini, dan saya pun sudah tahu akan berbagai macam hal. Tentu saja, saya juga berharap Anda bisa membantu saya, Pengembara. Barulah dengan itu kita bisa adil.
@@ -140,7 +140,7 @@ title:
 id-new = Tentang Kita: Kebingungan
 en-og = About Us: Confusion
 id-og = Tentang Kita: Kebingungan
-zh-cn = 关于我们・困惑
+zh-cn = 关于我们·困惑
 
 -- id-new
 Kontrak tak bisa digunakan untuk menentukan tingkat persahabatan ataupun mengukur perasaan seseorang terhadap orang lain. Lantas, apa yang bisa kita gunakan untuk mengukur kedekatan satu sama lain? Apa Anda memiliki jawabannya, wahai sahabat saya?  
@@ -236,6 +236,7 @@ title:
 id-new = Tentang Xiao
 en-og = About Xiao
 id-og = Tentang Xiao...
+zh-cn = 关于魈…
 
 -- id-new
 Ah, sang adeptus muda dari Dataran Guili... Hingga hari ini pun dia masih menjalankan tugasnya. Tolong bawakan obat penahan sakit ini untuknya. Ah ya, dan tolong pastikan Paimon tidak memakannya. Obat ini... Makhluk biasa tidak akan kuat mencernanya. 
@@ -266,6 +267,7 @@ title:
 id-new = Tentang Venti
 en-og = About Venti
 id-og = Tentang Venti...
+zh-cn = 关于温迪…
 
 -- id-new
 Tsk, bau alkohol yang menyengat ini... Sang penyair itu baru saja lewat di sini, bukan? Sungguh, pemabuk itu tidak bisa tidak mempermalukan dirinya sendiri. Ah, apa dia memperdayamu hingga ikut mabuk, Pengembara? Tunggu sebentar. Akan saya seduh teh yang bisa menghilangkan mabuk. Akan selesai dalam enam jam, jadi mohon tunggu sebentar.
@@ -288,6 +290,7 @@ title:
 id-new = Tentang Ningguang
 en-og = About Ningguang
 id-og = Tentang Ningguang...
+zh-cn = 关于凝光…
 
 -- id-new
 Walaupun hari-harinya selalu dipenuhi kesibukan, ia selalu maju dengan gigih. Ia memang manusia yang hebat. Masih terngiang di benak saya saat dulu ia harus berjalan tanpa alas kaki dari Teluk Yaoguang hingga ke pelabuhan di selatan, berusaha menjual dagangannya. Sungguh, waktu memang kejam terhadap manusia biasa.  
@@ -310,6 +313,7 @@ title:
 id-new = Tentang Hu Tao
 en-og = About Hu Tao
 id-og = Tentang Hu Tao...
+zh-cn = 关于胡桃…
 
 -- id-new
 Pemimpin Rumah Duka sekarang ini? Saya tidak tahu cara menangani anak itu. 
@@ -332,6 +336,7 @@ title:
 id-new = Tentang Tartaglia: Tenang
 en-og = About Tartaglia: Composed
 id-og = Tentang Tartaglia: Tenang
+zh-cn = 关于达达利亚·沉着
 
 
 -- id-new
@@ -355,9 +360,10 @@ title:
 id-new = Tentang Tartaglia: Berbagi Kisah
 en-og = About Tartaglia:
 id-og = Tentang Tartaglia: Minuman
+zh-cn = 关于达达利亚·酒桌
 
 -- id-new
-Saya dengar reputasi sang Raden Mas di antara para Fatui telah sekali lagi merosot. Tapi dari yang saya tahu tentangnya, dia pasti akan dengan mudah mengalahkan semua yang berani menentangnya. Hm... Pasti akan ada banyak kisah yang bisa didengar darinya saat kita bertemu dan bertukar sapa lagi. Saat waktu itu tiba, apa Anda ingin ikut bersama kami, wahai Pengembara? 
+Saya dengar reputasi sang Raden Mas di antara para Fatui telah sekali lagi merosot. Tapi dari yang saya tahu tentangnya, dia pasti akan dengan mudah mengalahkan semua yang berani menentangnya. Hmm... Pasti akan ada banyak kisah yang bisa didengar darinya saat kita bertemu dan bertukar sapa lagi. Saat waktu itu tiba, apa Anda ingin ikut bersama kami, wahai Pengembara? 
 -- id-new
 
 -- en-og
@@ -373,9 +379,7 @@ Kudengar bahwa reputasi Childe di Fatui telah merosot belakangan ini. Tetapi ora
 -- zh-cn
 
 -- komentar
-Aku sebenarnya kurang suka "公子" diterjemahkan jadi "Childe" dalam versi bahas Inggris, apalagi ketika diambil mentah-mentah dari bahasa Inggris ke bahasa lain. Lalu di versi bahasa Indonesia otakku sendiri bolak balik bacanya kayak kata bahasa Inggris "Child" atau "Chil-de". Bah.
-
-Silakan baca komentar di halaman si Raden Mas Tartaglia sendiri kenapa saya ambil terjemahan ini untuk namanya. 
+Silakan baca komentar di halaman si Raden Mas Tartaglia sendiri untuk lihat kenapa saya ambil terjemahan ini untuk namanya. 
 -- komentar
 
 # Tentang Ganyu 
@@ -383,6 +387,7 @@ title:
 id-new = Tentang Ganyu
 en-og = About Ganyu
 id-og = Tentang Ganyu... 
+zh-cn = 关于甘雨…
 
 -- id-new
 Kesejahteraan Liyue tidak hanya dibangun dari ramalan dan kebijaksanaan Yanwang Dijung, tetapi juga oleh abdi-abdinya yang menghormati kontrak mereka.  Dari mereka semua, Ganyu telah mengabdi dalam waktu terlama. Jika ada tentang masa lalunya yang ingin Anda ketahui, Pengembara... Sebaiknya Anda tanyakan langsung padanya. Saya tidak ingin menyinggung perasaannya. 
@@ -405,6 +410,7 @@ title:
 id-new = Tentang Keqing
 en-og = About Keqing
 id-og = Tentang Keqing... 
+zh-cn = 关于刻晴…
 
 -- id-new
 Di antara para Qixing, dialah yang paling tidak menggantungkan kepercayaannya pada para dewa. Sejujurnya, saya sendiri merasa senang dengan adanya orang-orang sepertinya. Mereka yang berani mengungkapkan pikirannya ketika mereka tahu mereka benar, dan lalu berani maju dan bertindak atas ucapannya itu... keberadaan mereka adalah alasan saya merasa bisa mundur dari administrasi Liyue.
@@ -427,7 +433,7 @@ title:
 id-new = Tentang Yanfei
 en-og = About Yanfei
 id-og = Tentang Yanfei... 
-
+zh-cn = 关于烟绯…
 
 -- id-new
 Ia memang tidak pernah menandatangani kontrak dengan saya, tapi Yanfei tetap menegakkan keteraturan di berbagai lapisan masyarakat Liyue dengan caranya sendiri, yakni dengan membersihkan kerancuan makna dan membenarkan galat... Jika ayahnya suatu hari memutuskan untuk kembali, dia pasti akan merasa bangga atas perkembangan putrinya. 
@@ -446,6 +452,7 @@ title:
 id-new = Tentang Baal
 en-og = About Baal
 id-og = Tentang Baal
+zh-cn = 关于巴尔…
 
 -- id-new
 Segala hasrat akan lama kelamaan terasah oleh waktu. Demi pendiriannya, ia pun tidak segan mengorbankan segalanya. Mungkin karena itulah dia bisa berada di tempatnya berdiri sekarang. Jika ada kesempatan, saya pun ingin belajar tentang "Keabadian" yang begitu teguh dikejarnya itu.

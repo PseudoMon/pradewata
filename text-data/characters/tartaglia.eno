@@ -3,11 +3,11 @@ title: Raden Mas
 type: Voice Lines
 
 -- komentar
-Aku gak habis pikir. Ini penerjemah bahasa Inggris dapet dari nama nama "Childe" untuk nerjemahin "公子" (*Gongzi*, kurang lebih artinya "Tuan Muda")??? Lalu seperti biasa versi bahasa Indonesia cuman ambil mentah-mentah tanpa nengok asal muasalnya, lalu hasilnya orang-orang Indonesia kebingungan bacanya kayak kata bahasa Inggris Child aka "bocah", atau chil-de, dua suku kata. Terima kasih Genshin, telah membuat otak bilingualku stres.
+Aku gak habis pikir. Ini penerjemah bahasa Inggris dapet dari nama nama "Childe" untuk nerjemahin "公子" (*Gongzi*, kurang lebih artinya "Penguasa/Tuan Muda")??? Lalu seperti biasa versi bahasa Indonesia cuman ambil mentah-mentah tanpa nengok asal muasalnya, lalu hasilnya orang-orang Indonesia kebingungan bacanya kayak kata bahasa Inggris Child aka "bocah", atau chil-de, dua suku kata. Terima kasih Genshin, telah membuat otak bilingualku stres.
 
 Aku tolak itu semua! Jadinya kumikir dulu, kata bahasa Indonesia apa yang paling bisa melambangkan nama/gelar ini? "Tuan Muda" rasanya terlalu biasa... Akhirnya kepikiran... "Raden Mas"? Ini Jawa/Sunda sih, bukan Indonesia umum, tapi okelah! Bisa! Plus kocak juga ngebayangin Tatang dipanggil Raden. "Mas Raden!" gitu kan lebih enak daripada "Tuan Childe!"
 
-Asumsi nama/gelar Gongzi ini munculnya dari para Fatui aka orang Snezhnaya aka asalnya Rusia, harusnya sih kita nyari istilah dari bahasa Rusia ya? Sayangnya aku belum punya teman dari Rusia yang bisa dikonsultasi, jadi yah. Jadilah orang Jawa dulu ya, Mas Tatang.
+Asumsi nama/gelar Gongzi ini munculnya dari para Fatui aka orang Snezhnaya aka basis asalnya Rusia, harusnya sih kita nyari istilah dari bahasa Rusia ya? Sayangnya aku belum punya teman dari Rusia yang bisa dikonsultasi, jadi yah. Jadilah orang Sunda dulu ya, Mas Tatang.
 -- komentar
 
 # Salam Kenal
@@ -15,6 +15,7 @@ title:
 id-new = Salam Kenal
 id-og = Halo
 en-og = Hello
+zh-cn = 初次见面…
 
 -- id-new
 Aku Raden Mas Tartaglia, anggota kesebelas dari Sebelas Fatui Harbinger. Dan kamu... Haha, kamu juga tipe yang suka membuat masalah, ya? Kita pasti bisa jadi sahabatan.
@@ -25,6 +26,7 @@ title:
 id-new = Tentang Tartaglia
 id-og = Tentang Tartaglia
 en-og = About Tartaglia
+zh-cn = 关于达达利亚自己…
 
 -- id-new
 Seorang petarung harus siap menghadapi tantangan apapun dengan pedangnya. Kalah atau menang itu tidak penting, yang penting bisa mendapat pengalaman yang baru.
@@ -35,6 +37,7 @@ title:
 id-new = Tentang Kita: Kerja Sama
 id-og = Tentang Kita: Seperjuangan
 en-og = About Us: Comrades
+zh-cn = 关于我们·同僚
 
 -- id-new
 Ahaha, aku yakin para Harbinger lain sudah tahu kalau kita bekerja sama sekarang. Tampang mereka seperti apa ya saat mereka tahu? Hahaha!
@@ -44,6 +47,8 @@ Ahaha, aku yakin para Harbinger lain sudah tahu kalau kita bekerja sama sekarang
 title:
 id-new = Tentang Kita: Senjata 
 id-og = Tentang Kita: Senjata 
+en-og = About Us: Weapons
+zh-cn = 关于我们·兵器
 
 -- id-new
 Sebenarnya aku paling tidak mahir dengan busur panah, tapi justru karena itulah senjata ini pantas kutaklukan.
@@ -52,8 +57,9 @@ Sebenarnya aku paling tidak mahir dengan busur panah, tapi justru karena itulah 
 # Tentang Kita: Bertahan Hidup
 title:
 id-new = Tentang Kita: Bertahan Hidup
-id-og = Tentang Kita: Bertahan Hidup
+id-og = Tentang Kita: Bertahan hidup
 en-og = About Us: Survival
+zh-cn = 关于我们·生存
 
 -- id-new
 Tanpa Vision pun, kamu bisa mengerahkan kekuatan yang begitu besar... Ahaha, aku jadi semangat memikirkan perkembanganmu nanti. Ayo kita lihat batas kemampuanmu. Tapi jangan mati ya sebelum kita bisa mengerahkan segalanya untuk pertempuran terakhir kita! Dilarang keras!
@@ -70,6 +76,7 @@ title:
 id-new = Tentang Kita: Undangan
 id-og = Tentang Kita: Undangan
 en-og = About Us: Invitation
+zh-cn = 关于我们·邀请
 
 -- id-new 
 Sobat, gimana kalau kamu bergabung dengan Fatui? ... Eh, nggak usah deh. Dengan kemampuanmu itu, kita berdua bisa menantang Sebelas Harbinger dan menang! Masa kesempatan seperti ini kita lewatkan begitu saja?
@@ -80,6 +87,7 @@ title:
 id-new = Tentang Visionnya
 id-og = Tentang Vision
 en-og = About the Vision
+zh-cn = 关于「神之眼」…
 
 -- id-new
 Kalau ada yang bisa membuatku lebih kuat, apapun itu akan kuambil. Vision? Boleh. Delusion? Boleh. Ajaran sesat dari Abyss? Boleh banget, sini.
@@ -90,6 +98,7 @@ title:
 id-new = Yang Ingin Diceritakan
 id-og = Berbagi Cerita
 en-og = Something to Share
+zh-cn = 有什么想要分享…
 
 -- id-new
 Di padang salju yang tak berujung itu, nyawamu bisa kapanpun habis direngus salju hingga tidak meninggalkan belulang sekalipun. Inilah musuh tak terlihat yang kita lawan setiap hari.
@@ -116,6 +125,7 @@ title:
 id-new = Serba-Serbi
 id-og = Rumor yang menarik
 en-og = Interesting Things
+zh-cn = 感兴趣的见闻…
 
 -- id-new
 Dulu aku pernah berkelana ke liang terdalam Abyss dan bertemu dengan binatang buas yang begitu besar. Entah namanya apa, tapi tampangnya saja membuat bulu kudukku berdiri. Camkan ini. Suatu hari nanti, aku akan kembali dan menaklukan binatang itu. Dan kamu akan jadi saksiku, sobat!
@@ -126,6 +136,7 @@ title:
 id-new = Tentang Skirk
 id-og = Tentang Skirk
 en-og = About Skirk
+zh-cn = 关于丝柯克…
 
 -- id-new
 Sudah bertahun-tahun sejak aku terakhir bertemu dengan Guru. Kuharap saat kita bertemu lagi, setidaknya dia harus menggunakan kedua tangannya untuk melawanku.
@@ -136,6 +147,7 @@ title:
 id-new = Tentang Zhongli: Berpikir-pikir
 id-og = Tentang Zhongli: Pertimbangkan
 en-og = About Zhongli: Pondering
+zh-cn = 关于钟离·掂量
 
 -- id-new
 Orang itu... banyak yang disembunyikannya. Kekuatannya pun sepertinya bukan main. Akan kunantikan saat kita bisa melihatnya!
@@ -146,6 +158,7 @@ title:
 id-new = Tentang Zhongli: Penantang
 id-og = Tentang Zhongli: Tantangan
 en-og = About Zhongli: Challenge
+zh-cn = 关于钟离·挑战
 
 -- id-new
 Jadi apa kabar Pak Zhongli akhir-akhir ini? Sehat-sehat saja? Sepertinya dia sudah terbiasa ya menjadi manusia biasa? Hmph. Bisa-bisanya dia menipuku! Muslihat seperti ini tidak akan kumaafkan begitu saja! Satu-satunya cara menyelesaikannya adalah dengan pertarungan sengit! Hah, apa katamu? Aku pasti akan kalah? Hahaha.... hahahaha!
@@ -160,6 +173,7 @@ title:
 id-new = Tentang Tsaritsa
 id-og = Tentang Tsaritsa
 en-og = About Tsaritsa
+zh-cn = 关于「女皇」…
 
 -- id-new
 Yang Mulia Tsaritsa sebenarnya adalah seseorang yang sangat halus. Terlalu halus, bahkan, sehingga beliau harus menjadikan dirinya semakin keras. Ia memerangi seluruh dunia justru karena ia mendambakan perdamaian. Dan karena ia menjadi musuh seluruh dunia, aku jadi bisa bertemu denganmu. 
@@ -170,7 +184,82 @@ title:
 id-new = Tentang Varka
 id-og = Tentang Varka
 en-og = About Varka
+zh-cn = 关于法尔伽…
 
 -- id-new
 Varka? Kalau suatu hari nanti aku bisa bertemu dan bertarung satu lawan satu dengannya, sang Kesatria Boreas yang legendaris, pemimpin Kesatria Favonius... membayangkannya saja sudah membuatku semangat. Hidup di dunia ini memang indah.
 -- id-new
+
+# Lebih Dalam Tentang Tartaglia: I
+title: 
+id-new = Lebih Dalam Tentang Tartaglia: I
+id-og = Mengenal Tartaglia: I
+en-og = More About Tartaglia: I
+zh-cn = 想要了解达达利亚·其一
+
+-- id-new
+Jangan lupa, sobat! Suatu hari nanti, aku akan menaklukan dunia!
+-- id-new
+
+# Lebih Dalam Tentang Tartaglia: II
+title:
+id-new = Lebih Dalam Tentang Tartaglia: II
+id-og = Mengenal Tartaglia: II
+en-og = More About Tartaglia: II
+zh-cn = 想要了解达达利亚·其二
+
+
+-- id-new
+Mau kamu dewa atau monster dari abyss, lawan aku dengan jujur, satu lawan satu, dan selalu ada kemungkinan aku bisa mengalahkanmu. Tapi Harbinger yang lain? Mereka terlalu terbuai dengan membuat siasat licik dan tipu daya. Karena itulah kita tidak pernah akur.
+-- id-new
+
+-- komentar
+Di versi bahasa Jepang dan sepertinya Mandarin juga memang ada klausa asal musuhnya "memiliki bentuk". Tapi rasanya canggung sih, jadi aku kreatif dikit agar lebih nyambung dengan kalimat keduanya juga. 
+-- komentar
+
+# Lebih Dalam Tentang Tartaglia: III
+title:
+id-new = Lebih Dalam Tentang Tartaglia: III
+id-og = Mengenal Tartaglia: III
+en-og = More About Tartaglia: III
+zh-cn = 想要了解达达利亚·其三
+
+-- id-new
+Seberapa jauh pun kampung halamanku, kita semua tingal di bawah langit yang sama. Bulan yang bersinar seperti salju itu pun juga bulan yang sama dengan yang dilihat keluargaku. Kuharap adik-adikku baik-baik saja... dan kuharap mereka juga sudah tumbuh menjadi petarung yang kuat.
+-- id-new
+
+-- komentar
+Di versi Mandarin/Jepang yang disebut memang adiknya saja (弟弟妹妹 / 弟や妹 / adik laki-laki dan perempuan). Kita tahu Tartaglia punya seenggaknya dua kakak, tapi mereka gak disebut di sini.
+-- komentar
+
+# Lebih Dalam Tentang Tartaglia: IV
+title:
+id-new = Lebih Dalam Tentang Tartaglia: IV
+id-og = Mengenal Tartaglia: IV
+en-og = More About Tartaglia: IV
+zh-cn = 想要了解达达利亚·其四
+
+-- id-new
+Sobat, sekedar saran. Jangan teriak-teriak yang tidak jelas di tengah pertarungan. Jangan teriak "Semangatku membara!". Itu tidak ada artinya. Bara api tidak menyisakan apapun selain debu yang tidak berguna, sedangkan kamu harus bertahan hidup bagaimanapun juga.
+-- id-new
+
+# Lebih Dalam Tentang Tartaglia: V 
+title:
+id-new = Lebih Dalam Tentang Tartaglia: V
+id-og = Mengenal Tartaglia: V
+en-og = More About Tartaglia: V
+zh-cn = 想要了解达达利亚·其五
+
+-- id-new
+Ah, waktu begitu cepat berlalu. Suatu hari nanti, akan kau lihat bagaimana aku menaklukan seluruh dunia dan meremukkan takhta para dewa dengan hentakan kakiku. Tapi hingga hari itu tiba, jangan mati ya, sobat! Hahaha!
+-- id-new
+
+-- komentar
+Oke. Versi bahasa Inggris ini. "Crush the thrones of gods beneath my heel." Ini bagus banget. Tartaglia, marry me.
+
+Tapi justru karena bagus banget jadi bingung gimana energinya bisa dibawa ke bahasa Indonesia. Versi resmi bahasa Indonesia konotasinya malah bertolak belakang: "menginjakkan kaki" justru kedengarannya dia mengambil alih posisi yang sama.  
+
+Konotasi kata "menginjak" sendiri sebenarnya sudah bagus: menginjak-injak sesuatu berarti mencemari/menjelekkan/tidak memberi hormat ke sesuatu itu, tapi susah kalau digabungin dengan menghancurkan/meremukkan. "Menginjak hingga hancur" jadinya kepanjangan dan gak kebawa energinya. Sekalinya kata "injak" dijadikan kata benda "injakan," konotasinya jadi lebih halus; kita gak mau ini.
+
+AAAaaaAAAA yasudahlah begini saja dulu.
+-- komentar
