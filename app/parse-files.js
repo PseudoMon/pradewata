@@ -52,6 +52,24 @@ export async function getCharacterList() {
   return charaList
 }
 
+export async function getCharaData(charaId) {
+  // Technically it'll be cheaper if we load this file once,
+  // and grab both commen and voice lines
+  // alas I am at the moment too lazy to refactor the codes for that
+  // This'll have to do
+  const file = await fs.readFile(
+    path.join(textDataPath, "characters", `${charaId}.eno`),
+    "utf-8",
+  )
+
+  const enodoc = enolib.parse(file)
+  const name = enodoc.field("name").optionalStringValue()
+  const title = enodoc.field("title").optionalStringValue()
+  const rawComment = enodoc.field("komentar").optionalStringValue()
+
+  return { name, title, comment: mdParser.render(rawComment) }
+}
+
 export async function getCharaVoiceLines(charaId) {
   const file = await fs.readFile(
     path.join(textDataPath, "characters", `${charaId}.eno`),

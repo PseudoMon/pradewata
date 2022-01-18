@@ -12,7 +12,6 @@ export function links() {
 
 export default function CharacterListPage() {
   const charactersData = useLoaderData()
-  console.log(charactersData)
 
   return (
     <ul className="character-list">

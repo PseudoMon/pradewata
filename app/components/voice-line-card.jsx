@@ -42,7 +42,7 @@ export default function VoiceLineCard({ voiceLine, lang }) {
       }
 
       {
-        commentIsOpen ? (
+        isOpen && commentIsOpen ? (
           <div className="comment-box"
             dangerouslySetInnerHTML={{ __html: voiceLine.line["komentar"] }}
            />

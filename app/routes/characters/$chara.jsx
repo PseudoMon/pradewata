@@ -1,6 +1,6 @@
 import { useLoaderData } from 'remix'
 import { useState } from 'react'
-import { getCharaVoiceLines } from '~/parse-files'
+import { getCharaVoiceLines, getCharaData } from '~/parse-files'
 import VoiceLineCard from '~/components/voice-line-card.jsx'
 import charaPageStyles from '~/styles/charapage.css'
 
@@ -10,20 +10,23 @@ export function links() {
 
 export async function loader({ params }) {
   const charaId = params.chara
-  let voiceLines = await getCharaVoiceLines(params.chara)
+  let charaData = await getCharaData(charaId)
+  let voiceLines = await getCharaVoiceLines(charaId)
   
   voiceLines = voiceLines.map(voiceLine => ({
     ...voiceLine,
     isCommented: Object.keys(voiceLine.line).includes("komentar")
   }))
 
-  return { voiceLines, charaId }
+  return { voiceLines, charaId, charaData }
 }
 
 export default function CharacterPage() {
-  const [currentLang, setLang] = useState("id-new") 
-  const { voiceLines, charaId } = useLoaderData()
+  const { voiceLines, charaId, charaData } = useLoaderData()
 
+  const [currentLang, setLang] = useState("id-new") 
+  const [commentIsOpen, setCommentOpenState] = useState(false)
+  
   const getIsLangActive = (lang) => {
     if (currentLang === lang) {
       return "active"
@@ -36,6 +39,33 @@ export default function CharacterPage() {
     <article className="character-main">
       <section className="sidebar">
         <img src={`/images/chara-side/${ charaId }.png`} />
+        <div class="character-header">
+          <span class="character-title">{ charaData.title }</span>
+          <span class="character-name">{ charaData.name }</span>
+          <button 
+            class="comment-button"
+            onClick={ () => setCommentOpenState(true) } 
+          >
+            Komentar
+            <svg width="18px" height="18px">
+              <image href="https://icongr.am/fontawesome/bars.svg?size=18&color=E8E6EA" />
+            </svg>
+          </button>
+        </div>
+
+        { commentIsOpen ? (
+          <section class="comment-overlay">
+            <div dangerouslySetInnerHTML={
+              { __html: charaData.comment } 
+            } />
+
+            <button
+              onClick={ () => setCommentOpenState(false) } 
+            >Tutup</button>
+          </section>
+          ) : null
+        }
+        
       </section>
 
       <section className="main-content">
@@ -67,6 +97,8 @@ export default function CharacterPage() {
           )) }
         </ul>
       </section>
+
+
     </article>
   )
 }
