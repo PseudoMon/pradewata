@@ -93,9 +93,18 @@ export async function getCharaVoiceLines(charaId) {
       }
 
       const thisLanguageLine = element.toField()
-
       // The key of the line is the language id
-      thisVoiceLine.line[element.stringKey()] = thisLanguageLine.requiredStringValue() 
+      const langId = element.stringKey()
+      const rawLine = thisLanguageLine.requiredStringValue() 
+
+      if (langId === "komentar") {
+        // Comments get parsed through mardown first
+        thisVoiceLine.line[langId] = mdParser.render(rawLine) 
+      }
+      else {
+        thisVoiceLine.line[langId] = rawLine 
+      }
+      
     })
 
     if (fallbackData) {

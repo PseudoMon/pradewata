@@ -10,8 +10,13 @@ export function links() {
 
 export async function loader({ params }) {
   const charaId = params.chara
-  const voiceLines = await getCharaVoiceLines(params.chara)
+  let voiceLines = await getCharaVoiceLines(params.chara)
   
+  voiceLines = voiceLines.map(voiceLine => ({
+    ...voiceLine,
+    isCommented: Object.keys(voiceLine.line).includes("komentar")
+  }))
+
   return { voiceLines, charaId }
 }
 

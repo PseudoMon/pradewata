@@ -51,6 +51,8 @@
 }
 
 .voice-line-card {
+    clear: both;
+
     .header {
         font-size: 24px;
         line-height: 30px;
@@ -70,16 +72,53 @@
         cursor:  pointer;
     }
 
+    &.commented .header {
+        border-right: solid 4px var(--color-accent);
+    }
+
     .content {
         box-sizing: border-box;
         /* border: solid 4px var(--color-overlay); */
         border-radius: 30px;
-        padding: 1em 2.2em 0.5em 2.2em;
+        padding: 1.3em 2.2em 0.8em 2.2em;
         background-color: var(--color-textbg);
 
         margin-top: -1em;
     }
+
+    &.commented .content {
+        padding-bottom: 1.5em;
+    }
+
+    .comment-button {
+        background-color: var(--color-accent);
+        color: var(--color-tet);
+        border: none;
+        border-radius: 20px;
+        box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+        cursor: pointer;
+        
+        display: flex;
+        align-items: center;
+        float: right;
+
+        padding: 0.3em 1em;
+        margin-right: 1em;
+        margin-top: -1.1em;
+
+        font-size: 24px;
+        text-transform: lowercase;
+    }
+
+    .comment-box {
+        border: solid 4px var(--color-accent);
+        border-radius: 12px;
+        background-color: var(--color-semibg);
+        padding: 1em 2em 1em 2em;
+        margin-left: 32px;
+    }
 }
+
 
 .voice-lines {
     & > * {
