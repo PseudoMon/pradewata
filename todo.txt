@@ -1,7 +1,7 @@
 TODO
-- COMMENTS
+[V] COMMENTS
+[V] Scrape data from honey hunter
+[V] Use it as fallback when processing the eno file
 - Footer
-- Scrape data from honey hunter
-- Use it as fallback when processing the eno file
 - Design Terminologies page
-- Implement see above
+- Implement Terminologies page
