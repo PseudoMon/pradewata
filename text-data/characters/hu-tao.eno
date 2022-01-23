@@ -1,0 +1,359 @@
+name: Hu Tao
+title: Semerbak Salju Bertemu Matahari
+type: Voice Lines
+
+-- komentar
+Hu Tao aka The Translation Struggles. Banyak dari voice line-nya yang dia nyanyi, atau ngebuat pantun, atau pakai permainan kata. Aku bolak balik buka kamus/tesaurus bukan nyari arti kata, tapi nyari sinonim yang rimanya cocok. Alamak.
+
+Sifat Hu Tao menarik menurutku. Dia *playful*, apapun dibawa santai, tapi saat sifat ini digabungkan dengan tugasnya yang banyak ngurusin alam baka, yha, orang-orang lain banyak ngaggep dia sinting. Hu Tao waras kok 100%, tapi agak kekanak-kanakan, tapi kekanakannya juga banyak yang disengaja. Gaya bahasanya juga kubuat santai dan pakai kosa kata sehari-hari.
+
+Gelar Hu Tao adalah 雪晴梅香 / 雪霁梅香 dalam bahasa Jepang/Mandarin. Dari huruf-hurufnya, ada kata salju-cerah-aprikos-aroma. Aku masih bingung aprikosnya ngapain di situ, tapi kurang lebih konsep yang kutangkep: bau harum salju ketika dilelehkan oleh matahari yang muncul saat hari cerah. Adapasi bahasa Inggrisnya bagus banget: "Fragrance in Thaw". 
+
+Apakah salju saat meleleh baunya semerbak? Entah. Di Indonesia kan gak ada salju.
+
+Versi resmi bahasa Indonesia buat Hu Tao menurutku agak... kok gini... Ini Hu Tao apa Zhongli...? Turut berduka cita bagi semua penggemar Hu Tao yang main Genshin versi bahasa Indonesia. 
+-- komentar
+
+# Salam Kenal
+title:
+id-new = Salam Kenal
+id-og = Halo
+en-og = Hello
+zh-cn = 初次见面…
+
+-- id-new
+Yoho, jadi kamu ada urusan apa denganku? Oh, kamu belum tahu aku siapa? Aku direktur Rumah Duka Wangsheng, generasi ke-77, Hu Tao! Tapi kalau dari wajahmu... Rona yang sehat, postur yang bagus... Wah, yang kamu cari bukan yang biasanya aku urusi, ya?   
+-- id-new
+
+# Tentang Hu Tao: Nama
+title:
+id-new = Tentang Hu Tao: Nama
+id-og = Tentang Hu Tao: Nama
+en-og = About Hu Tao: Name
+zh-cn = 关于胡桃自己·名字
+
+-- id-new
+Namaku Hu Tao! Kayak, "ke HUtan aku meranTAU, jadi almarHUm nggak TAUnya" hahaha... Eh... nggak lucu ya? 
+-- id-new
+
+-- komentar
+Struggles. Pain. Suffering. Translators hate to love this line.
+
+Aku nggak tahu di bahasa Mandarin aslinya gimana, tapi salut buat penerjemah resmi bahasa Indonesia. Dia juga pasti suffering ngerjain yang ini, tapi hasilnya lumayanlah. Versi bahasa Inggris juga lebih bagus lagi imo, enak ya HU dan WHO bacanya sama. Di versi Jepang: "hu seperti di ofuzake (keisengan) dan ta di guutara (pemalas)"... Lebih gak lucu lagi wkwk. 
+
+Buat versiku aku sampe ngebuka daftar kata bahasa indonesia dan CTRL+F nyari "hu" dan "tau". Yha, dapetnya ini. Tadinya mau buat joke yang deket-deket "kenapa kamu diam saja, kamu kan taHU" tapi gak dapet. 
+
+Fun fact: nggak ada kata bahasa Indonesia di kamus yang pakai "tao" (atau seenggaknya nggak ada di daftar yang kupakai ini). Sedeket-deketnya, ya "tau". Tolong maafkan kekurangan bahasa ini, Hu Tao. 
+-- komentar
+
+# Tentang  Hu Tao: Trik Kesukaan
+title:
+id-new = Tentang Hu Tao: Trik Kesukaan
+id-og = Tentang Hu Tao: Trik Favorit
+en-og = About Hu Tao: Favorite Tricks
+zh-cn = 关于胡桃自己·拿手好戏
+
+-- id-new
+Sini, sini, lihat! Pertama... bola api! Lalu... wuush! Kupu-kupu api! Terbang ke angkasa!
+-- id-new
+
+# Tentang Kita: Penasaran
+title:
+id-new = Tentang Kita: Penasaran
+id-og = Tentang Kita: Rasa Penasaran
+en-og = About Us: Curiosity
+zh-cn = 关于我们·好奇心
+
+-- id-new
+Kamu pasti sudah keliling ke banyak tempat ya, Pengembara? Jadi pasti kamu sudah lihat macam-macam! Kalau sempat, cerita-cerita ke aku, ya?
+-- id-new
+
+# Tentang Kita: Malam Hari
+title:
+id-new = Tentang Kita: Malam Hari
+id-og = Tentang Kami: Malam Hari
+en-og = About Us: Night
+zh-cn = 关于我们·夜晚
+
+-- id-new
+Silakan lari-larian bebas di siang hari, tapi kalau malam sudah tiba, hati-hati, ya! Apalagi kalau tidak ada aku.
+-- id-new
+
+-- komentar
+"Apalagi kalau tidak ada aku" ini ambil dari versi Jepang. Dari suaranya, dia emang lagi agak iseng, bukan serius banget.
+-- komentar
+
+# Tentang Kita: Bantuan
+title:
+id-new = Tentang Kita: Bantuan
+id-og = Tentang Kita: Pembantu
+en-og = About Us: Helper
+zh-cn = 关于我们·帮手
+
+-- id-new
+Perlu bantuan? Perlu bantuan? Siap! Di manapun kamu berada, Hu Tao akan selalu datang membantu!
+-- id-new
+
+# Tentang Kita: Bertarung
+title:
+id-new = Tentang Kita: Bertarung
+id-og = Tentang Kami: Pertarungan
+en-og = About Us: Battle
+zh-cn = 关于我们·战斗
+
+-- id-new
+Bertarung tuh merepotkan, tapi buatku bertarung memang hanya cara untuk mencapai tujuanku saja. Bertarung untuk mencapai tujuan, untuk meraih yang tidak bisa kukesampingkan. Kalau dilihat begini, kita berdua mirip, ya?
+-- id-new
+
+# Tentang Visionnya
+title:
+id-new = Tentang Visionnya
+id-og = Tentang Vision
+en-og = About the Vision
+zh-cn = 关于「神之眼」…
+
+-- id-new
+Vision... Vision...? Oh, ini? Iya. Terserah.
+-- id-new
+
+# Yang Ingin Diceritakan
+title:
+id-new = Yang Ingin Diceritakan
+id-og = Berbagi Cerita
+en-og = Something to Share
+zh-cn = 有什么想要分享…
+
+-- id-new
+Dipercaya satu dunia, tapi setia pada dunia lain. Rumah Duka Wangsheng mendapat tanggung jawab istimewa melayani kebutuhan dua alam. Tugas yang kita dapatkan, apapun itu, harus bisa diselesaikan dengan memuaskan masyarakat di alam ini dan juga di alam berikutnya. 
+-- id-new
+
+-- komentar
+Oke aku agak kreatif di sini. Versi resmi bahasa Inggris rasanya agak datar. Kalimat pertama dan kedua gak ada penghubungnya. Struktur ini juga dipakai sama persis di versi bahasa Indonesia dan bahasa Perancis.
+
+Tapi di bahasa Jepang beda! Di bahasa Mandarin juga sepertinya beda? Tapi aku belum cukup mahir di kedua bahasa ini untuk bener-bener ngerti konotasinya. Nggh!! Yawdah, kurombak lagi kira-kira biar konsepnya masuk semua. Mungkin salah? Mungkin banget. Yang bisa bahasa Mandarin boleh banget negur.
+-- komentar
+
+-- alternate
+Kita di Rumah Duka Wangsheng sudah dipercayai dengan tugas yang istimewa, yaitu melayani kebutuhan dari dua dunia. Karena itu, apapun keperluanmu, akan kita selesaikan hingga setuntas-tuntasnya.
+-- alternate
+
+# Serba-Serbi 
+title:
+id-new = Serba-Serbi
+id-og = Cerita yang Menarik
+en-og = Interesting Things
+zh-cn = 感兴趣的见闻…
+
+-- id-new
+Ada sejenis tanaman yang hanya tumbuh di tempat yang suram dan diterangi cahaya bulan. Pernah lihat, nggak? Nggak pernah? Oh, nanti kulihatin, ya!
+-- id-new
+
+# Tentang Zhongli
+title:
+id-new = Tentang Zhongli
+id-og = Tentang Zhongli
+en-og = About Zhongli
+zh-cn = 关于钟离…
+
+-- id-new
+Pak Zhongli tampangnya muda tapi sifatnya manula. Macam-macam tahu, tapi tidak tertarik ke salah satu... Hmm... Apa jangan-jangan dia... Hehe, nggak kok. Bukan apa-apa.
+-- id-new
+
+# Tentang Qiqi
+title:
+id-new = Tentang Qiqi
+id-og = Tentang Qiqi
+en-og = About Qiqi
+zh-cn = 关于七七…
+
+-- id-new
+Sudah lihat Qiqi, belum? Di mana dia? Dia harus cepat-cepat kusegel, ehehe!
+-- id-new
+
+# Tentang Baizhu
+title:
+id-new = Tentang Baizhu
+id-og = Tentang Baizhu
+en-og = About Baizhu
+zh-cn = 关于白术…
+
+-- id-new
+Bazhu? ... Ugh, orang itu merepotkan saja.
+-- id-new
+
+# Tentang Ningguang
+title:
+id-new = Tentang Ningguang
+id-og = Tentang Ningguang
+en-og = About Ningguang
+zh-cn = 关于凝光…
+
+-- id-new
+Ningguang sang Tianquan... Uang tak karuan, wajah berkilauan, pandai tak terelakkan, sempurna kebangetan!
+-- id-new 
+
+--komentar
+Versi bahasa Mandarinnya bagus banget! Suaranya kayak lagi nyanyi pantun! Pasti banyak pakai peribahasa dan syair lama. Bahasa lain berusaha ngikutin tapi gak ada yang bisa sebagus yang asli. The translation struggles. 
+
+Sayangnya aku nggak jago pantun :( . Inipun nyari rimanya bukan main susahnya. Semoga kalian suka hasilnya.
+
+Beberapa potongan alternatif yang kepikiran: 
+- "kaya raya, gelar besar, wajah cantik, apapun ngerti, hebat sekali!"
+- "Ningguang" dirimakan dengan "uang"
+- pantun pake "soang"-"uang" dan "itik"-"karismatik", entah deh 
+
+Atau mungkin aku kebanyakan mikir aja. Versi resmi Indonesianya juga oke-oke aja tbh.
+-- komentar
+
+# Tentang Beidou
+title:
+id-new = Tentang Beidou
+id-og = Tentang Beidou
+en-og = About Beidou
+zh-cn = 关于北斗…
+
+-- id-new
+Kak Beidou sangat terkenal di Liyue. Dia nggak kenal denganku, tapi nggak apa-apa kok. Aku kenal dia juga sudah cukup... Duh, tapi aku pengen banget temenan sama dia.
+-- id-new
+
+# Tentang Xinqiu
+title:
+id-new = Tentang Xinqiu
+id-og = Tentang Xinqiu
+en-og = About Xinqiu
+zh-cn = 关于北斗…
+
+-- id-new
+Dengar-dengar tuan muda Xinqiu sedang menulis buku? Cerita macam apa ya yang dia tulis? Kalau cerita hantu, sebaiknya aku lebih dulu nyeritain semua pengalamanku ke dia! Pasti hasilnya jadi lebih menarik!
+-- id-new   
+
+# Tentang Chongyun
+title:
+id-new = Tentang Chongyun
+id-og = Tentang Chongyun
+en-og = About Chongyun
+zh-cn = 关于重云…
+
+-- id-new
+Banyak Yang, tanpa Yin? Ternyata ada juga ya orang seperti ini.
+-- id-new
+
+-- komentar
+Konsep energi Yang dan Yin ini spesifik China banget sih ya, gak bisa diterjemahkan langsung. Chongyun konon kebanyakan energi Yang, makanya dia harus makan es krim dan nongkrong di tempat yang dingin-dingin.  
+-- komentar
+
+# Tentang Xiao
+title:
+id-new = Tentang Xiao
+id-og = Tentang Xiao
+en-og = About Xiao
+zh-cn = 关于魈…
+
+-- id-new
+Yang kutahu tentang para Xian? Waduh, itu rahasia. Jangan tanya-tanya yang seperti itu padaku.
+--id-new
+
+# Tentang Keqing
+title:
+id-new = Tentang Keqing
+id-og = Tentang Keqing
+en-og = About Keqing
+zh-cn = 关于刻晴…
+
+-- id-new
+Sang Yuheng, Keqing... Dia agak susah ya diajak ngobrol. Habis dia ketat banget sih. Hehe, jadi mau kuisengin. Tapi, nanti aku tidak akan dipentok dengan pedangnya, kan? 
+-- id-new
+
+# Tentang Xiangling
+title:
+id-new = Tentang Xiangling
+id-og = Tentang Xiangling
+en-og = About Xiangling
+zh-cn = 关于香菱…
+
+-- id-new
+Xiangling kocak banget! Dikasih "Dor!" sekali aja dia langsung lompat. Dia gampang banget ditakutin! Berhubung tempat kerjaku yang seperti ini, aku jadi suka orang-orang seperti dia! Tapi harus hati-hati. Nanti tahu-tahunya aku dibakar sama Guoba.
+-- id-new
+
+# Lebih Dalam Tentang Hu Tao: I
+title:
+id-new = Lebih Dalam Tentang Hu Tao: I
+id-og = Mengenal Hu Tao: I
+en-og = More About Hu Tao: I
+zh-cn = 想要了解胡桃·其一
+
+-- id-new
+[ Maaf aku menyerah dulu. ]
+-- id-new
+
+-- komentar
+A SONG. THE TRANSLATOR'S STRUGGLE.
+
+Lagu di sini beda untuk setiap bahasa yang disuarakan, baik isi liriknya ataupun cara menyanyinya. 
+
+Versi Inggris main-main rima aja. Di versi Mandarin, lagunya kurang lebih: hilicurl pertama sakit, hilicurl kedua merawat, hilicurl keempat nyari obat, hilicurl  keempat direbus (???) atau merebus. Di bahasa Jepang ceritanya lebih pendek: Kakak laki-laki hilicurl sakit, kakak perempuan merawatnya, lalu kakak laki-lakinya minum obat tapi gak sembuh.
+
+Bahasa Perancis gak disuarakan, tapi adaptasinya menarik: satu hilicurl sakit, dua hilicurl merawat, tiga hilicurl berdebat, empat hilicurl bermain (??) suling (??), lima hilicurl muntah, enam hilicurl keselip. Mungkin ini asalnya dari lagu anak-anak Perancis, ya?
+
+Untuk terjemahanku pending dulu ya. Aku kepikiran mau adaptasi "Balonku Ada Lima" atau "Potong Bebek Angsa", tapi belum kepikiran gimana caranya. 
+-- komentar
+
+#  Lebih Dalam Tentang Hu Tao: II
+title:
+id-new = Lebih Dalam Tentang Hu Tao: II
+id-og = Mengenal Hu Tao: II
+en-og = More About Hu Tao: II
+zh-cn = 想要了解胡桃·其二
+
+-- id-new
+Ratu rima dari gang-gang tergelap, itulah aku!
+-- id-new
+
+-- komentar
+Iya, "Ratu Rima" itu aku aja yang kreatif. "Penyair" rasanya jadul banget. Mau "Pemantun" atau "Perima" tapi kesannya aneh juga. Jadilah: Ratu Rima Hu Tao! 
+-- komentar
+
+# Lebih Dalam Tentang Hu Tao: III
+title:
+id-new = Lebih Dalam Tentang Hu Tao: III
+id-og = Mengenal Hu Tao: III
+en-og = More About Hu Tao: III
+zh-cn = 想要了解胡桃·其三
+
+-- id-new
+Sebenarnya, kerja di Rumah Duka Wangsheng itu nggak seram ataupun sulit, kok. Hanya agak merepotkan saja. Sayang sekali sih. Orang-orang melihat kita selalu bekerja di malam hari, jadi mereka pada takut. Duh. Padahal mereka nggak ngerti aja.
+-- id-new
+
+# Lebih Dalam Tentang Hu Tao: IV
+title:
+id-new = Lebih Dalam Tentang Hu Tao: IV
+id-og = Mengenal Hu Tao: IV
+en-og = More About Hu Tao: IV
+zh-cn = 想要了解胡桃·其四
+
+-- id-new
+Aku Direktur Rumah Duka Wangsheng generasi ke-77. Kakekku adalah direktur generasi ke-75, dan tanggung jawab pertama yang kuwarisi darinya adalah urusan pemakamannya. Kenapa? Kaget? Sudah lewat bebeberapa tahun ya sejak hari itu... Waktu memang begitu cepat berlalu, ya.
+-- id-new
+
+-- komentar
+Entah kenapa di versi Inggris nggak menyebutkan eksplisit kalau pemakaman pertama yang dilakukan Hu Tao itu untuk kakeknya sendiri. Ini dapet dari versi Jepang dan aku yakin sih pasti ada di versi Mandarin juga. 
+-- komentar
+
+# Lebih Dalam Tentang Hu Tao: V
+title:
+id-new = Lebih Dalam Tentang Hu Tao: V
+id-og = Mengenal Hu Tao: V
+en-og = More About Hu Tao: V
+zh-cn = 想要了解胡桃·其
+
+-- id-new
+Keseimbangan harus dijaga, tapi takdir tak ada yang tahu. Kematian tak bisa ditebak, tapi ada aturannya sendiri. Ingat ini. Di manapun kamu berada, kapanpun itu, dan untuk alasan apapun, jangan pernah mengolok-olok kematian. Baru setelah kamu mengenal dan bisa menghormati kematian, kamu bisa mengerti betapa berharganya hidup.  
+-- id-new
+
+-- komentar
+Ooh, versi resmi bahasa Indonesianya setengah-rima. Dijaga / tetap. Prediksi / tersendiri. Sengaja gak ya?
+
+Versiku ada 10 suku kata semua kecuali klausa terakhir yang 11. Ini... gak disengaja. Mau ganti kata "aturan" biar pas 10 suku kata juga ("struktur"? "hukum"?), tapi nggak ah, artinya terlalu melenceng nanti.
+
+Dari suaranya, Hu Tao agak lebih serius ketika mengatakan ini daripada voice line sebelumnya.
+-- komentar

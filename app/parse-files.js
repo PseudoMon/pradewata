@@ -45,7 +45,7 @@ export async function getCharacterList() {
       name, 
       nameId,
       title, 
-      sideImage: `/images/chara-side/${name.toLowerCase()}.png` 
+      sideImage: `/images/chara-side/${name.toLowerCase().replace(" ", "-")}.png` 
     }) 
   })
 
