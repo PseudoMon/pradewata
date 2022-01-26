@@ -17,9 +17,11 @@ export default function CharacterListPage() {
     <ul className="character-list">
       {
         charactersData.map((chara) => (
-          <li style={{ 
+          <li 
+            style={{ 
             backgroundImage: `url("${ chara.sideImage }")` 
-          }}>
+          }}
+            key={ chara.nameId }>
             <Link to ={ chara.nameId }>
               <span class="character-title">{ chara.title }</span>
               <span class="character-name">{ chara.name }</span>
