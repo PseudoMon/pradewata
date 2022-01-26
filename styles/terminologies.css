@@ -1,0 +1,101 @@
+.terms-page {
+    margin-top: 133px;
+    padding: 0 1em;
+    font-size: 1.1em;
+
+    h1 {
+        font-size: 48px;
+        line-height: 60px;
+        text-align: center;
+    }
+
+}
+
+.terms-section {
+    margin-bottom: 40px; 
+
+    .terms-header {
+        background: #3D2F44;
+        box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.5);
+        border-radius: 20px;
+        font-size: 36px;
+        line-height: 44px;
+        padding: 0.2em 1em;
+        text-align: center;
+
+        margin: 0 20px 24px 20px; 
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        cursor: pointer;
+    }
+
+    .dict-table {
+        width: 90%;
+        max-width: 840px;
+        margin: 0 auto 24px auto;;
+        border-collapse: collapse;
+        background-color: var(--color-semibg);
+    
+
+        thead th {
+            background: var(--color-overlay);
+            padding: 0.2em 1em;
+            font-size: 24px;
+            font-weight: 400;
+            margin-bottom: 1em;
+
+            &:first-child {
+                border-radius: 10px 0 0 10px;
+            }
+
+            &:last-child {
+                border-radius: 0 10px 10px 0;
+            }
+        }
+
+        td {
+            padding: 0.5em 2em;
+        }
+    }
+
+    .text {
+        width: 90%;
+        max-width: 640px;
+        margin: 0 auto;
+        padding: 1em 3em;
+        border-radius: 30px;
+        background-color: var(--color-textbg);
+        border: solid 2px var(--color-accent);
+    }
+
+    .terms-text-button {
+        background-color: var(--color-accent);
+        color: var(--color-text);
+        border: none;
+        border-radius: 20px;
+        box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+        cursor: pointer;
+        
+        display: flex;
+        align-items: center;
+
+        padding: 0.3em 1em;
+        margin: 1.1em auto;
+
+        font-size: 24px;
+        text-transform: lowercase;
+    }
+}
+
+.terms-section.closed {
+    & > * {
+        display:  none;
+    }
+
+    .terms-header {
+        display: flex;
+    }
+}

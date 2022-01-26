@@ -187,3 +187,52 @@ function fillFallbackVoiceLine(fallbackData, voiceLine) {
     line: { ...voiceLine.line, ...extraVoiceLines }
   }
 }
+
+export async function getTerminologiesPage() {
+  const file = await fs.readFile(
+    path.join(textDataPath, "site", `terminologies.eno`),
+    "utf-8"
+  )
+
+  const enodoc = enolib.parse(file.toString())
+
+  let pageSections = []
+
+  enodoc.elements().forEach(element => {
+    if (!element.yieldsSection()) {
+        // Not a section, so what is this section doing here?
+        return
+    }
+
+    const title = element.stringKey()
+    const thisSection = element.toSection()
+    const text = mdParser.render(thisSection.field("text").optionalStringValue())
+
+    let dict = []
+    // should contain a list of entries to the dictionary
+
+    thisSection.section("Dict").elements().forEach(element2 => {
+      if (!element2.yieldsFieldset()) {
+        // Not a fieldset, messed up formatting
+        return
+      }
+
+      const phraseFieldset = element2.toFieldset()
+
+      let dictEntry = {}
+      // This should later contain e.g.
+      // { "id-new": "Pradewata", "en-og": "Allogene", "zh-cn": "原神" }
+
+      phraseFieldset.entries().forEach(entry => {
+        dictEntry[entry.stringKey()] = entry.requiredStringValue()
+      })
+
+      dict.push(dictEntry)
+
+    })
+
+    pageSections.push({ title, text, dict })
+  })
+
+  return pageSections
+}
