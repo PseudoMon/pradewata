@@ -2,6 +2,8 @@ import { useState } from 'react'
 
 export default function TermsSection({ section }) {
   const [isClosed, setCloseStatus] = useState(true) 
+  const [textIsClosed, setTextCloseStatus] = useState(true)
+  // text referring to the explanation text
 
   return (
     <article class={`terms-section${isClosed ? " closed" : ""}`}>
@@ -38,7 +40,10 @@ export default function TermsSection({ section }) {
         </tbody>
       </table>
 
-      <button class="terms-text-button">
+      <button
+        class="terms-text-button"
+        onClick={ () => setTextCloseStatus(!textIsClosed) }
+      >
         <svg width="32px" height="32px">
           <image href="https://icongr.am/fontawesome/angle-double-down.svg?size=32&color=E8E6EA" />
         </svg>
@@ -48,12 +53,10 @@ export default function TermsSection({ section }) {
         </svg>
       </button>
 
-      { typeof section.text === "string" ? 
-        <section 
-          className="text" 
-          dangerouslySetInnerHTML={{ __html: section.text || ""}} 
-        /> : null 
-      }
+      <section 
+        className={`text${textIsClosed ? " closed" : ""}`} 
+        dangerouslySetInnerHTML={{ __html: section.text || ""}} 
+      /> 
 
     </article>
   )

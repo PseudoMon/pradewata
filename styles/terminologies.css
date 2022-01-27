@@ -1,5 +1,5 @@
 .terms-page {
-    margin-top: 133px;
+    margin-top: 100px;
     padding: 0 1em;
     font-size: 1.1em;
 
@@ -80,7 +80,6 @@
         cursor: pointer;
         
         display: flex;
-        align-items: center;
 
         padding: 0.3em 1em;
         margin: 1.1em auto;
@@ -98,4 +97,8 @@
     .terms-header {
         display: flex;
     }
+}
+
+.text.closed {
+    display:  none;
 }

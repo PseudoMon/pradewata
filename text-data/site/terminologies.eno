@@ -107,13 +107,13 @@ Nama Mondstadt (蒙德, *Mengde* di bahasa Mandarin) berasal dari bahasa Jerman 
 
 Kesatrai Favonius dikenal sebagai 西风骑士团 (*Xifeng Qishituan*, Kesatria Angin Barat) di bahasa Mandarin. Favonius dalam mitologi Romawi adalah dewa angin barat, atau dikenal juga sebagai dewa Zephyr dalam mitologi Yunani. 
 
-Berhubung aku belum menerjemahkan karakter dari Mondstadt, bagian ini masih pending dulu ya.
+Berhubung aku belum menerjemahkan karakter dari Mondstadt, bagian ini masih sedikit dulu ya.
 -- text 
 
 ## Dict
 entry:
 id-new = Kesatria Favonius
-en-og = Knighst of Favonius
+en-og = Knights of Favonius
 zh-cn = 西风骑士团
 
 entry:
@@ -132,6 +132,8 @@ Tentara/militer/mata-mata Snezhnaya bernama Fatui. Ini dari bahasa latin, artiny
 "Harbinger" dikenal dengan istilah 执行官 (*Zhixingguan*) di bahasa Mandarin, atau terjemahan harfiahnya "petinggi eksekutif". Agak ngebosenin ya? Tapi kalau gak salah istilah ini juga dipakai di lingkaran mafia/yakuza jadi kayaknya cocok-cocok aja. Aku masih mikir-mikir versi bahasa Indonesianya mau gimana, jadi untuk sekarang kubiarin Harbinger.
 
 Di bahasa Perancis istilah yang dipake *Exécuteurs*. Kata ini bisa dibaca sebagai "pejabat eksekutif" tapi bisa juga dibaca "pengeksekusi" AKA algojo. Nice.
+
+Delusion di versi Mandarin adalah 邪眼 (*Xieyan*, Mata Jahat), yang kontras dengan Vision (神之眼, *Shenzhiyan*, Mata Dewa). Terjemahan Inggrisnya bagus banget sih waw. Untuk Indonesia aku belum kepikiran alternatifnya, jadi kubiarkan Vision/Delusion saja.
 -- text
 
 ## Dict

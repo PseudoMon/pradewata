@@ -23,9 +23,5 @@ pnpm run dev:css
 I haven't decided where to deploy it yet. Probably Vercel or Fly.io. Maybe even get a DIY host if I feel like suffering.
 
 ## TODO
-[V] COMMENTS
-[V] Scrape data from honey hunter
-[V] Use it as fallback when processing the eno file
 - Footer
-[V] Design Terminologies page
-- Implement Terminologies page
+- MOBILE DESIGN

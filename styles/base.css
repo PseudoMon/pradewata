@@ -29,6 +29,15 @@ main {
     margin: 84px auto 0 auto;
 }
 
+a {
+    color:  var(--color-accent);
+    text-decoration:  none;
+}
+
+a:hover {
+    opacity:  0.6;
+}
+
 .homepage {
     margin-top: 133px;
     padding: 0 1em;
