@@ -35,7 +35,7 @@ Liyue (璃月) terdiri dari huruf 璃 yang artinya... saya kurang ngerti sih seb
 
 Entah kenapa, versi bahasa Inggris Genshin menejermahkan hampir semua istilah/nama organisasi ke bahasa Latin, *kecuali* Qixing (七星, Tujuh Bintang). Milelith itu dari bahasa latin mil (seribu) dan lithos (batu). Di aslinya 千岩军 (*Qianyanjun*, Tentara Seribu Batu). Rex Lapis itu latin artinya "Raja Batu", sedangkan aslinya 岩王帝君 (*Yanwang Dijun*, Penguasa Berdaulat Raja Batu).    
 
-Kreatif sih! Tapi buat apaaa, wong Liyue itu memang China, kan. Kalau boleh jujur, aku kurang suka karena kesannya kayak mau menghapus ke-China-an Genshin. Ah tapi mungkin aku kebanyakan mikir aja. Di versiku kebanyakan istilahnya kubiarkan pakai bahasa Mandarinnya saja. 
+Kreatif sih! Tapi buat apaaa, wong Liyue itu memang China, kan. Kalau boleh jujur, aku kurang suka karena kesannya kayak mau menghapus ke-China-an Genshin. Ah tapi mungkin aku kebanyakan mikir aja. Di versiku, banyak istilahnya yang kubiarkan pakai bahasa Mandarinnya saja. 
 
 Istilah "adeptus" di Genshin itu di bahasa aslinya 仙 (*xian*). Ini pasti banyak yang sudah dengar kalau suka baca novel "silat" China (wuxia / xianxia) atau semacamnya. Di media lain kadang diterjemahkan "Immortal". Ini adalah seseorang, atau suatu makhluk, yang berhasil mencapai pencerahan setelah proses yang biasanya diterjemahkan jadi "cultivation", dan jadinya bisa hidup abadi gitu. Konsepnya agak spesifik memang.
 
@@ -99,6 +99,11 @@ entry:
 id-new = Perserikatan Dagang Feiyun
 en-og = Feiyun Commerce Guild 
 zh-cn = 飞云商会
+
+entry:
+id-new = Festival Lautan Cahaya
+en-og = Lantern Rite Festival
+zh-cn = 海灯节
 
 # Mondstadt
 -- text 

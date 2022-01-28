@@ -9,7 +9,7 @@ Dalam rasa original bahasa Mandarin, dia terdengar berwibawa, terhormat, tetapi 
 
 Kurang lebih: Old man (affectionately) vs old man (deragatory) vs old man (broke out of the hospital)
 
-Dalam versi bahasa Indonesia ini saya banyak mengambil rujukan dari sastra Indonesia lama, jadi kesannya mungkin seseorang yang berwibawa, tapi dari tahun-tahun terdahulu dan sudah tidak cocok dengan generasi sekarang.
+Dalam versi bahasa Indonesia ini saya banyak mengambil rujukan dari sastra Indonesia lama, jadi kesannya mungkin seseorang yang berwibawa, tapi dari tahun-tahun terdahulu dan sudah tidak cocok dengan generasi sekarang. Mungkin menarik jika dibandingkan dengan versi resmi yang menurutku sudah cukup bagus juga.
 
 Untuk kata gantinya saya membuatnya memakai "Saya" dan "Anda". Selain karena dia *old-fashioned*, Zhongli juga bukan tipe yang memajukan dirinya sendiri, jadi kurasa ini lebih cocok daripada "Aku" / "Kamu" bahkan dalam percakapannya sehari-hari.
 -- komentar
@@ -358,7 +358,7 @@ Ahli bela diri dari Snezhnaya itu belum pergi dari Liyue? Tidak apa, kalau dia b
 # Tentang Tartaglia: Berbagi Kisah
 title:
 id-new = Tentang Tartaglia: Berbagi Kisah
-en-og = About Tartaglia:
+en-og = About Tartaglia: Drinks
 id-og = Tentang Tartaglia: Minuman
 zh-cn = 关于达达利亚·酒桌
 
@@ -380,6 +380,8 @@ Kudengar bahwa reputasi Childe di Fatui telah merosot belakangan ini. Tetapi ora
 
 -- komentar
 Silakan baca komentar di halaman si Raden Mas Tartaglia sendiri untuk lihat kenapa saya ambil terjemahan ini untuk namanya. 
+
+Di semua versi yang kucek, tajuk *voice line* ini ada hubungannya dengan alkohol. Padahal di isinya sendiri gak ada sebutan alkohol sama sekali. Interpretasiku: yang dimaksud di sini adalah acara minum-minum disertai mengobrol bebas yang biasanya dilakukan selepas kerja. Berhubung di Indonesia ini bukan budaya umum, tajuknya kuganti agar lebih cocok. 
 -- komentar
 
 # Tentang Ganyu 
@@ -478,4 +480,81 @@ Aku cek ke temanku yang bisa bahasa Mandarin dan tinggal di China dan dia konfir
 Aku ambil "terasah" agar maknanya lebih jelas saja, plus variasi lah dengan versi resminya. Versi bahasa Jepang resmi juga menggunakan kata "mengasah" 磨く yang konotasinya kurang lebih sama dengan di bahasa Indonesia. 
 
 ... Oke kalau dipikir lagi, "menempa" seakan membuat makin keras dan "mengasah" seakan membuat makin tajam ini konotasinya masih beda tipis. Ah, tapi kalau gini terus sih gak habis-habis ya.
+-- komentar
+
+# Lebih Dalam Tentang Zhongli: I
+title:
+id-new = Lebih Dalam Tentang Zhongli: I
+en-og = More About Zhongli: I
+id-og = Mengenal Zhongli: I
+zh-cn = 想要了解钟离·其一
+
+-- id-new
+Wahai Pengembara, mengapa saat Anda mendapat waktu senggang, Anda malah mendatangi saya? Apa Anda ingin mendengar kisah-kisah saya?
+-- id-new
+
+# Lebih Dalam Tentang Zhongli: II
+title:
+id-new = Lebih Dalam Tentang Zhongli: II
+en-og = More About Zhongli: II
+id-og = Mengenal Zhongli: II
+zh-cn = 想要了解钟离·其二
+
+-- id-new
+Pengembara, apa Anda pernah dengar tentang asal usul Pandai Besi Heiyan? Pada masa lalu, mereka menambang isi perut Gunung Tianheng lalu mengisinya dengan peralatan berat hingga lambat laun mengubahnya menjadi pabrik terbesar di dataran timur. Terowongan yang mereka gali kini menjalar ke seluruh isi gunung, bahkan hingga mencapai reruntuhan yang berada jauh di dalam bumi. Saya merasa, pada masa kini, tidak ada lagi satupun orang yang bisa memetakan seluruh terowongan mereka.       
+-- id-new
+
+-- komentar
+Baris "lambat laun menjadi pabrik terbesar di dataran timur" ini entah kenapa, menghilang tanpa jejak dari versi bahasa Inggris. Baris ini juga hilang dari versi Perancis, padahal versi Perancis biasanya paling nggak sudi nyontek dari versi Inggris.
+
+Baris ini ada di versi resmi Indonesia, versi Jepang, dan, setelah konsultasi ke temanku yang tinggal di China, ada di versi asli bahasa Mandarin. Kalimatnya juga biasa aja, jadi kita berdua sama-sama bingung, kok di versi Inggris menghilang ya? Entah.
+
+Kata "pabrik" mungkin aneh karena di sini Zhongli cerita tentang sesuatu yang terjadi di masa lampau sedangkan "pabrik" itu kata modern. Kata temanku "工厂" itu memang kata modern sih, jadi ya sudah, aku mengikuti saja. 
+-- komentar
+
+# Lebih Dalam Tentang Zhongli: III
+title:
+id-new = Lebih Dalam Tentang Zhongli: III
+en-og = More About Zhongli: III
+id-og = Mengenal Zhongli: III
+zh-cn = 想要了解钟离·其三
+
+-- id-new
+Pengembara, apa Anda pernah dengar tentang asal usul Festival Lautan Cahaya? Pada masa perang dahulu kala, rakyat Liyue menerbangkan lentera agar serdadu mereka bisa menemukan jalan kembali pulang, dan agar mereka tidak lupa akan alasan awal mereka pergi berperang. Sepertinya pada masa kini tidak ada lagi yang mengingat asal usul itu. 
+-- id-new
+
+-- komentar
+Di versi Inggris, kata "never lose sight of themselves" bisa banyak maknanya. Bisa tidak kehilangan diri sejati mereka, atau tidak lupa akan tujuan mereka, atau semacam-macam itulah. Di bahasa Jepang, frasa yang dipakai adalah 自分の初心を見失わない, "tidak kehilangan/tidak lupa niat awal diri sendiri". Di bahasa Perancis lebih kreatif: "leur apporter de la lumière dans les ténèbres de la guerre", atau "menjadi cahaya dalam kegelapan perang".
+
+Dari yang kutangkep sih, saat para serdadu melihat lentera di langit, mereka jadi teringat keluarga di rumah. Jadi mereka makin mantep akan alasan mereka pergi perang (i.e. untuk melindungi mereka yang ada di rumah).   
+-- komentar
+
+# Lebih Dalam Tentang Zhongli: IV
+title:
+id-new = Lebih Dalam Tentang Zhongli: IV
+en-og = More About Zhongli: IV
+id-og = Mengenal Zhongli: IV
+zh-cn = 想要了解钟离·其四
+
+-- id-new
+Sang Dewa Kontrak... Apa Anda pernah mendengar tentangnya, Pengembara? Konon, beliau memiliki ingatan yang sempurna, hingga bisa mengingat nama semua orang yang ia temui dan pada tanggal berapa setiap kapal dari Liyue pertama berlayar. Begitulah kekuatan ingatannya hingga ia pun bisa mengingat semua kontrak yang ada. Akan tetapi, tidak semua yang tersimpan dalam ingatannya adalah kenangan yang bahagia...  
+-- id-new
+
+# Lebih Dalam Tentang Zhongli: V
+title:
+id-new = Lebih Dalam Tentang Zhongli: V
+en-og = More About Zhongli: V
+id-og = Mengenal Zhongli: V
+zh-cn = 想要了解钟离·其五
+
+-- id-new
+Bagi mereka yang telah hidup begitu lama, rekan-rekan dari masa yang telah lalu dan petualangan yang telah mereka jalani bersama akan terus hidup dalam kenangan. Karena itu, aku tidak menyesal telah bertemu denganmu, wahai sahabatku. Ketika datang hari ketika kita harus berpisah, engkau akan terus bersinar seperti emas dalam ingatanku.
+-- id-new
+
+-- komentar
+Kalimat pertama+kedua sepertinya bisa diinterpretasi dua cara. 1) Karena semuanya akan terus ada dalam kenangan, beliau senang bisa bertemu pengembara, 2) Meskipun semuanya hanya akan jadi kenangan nanti, beliau tetap senang bisa bertemu pengembara. 
+
+Versi resmi Indonesia ambil interpretasi 2. Versi Inggris ambil interpretasi 1. Versi Jepang ambil interpretasi 2. Versi Perancis menolak dua-duanya dengan gak pakai penghubung dari kalimat pertama ke kedua.
+
+Aku ambil interpretasi 1 biar variasi sama versi Indonesia resmi. Bagaimanapun juga, <3 you, Pak Zhongli.
 -- komentar
