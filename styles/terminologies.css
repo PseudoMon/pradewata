@@ -1,5 +1,5 @@
 .terms-page {
-    margin-top: 100px;
+    margin-top: 92px;
     padding: 0 1em;
     font-size: 1.1em;
 
@@ -69,6 +69,10 @@
         border-radius: 30px;
         background-color: var(--color-textbg);
         border: solid 2px var(--color-accent);
+
+        @media (max-width: 720px) {
+            padding: 1em 1.5em;
+        }
     }
 
     .terms-text-button {

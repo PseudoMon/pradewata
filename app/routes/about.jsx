@@ -13,7 +13,7 @@ export default function AboutPage() {
     <div>
     <SiteHeader />
     
-    <main className="homepage">
+    <main className="homepage about">
       <h1>{ data.header }</h1>
       { typeof data.text === "string" ? <div 
         className="text" 
