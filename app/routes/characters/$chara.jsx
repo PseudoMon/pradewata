@@ -77,15 +77,15 @@ export default function CharacterPage() {
           <li
             className={ getIsLangActive("id-og") }
             onClick={ () => setLang("id-og") }
-          >ID Official</li>
+          >ID Ofc</li>
           <li
             className={ getIsLangActive("en-og") }
             onClick={ () => setLang("en-og") }
-          >EN Official</li>
+          >EN Ofc</li>
           <li
             className={ getIsLangActive("zh-cn") }
             onClick={ () => setLang("zh-cn") }
-          >ZH Original</li>
+          >ZH Orig</li>
         </ul>
 
         <ul className="voice-lines">

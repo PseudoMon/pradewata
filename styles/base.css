@@ -147,10 +147,8 @@ h2 {
     text-align:  center;
 
     border-top: solid 10px var(--color-overlay);
-    /*border-radius: 40px;*/
     padding: 0.2em 1em 1em 1em;
-    /* background-color: var(--color-textbg); */
-
+    
      p {
         margin: 0.1em 0;
      }

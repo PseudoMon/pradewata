@@ -16,10 +16,10 @@ export default function Index() {
     
     <main className="homepage">
       <h1>{ data.header }</h1>
-      <div 
+      { typeof data.text === "string" ? <div 
         className="text" 
-        dangerouslySetInnerHTML={{ __html: data.text }} 
-      />
+        dangerouslySetInnerHTML={{ __html: data.text || ""}} 
+      /> : null }
     </main>
 
     <SiteFooter />
