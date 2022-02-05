@@ -1,5 +1,6 @@
 import { useLoaderData } from 'remix'
 import SiteHeader from '~/components/site-header'
+import SiteFooter from '~/components/site-footer'
 import TermsSection from '~/components/terms-section'
 import { getTerminologiesPage } from '~/parse-files'
 import terminologiesPageStyles from '~/styles/terminologies.css'
@@ -32,6 +33,7 @@ export default function TerminologiesPage() {
 
     </main>
 
+    <SiteFooter />
     </div>
   )
 }

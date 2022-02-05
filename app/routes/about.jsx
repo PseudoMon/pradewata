@@ -1,5 +1,6 @@
 import { Link, Outlet, useLoaderData } from 'remix'
 import SiteHeader from '~/components/site-header'
+import SiteFooter from '~/components/site-footer'
 import { getPage } from '~/parse-files'
 
 export async function loader() {
@@ -20,6 +21,8 @@ export default function AboutPage() {
         dangerouslySetInnerHTML={{ __html: data.text || ""}} 
       /> : null }
     </main>
+
+    <SiteFooter />
 
     </div>
   );
