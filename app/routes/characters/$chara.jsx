@@ -38,7 +38,7 @@ export default function CharacterPage() {
   return (
     <article className="character-main">
       <section className="sidebar">
-        <img src={`/images/chara-side/${ charaId }.png`} />
+        <img src={`/images/chara-side/${ charaId }.webp`} />
         <div class="character-header">
           <span class="character-title">{ charaData.title }</span>
           <span class="character-name">{ charaData.name }</span>

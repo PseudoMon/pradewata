@@ -45,7 +45,7 @@ export async function getCharacterList() {
       name, 
       nameId,
       title, 
-      sideImage: `/images/chara-side/${name.toLowerCase().replace(" ", "-")}.png` 
+      sideImage: `/images/chara-side/${name.toLowerCase().replace(" ", "-")}.webp` 
     }) 
   })
 
@@ -54,7 +54,7 @@ export async function getCharacterList() {
 
 export async function getCharaData(charaId) {
   // Technically it'll be cheaper if we load this file once,
-  // and grab both commen and voice lines
+  // and grab both comment and voice lines
   // alas I am at the moment too lazy to refactor the codes for that
   // This'll have to do
   const file = await fs.readFile(
