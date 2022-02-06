@@ -20,6 +20,11 @@ export default function Index() {
         className="text" 
         dangerouslySetInnerHTML={{ __html: data.text || ""}} 
       /> : null }
+
+      { typeof data.updates === "string" ? <div 
+        className="text" 
+        dangerouslySetInnerHTML={{ __html: data.updates || ""}} 
+      /> : null }
     </main>
 
     <SiteFooter />

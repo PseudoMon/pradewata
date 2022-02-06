@@ -16,8 +16,10 @@ export async function getPage(page) {
   const header = enodoc.field('header').optionalStringValue()
   const textRaw = enodoc.field('text').optionalStringValue()
   const text = textRaw ? mdParser.render(textRaw) : null
+  const updatesRaw = enodoc.field('updates').optionalStringValue()
+  const updates = updatesRaw ? mdParser.render(updatesRaw) : null
 
-  return { header, text }
+  return { header, text, updates }
 }
 
 export async function getCharacterList() {

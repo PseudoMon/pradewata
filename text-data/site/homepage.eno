@@ -2,20 +2,18 @@
 Selamat datang di Pradewata, proyek iseng yang berniat menerjemahkan ulang sebagian teks dalam game 原神 / Genshin Impact ke bahasa Indonesia!
 -- header
 
-# Texts
+-- text
+Proyek/situs ini masih dalam fase betatesting/proofreading. Silakan kabari si pembuat [@PseudoMonious](https://twitter.com/PseudoMonious) kalau ada yang aneh.
 
--- about
-Untuk sekarang proyek ini fokus menerjemahkan *Voice Line* dalam profil beberapa karakter pilihan. Silakan baca halaman Tentang dari link di atas untuk penjelasan panjang lebar!
+Untuk sekarang proyek ini fokus menerjemahkan *Voice Line* dalam profil beberapa karakter pilihan. Silakan baca halaman [Tentang](/about) dari link di atas untuk penjelasan panjang lebar!
 
-Proyek ini diprakarsai seorang penerjemah / web developer iseng yang sudah terlalu lama bermain Genshin Impact. Silakan sapa orangnya di Twitter [@PseudoMonious](https://twitter.com/PseudoMonious). 
+*Source Code* situs ini bisa ditengok di [GitHub](https://github.com/PseudoMon/pradewata).
+-- text
 
-Silakan baca *Source Code* website ini di [GitHub](https://github.com/PseudoMon/pradewata).
--- about
-
--- update
+-- updates
 ## Pembaruan Terakhir
-- 6 Februari 2022: Homepage diperbarui dengan update log
+- 6/2/2022 - Karakter baru: Diluc
 
 ## Rencana ke Depan
-- Diluc dan Kaeya
--- update
+- Kaeya
+-- updates
