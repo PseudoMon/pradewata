@@ -1,0 +1,257 @@
+name: Diluc
+title: Sisi Gelap Fajar
+type: Voice Lines
+
+-- komentar
+Diluc! Kalau boleh jujur, aku memilih menerjemahkan dia bukan karena gaya bahasanya menarik, tapi karena udah capek setelah ngerjain Hu Tao yang perlu buka-buka kamus :'). Justru Diluc karakternya *straightforward*. Orangnya jujur, lurus, pendiriannya teguh, sopan selayaknya *gentleman* dan, sifatnya yang paling penting, agak-agak depresi :'). *Voice Line*-nya pun kebanyakan pendek-pendek, ehehe.
+
+Tadinya aku mau dia pakai "saya" dibanding "aku", tapi setelah ngerjain beberapa baris, kesannya jadi aneh sih. Dia sopan tapi gak sesopan itu kok, ada sombongnya dikit juga.  
+-- komentar
+
+# Salam Kenal
+title:
+id-new = Salam Kenal
+id-og = Halo
+en-og = Hello
+zh-cn = 初次见面…
+
+-- id-new
+Diluc, dari Mondstadt, datang sesuai perjanjian. Tidak tertarik basa-basi. Kabari kalau ada urusan genting.
+-- id-new
+
+-- komentar
+Aku nggak ngerti kenapa versi resmi Indonesia dan Inggris sama-sama kayak gini. Di versi resmi Indo, klausa "tidak tertarik basa-basi" menghilang. Di versi resmi Inggris, klausa "datang sesuai perjanjian" menghilang. Hadeh. Belum lagi sepertinya ada interpretasi yang beda untuk kalimat terakhir. 
+
+Karakterisasinya *subtle* sih di sini. Dari yang kutangkep setelah cek ke bahasa Jepang, maksudnya dia hanya tertarik kalau urusannya penting. Selain itu, apalagi kalau masalah remeh-temeh, jangan minta tolong ke dia. 
+-- komentar
+
+# Tentang Diluc
+title:
+id-new = Tentang Diluc
+id-og = Tentang Diluc sendiri
+en-og = About Diluc
+zh-cn = 关于迪卢克自己…
+
+-- id-new
+Legenda "Pahlawan Malam Hitam"? Ada-ada saja.
+-- id-new
+
+# Tentang Kita: Keperluan
+title:
+id-new = Tentang Kita: Keperluan
+id-og = Tentang Kita: Keperluan
+en-og = About Us: Needs
+zh-cn = 关于我们·需要
+
+-- id-new
+Katakan saja apapun yang kamu butuhkan. Kalau butuh dana, mintalah ke Elzer.
+-- id-new
+
+# Tentang Kita: Membuktikan
+title:
+id-new = Tentang Kita: Membuktikan
+id-og = Tentang kami: Bukti
+en-og = About Us: Proof
+zh-cn = 关于我们·需要
+
+-- id-new
+Kamu sudah membuktikan ketetapan hatimu. Sekarang saksikanlah kebulatan tekadku.
+-- id-new
+
+-- komentar
+Ohohoho. Kata yang dipakai di sini menarik diterjemahkan. Determination vs Resolve. Dua-duanya artinya kurang lebih ketetapan hati, kebulatan tekad, semangat juang akan sesuatu yang sudah ditentukan oleh diri sendiri. "Determination" lebih ke kekuatan/semangat juang setelah keputusannya diambil, "resolve" lebih ke kebulatan tekad/kepastian mengambil keputusan itu, tapi inipun beda tipis. 
+
+Di bahasa Mandarin kata yang digunakan sepertinya 决心 vs 意志, sedangkan di bahasa Jepang 決意 vs 意志. Aku yakin tekstur artinya pun beda sama di bahasa  Inggris, tapi aku jelas kurang mahir untuk menerka konotasinya, hahahaha.
+
+Penerjemah bahasa Indonesia resmi kayaknya kebingungan ngerjain ini, hahaha, I feel your pain.
+-- komentar
+
+# Tentang Visionnya
+title:
+id-new = Tentang Visionnya
+id-og = Tentang Vision
+en-og = About the Vision
+zh-cn = 关于「神之眼」…
+
+-- id-new
+Bagi mereka yang telah kehilangan arah, Vision adalah cahaya dalam lautan kegelapan. Tapi bagi mereka yang teguh pendiriannya, Vision hanyalah lambang ketetapan hati mereka.
+-- id-new
+
+-- komentar
+Versi bahasa Inggris agak lebih kreatif di sini. Mengecek di versi Jepang dan Mandarin, Vision bagi yang kehilangan arah adalah penunjuk jalan ke arah dewa/dari dewa. Mungkin ini semacam peribahasa dari bahasa aslinya? Aku kurang paham sih.
+
+Versi Indonesia resmi agak canggung dikit, tapi aku suka sih feelingnya. "Vision adalah pelita yang menerangi jalan bagi mereka yang kehilangan arah." Pelita! Kepikiran aja katanya.
+-- komentar
+
+# Yang Ingin Diceritakan
+title:
+id-new = Yang Ingin Diceritakan
+id-og = Berbagi Cerita
+zh-cn = 有什么想要分享…
+en-og = Something to Share
+
+-- id-new
+Kalau senggang, aku suka bekerja menjaga bar di Angel's Share. Banyak informasi yang selang seling di kedai itu, sampai dikenal juga sebagai pusat informasi di Mondstadt. 
+-- id-new
+
+# Serba-Serbi
+title:
+id-new = Serba-Serbi
+id-og = Rumor yang menarik
+zh-cn = 感兴趣的见闻…
+en-og = Interesting Things
+
+-- id-new
+Hmm? ... Ini burung hantu. Diam-diam memerhatikan mangsanya dari kegelapan, menunggu hingga saat yang tepat untuk menyergap... Sempurna.
+-- id-new
+
+# Tentang Kaeya
+title: 
+id-new = Tentang Kaeya
+id-og = Tentang Kaeya
+zh-cn = 关于凯亚…
+en-og = About Kaeya
+
+-- id-new
+Kaeya? Jangan percaya setengah dari apapun yang dikatakannya.
+-- id-new
+
+# Tentang Lisa
+title: 
+id-new = Tentang Lisa
+id-og = Tentang Lisa
+en-og = About Lisa
+zh-cn = 关于丽莎…
+
+-- id-new
+Menurutku, Lisa bisa menjadi Kesatria Favonius yang paling bisa diandalkan. Andaikan dia berniat.
+-- id-new
+
+# Tentang Jean: Musuh
+title:
+id-new = Tentang Jean: Musuh
+id-og = Tentang Jean: Musuh
+en-og = About Jean: Enemies
+zh-cn = 关于琴·敌人
+
+-- id-new
+Masalah-masalah remeh bisa menjadi musuh Jean yang paling berbahaya.
+-- id-new
+
+-- komentar
+Tadinya mau pakai kata "tetek bengek" karena artinya pas banget, tapi kayaknya Diluc nggak bakal pakai kata itu. 
+-- komentar
+
+# Tentang Jean: Tanggung Jawab
+title:
+id-new = Tentang Jean: Tanggung Jawab
+id-og = Tentang Jean: Tanggung Jawab
+en-og = About Jean: Responsibilities
+zh-cn = 关于琴·职责
+
+-- id-new
+Rasa tanggung jawabnya tidak tertandingi, tapi itu juga satu-satunya alasan ia belum menemukan jati dirinya.
+-- id-new
+
+# Tentang Mona
+title:
+id-new = Tentang Mona
+id-og = Tentang Mona
+zh-cn = 关于莫娜…
+en-og = About Mona
+
+-- id-new
+Mondstadt telah diberkahi oleh Archon Anemo menjadi negeri yang makmur. Aku tidak merasa kita perlu bantuan ramalan panen dari astrolog.
+-- id-new
+
+# Tentang Diona
+title:
+id-new = Tentang Diona
+id-og = Tentang Diona
+en-og = About Diona
+zh-cn = 关于迪奥娜…
+
+-- id-new
+Sikap Diona terhadapku... Bagaimana kujelaskannya... Agak kaku. Aku belum sempat mengobrol dengannya secara langsung. Aku tidak yakin apa ini hanya karena keluargaku, atau... Oh? Bukan? Dia hanya benci alkohol? Hmm... Tak kusangka bisa bertemu penjaga bar yang sama sepertiku di Mondstadt.
+-- id-new
+
+# Tentang Varka
+title:
+id-new = Tentang Varka
+id-og = Tentang Varka
+en-og = About Varka
+zh-cn = 关于法尔伽…
+
+-- id-new
+Grand Master Varka... Aku mengerti cara pandangnya, tapi aku tidak mengerti tindakan yang diambilnya... Tidak, sebaiknya aku tidak cerita tentang ini. Aku sudah lama keluar dari Kesatria Favonius. Anggap aku tidak mengatakan apa-apa.
+-- id-new
+
+# Tentang Eula
+title:
+id-new = Tentang Eula
+id-og = Tentang Eula
+en-og = About Eula
+zh-cn = 关于优菈…
+
+-- id-new
+Ah, ya... Aku sudah dengar tentangnya. Pendiriannya teguh. Tekadnya untuk membebaskan dirinya sendiri dari belenggu klannya patut dipuji. Tapi... lalu dia malah bergabung ke Kesatria Favonius.  
+-- id-new
+
+-- komentar
+Hmm, penerjemah resmi bahasa Indonesianya ngantuk atau udah capek kayaknya. Kalimat kedua, "*She has her own convictions*" di semua bahasa yang kuperiksa merujuk ke keinginan/idealnya yang, diimplikasikan, beda dari yang lain tapi tetap dipegangnya.  
+-- komentar
+
+# Lebih Dalam Tentang Diluc: I
+title: 
+id-new = Lebih Dalam Tentang Diluc: I
+id-og = Mengenal Diluc: I
+en-og = More About Diluc: I
+zh-cn = 想要了解迪卢克·其一
+
+-- id-new
+Ada urusan yang harus kamu selesaikan?
+-- id-new
+
+# Lebih Dalam Tentang Diluc: II
+title:
+id-new = Lebih Dalam Tentang Diluc: II
+id-og = Mengenal Diluc: II
+en-og = More About Diluc: II
+zh-cn = 想要了解迪卢克·其二
+
+-- id-new
+Kesatria Favonius? ... Tidak, tidak ada yang ingin kubicarakan tentang mereka. Cara pandang kita hanya berbeda, itu saja.
+-- id-new
+
+# Lebih Dalam Tentang Diluc: III
+title:
+id-new = Lebih Dalam Tentang Diluc: III
+id-og = Mengenal Diluc: III
+en-og = More About Diluc: III
+zh-cn = 想要了解迪卢克·其三
+
+-- id-new
+Sudah lama sekali sejak aku terakhir bermain catur dengan lawan yang bukan pelayanku. Kebetulan, aku sedang senggang sekarang. Mau coba bermain melawanku?
+-- id-new
+
+# Lebih Dalam Tentang Diluc: IV
+title:
+id-new = Lebih Dalam Tentang Diluc: IV
+id-og = Mengenal Diluc: IV
+en-og = More About Diluc: IV
+zh-cn = 想要了解迪卢克·其四
+
+-- id-new
+Skakmat! ... Hmm, tapi kamu hebat juga sampai bisa memojokkanku seperti ini.
+-- id-new
+
+# Lebih Dalam Tentang Diluc: V
+title:
+id-new = Lebih Dalam Tentang Diluc: V
+id-og = Mengenal Diluc: V 
+en-og = More About Diluc: V
+zh-cn = 想要了解迪卢克·其五
+
+-- id-new
+Kamu boleh juga. Baik dalam catur ataupun dalam pertarungan fisik, kemampuanmu masih terus mengejutkanku. Hmm, bekerja di sisimu seperti ini menarik juga. Aku harap kita bisa melanjutkan kerja sama ini, kawanku.
+-- id-new

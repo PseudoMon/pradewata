@@ -27,13 +27,19 @@ id-new = Vision
 en-og = Vision
 zh-cn = 神之眼
 
+entry:
+id-new = Sekte Abyss
+en-og = Abyss Order
+zh-cn = 深渊教团
+
+
 
 # Liyue
 -- text
 ## Liyue
 Liyue (璃月) terdiri dari huruf 璃 yang artinya... saya kurang ngerti sih sebenernya, tapi 月 artinya bulan. 
 
-Entah kenapa, versi bahasa Inggris Genshin menejermahkan hampir semua istilah/nama organisasi ke bahasa Latin, *kecuali* Qixing (七星, Tujuh Bintang). Milelith itu dari bahasa latin mil (seribu) dan lithos (batu). Di aslinya 千岩军 (*Qianyanjun*, Tentara Seribu Batu). Rex Lapis itu latin artinya "Raja Batu", sedangkan aslinya 岩王帝君 (*Yanwang Dijun*, Penguasa Berdaulat Raja Batu).    
+Entah kenapa, versi bahasa Inggris Genshin menejermahkan hampir semua istilah/nama organisasi ke bahasa Latin, *kecuali* Qixing (七星, Tujuh Bintang). Millelith itu dari bahasa latin mill (seribu) dan lithos (batu). Di aslinya 千岩军 (*Qianyanjun*, Tentara Seribu Batu). Rex Lapis itu latin artinya "Raja Batu", sedangkan aslinya 岩王帝君 (*Yanwang Dijun*, Penguasa Berdaulat Raja Batu).    
 
 Kreatif sih! Tapi buat apaaa, wong Liyue itu memang China, kan. Kalau boleh jujur, aku kurang suka karena kesannya kayak mau menghapus ke-China-an Genshin. Ah tapi mungkin aku kebanyakan mikir aja. Di versiku, banyak istilahnya yang kubiarkan pakai bahasa Mandarinnya saja. 
 
@@ -46,13 +52,18 @@ Armada milik Beidou dikenal sebagai "The Crux". Ini juga nama rasi bintang yang 
 
 ## Dict
 entry:
+id-new = Yanwang Dijun
+en-og = Rex Lapis
+zh-cn = 岩王帝君
+
+entry:
 id-new = Qixing
 en-og = Qixing
 zh-cn = 七星
 
 entry:
-id-new = Tentara Qianyanjun
-en-og = Milelith
+id-new = Petugas Qianyan
+en-og = Millelith
 zh-cn = 千岩军
 
 entry:
@@ -101,7 +112,7 @@ en-og = Feiyun Commerce Guild
 zh-cn = 飞云商会
 
 entry:
-id-new = Festival Lautan Cahaya
+id-new = Hari Raya Lautan Cahaya
 en-og = Lantern Rite Festival
 zh-cn = 海灯节
 
@@ -110,9 +121,9 @@ zh-cn = 海灯节
 ## Mondstadt
 Nama Mondstadt (蒙德, *Mengde* di bahasa Mandarin) berasal dari bahasa Jerman yang artinya "Kota Bulan". Secara budayanya, sepertinya Mondstadt berdasarkan dari Jerman, Belanda, dan Eropa Utara. Dari ketujuh negeri Teyvat, ini sepertinya yang paling deket ke Inggris, jadi kebanyakan istilanya juga aku bakal ambil dari versi Inggrisnya saja.
 
-Kesatrai Favonius dikenal sebagai 西风骑士团 (*Xifeng Qishituan*, Kesatria Angin Barat) di bahasa Mandarin. Favonius dalam mitologi Romawi adalah dewa angin barat, atau dikenal juga sebagai dewa Zephyr dalam mitologi Yunani. 
+Kesatrai Favonius dikenal sebagai 西风骑士团 (*Xifeng Qishituan*, Kesatria Angin Barat) di bahasa Mandarin. Favonius dalam mitologi Romawi adalah dewa angin barat, atau dikenal juga sebagai dewa Zephyr dalam mitologi Yunani. Di Genshin versi Jepang, 西风骑 dibacanya *Sepyurosu*.
 
-Berhubung aku belum menerjemahkan karakter dari Mondstadt, bagian ini masih sedikit dulu ya.
+Fun fact: Angel's Share, yang jadi nama kedai anggur milik Diluc, sebenarnya adalah istilah di dunia nyata untuk sebagian alkohol yang menguap saat di dalam tong. Karakter di dalam Genshin juga pernah cerita tentang istilah ini.
 -- text 
 
 ## Dict
@@ -125,6 +136,16 @@ entry:
 id-new = Wakil Grand Master
 en-og = Acting Grand Master 
 zh-cn = 城的代理团长
+
+entry:
+id-new = (Kedai) Angel's Share
+en-og = Angel's Share (Tavern)
+zh-cn = 天使的馈赠
+
+entry:
+id-new = Pahlawan Malam Hitam
+en-og = Darknight Hero
+zh-cn = 暗夜英雄
 
 
 # Snezhnaya

@@ -190,7 +190,7 @@ function fillFallbackVoiceLine(fallbackData, voiceLine) {
 
 export async function getTerminologiesPage() {
   const file = await fs.readFile(
-    path.join(textDataPath, "site", `terminologies.eno`),
+    path.join(textDataPath, "terminologies.eno"),
     "utf-8"
   )
 

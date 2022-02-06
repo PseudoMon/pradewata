@@ -51,8 +51,7 @@
         margin: 0 auto 24px auto;
         border-collapse: collapse;
         background-color: var(--color-semibg);
-    
-        display: block;
+        
         overflow-x: auto;
 
         @media (max-width: 720px) {
