@@ -23,5 +23,5 @@ pnpm run dev:css
 I haven't decided where to deploy it yet. Probably Vercel or Fly.io. Maybe even get a DIY host if I feel like suffering.
 
 ## TODO
-- Footer
-- MOBILE DESIGN
+- Tombol di header agar terlihat lebih seperti tombol
+- Homepage ditambah lagi biar gak kosong banget gitu

@@ -20,12 +20,12 @@ body {
     background-color: var(--color-bg);
     color: var(--color-text);
 
-    font-size: 18px;
+    font-size: 1.125rem; /*18px with a standard 16px base font */ 
     line-height: 1.5;
 }
 
 main {
-    width: 90%;
+    width: 92%;
     max-width: 1100px;
     margin: 84px auto 0 auto;
 
@@ -161,6 +161,7 @@ h2 {
 
         & > * {
             margin: 0 0.5em;
+            display:  flex;
 
             &::before {
                 content: "|";
@@ -174,7 +175,7 @@ h2 {
     }
 }
 
-.homepage {
+.about {
     margin-top: 92px;
     padding: 0;
     font-size: 1.1em;
