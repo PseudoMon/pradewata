@@ -1,4 +1,4 @@
-import { Link } from 'remix'
+import { NavLink } from 'remix'
 
 export default function SiteHeader() {
   return (
@@ -7,10 +7,10 @@ export default function SiteHeader() {
       <h2>Proyek penerjemahan ulang 原神 / Genshin Impact</h2>
       <nav>
         <ul>
-          <li><Link to="/">Beranda</Link></li>
-          <li><Link to="/about">Tentang</Link></li>
-          <li><Link to="/characters">Tokoh</Link></li>
-          <li><Link to="/terminologies">Istilah</Link></li>
+          <li><NavLink to="/">Beranda</NavLink></li>
+          <li><NavLink to="/about">Tentang</NavLink></li>
+          <li><NavLink to="/characters">Tokoh</NavLink></li>
+          <li><NavLink to="/terminologies">Istilah</NavLink></li>
         </ul>
       </nav>
     </header>

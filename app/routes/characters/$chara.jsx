@@ -4,6 +4,11 @@ import { getCharaVoiceLines, getCharaData } from '~/parse-files'
 import VoiceLineCard from '~/components/voice-line-card.jsx'
 import charaPageStyles from '~/styles/charapage.css'
 
+export function meta({ data }) {
+  const charaName = data.charaData.name 
+  return { title: `Pradewata | ${charaName}` };
+}
+
 export function links() {
   return [{ rel: "stylesheet", href: charaPageStyles }]
 }

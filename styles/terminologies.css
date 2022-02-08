@@ -1,7 +1,6 @@
 .terms-page {
     margin-top: 92px;
     padding: 0 1em;
-    font-size: 1.1em;
 
     @media (max-width: 720px) {
         margin-top: 40px;

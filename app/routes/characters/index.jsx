@@ -2,6 +2,10 @@ import { Link, Outlet, useLoaderData } from 'remix'
 import { getCharacterList } from '~/parse-files'
 import charaListStyles from '~/styles/charalist.css'
 
+export function meta() {
+  return { title: "Pradewata | Tokoh" };
+}
+
 export async function loader() {
   return await getCharacterList()
 }

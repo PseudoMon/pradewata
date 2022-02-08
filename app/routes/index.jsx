@@ -3,6 +3,10 @@ import SiteHeader from '~/components/site-header'
 import SiteFooter from '~/components/site-footer'
 import { getPage } from '~/parse-files'
 
+export function meta() {
+  return { title: "Pradewata | Beranda" };
+}
+
 export async function loader() {
   return await getPage("homepage")
 }
