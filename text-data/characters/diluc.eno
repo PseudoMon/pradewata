@@ -124,7 +124,7 @@ en-og = About Lisa
 zh-cn = 关于丽莎…
 
 -- id-new
-Menurutku, Lisa bisa menjadi Kesatria Favonius yang paling bisa diandalkan. Andaikan dia berniat.
+Menurutku, Lisa bisa menjadi Kesatria Favonius yang paling bisa diandalkan.... Kalau saja dia berminat.
 -- id-new
 
 # Tentang Jean: Musuh
@@ -161,7 +161,7 @@ zh-cn = 关于莫娜…
 en-og = About Mona
 
 -- id-new
-Mondstadt telah diberkahi oleh Archon Anemo menjadi negeri yang makmur. Aku tidak merasa kita perlu bantuan ramalan panen dari astrolog.
+Mondstadt telah diberkahi oleh Arkon Anemo menjadi negeri yang makmur. Aku tidak merasa kita perlu bantuan ramalan panen dari astrolog.
 -- id-new
 
 # Tentang Diona
@@ -194,11 +194,11 @@ en-og = About Eula
 zh-cn = 关于优菈…
 
 -- id-new
-Ah, ya... Aku sudah dengar tentangnya. Pendiriannya teguh. Tekadnya untuk membebaskan dirinya sendiri dari belenggu klannya patut dipuji. Tapi... lalu dia malah bergabung ke Kesatria Favonius.  
+Ah, ya... Aku sudah dengar tentangnya. Pendiriannya teguh. Tekadnya untuk membebaskan dirinya sendiri dari belenggu keluarganya patut dipuji. Tapi... dia malah bergabung dengan Kesatria Favonius.  
 -- id-new
 
 -- komentar
-Hmm, penerjemah resmi bahasa Indonesianya ngantuk atau udah capek kayaknya. Kalimat kedua, "*She has her own convictions*" di semua bahasa yang kuperiksa merujuk ke keinginan/idealnya yang, diimplikasikan, beda dari yang lain tapi tetap dipegangnya.  
+Hmm, penerjemah resmi bahasa Indonesianya ngantuk atau udah capek kayaknya. Kalimat kedua, "*She has her own convictions*" di semua bahasa yang kuperiksa merujuk ke keinginan/idealnya yang, diimplikasikan, tetap dia pegang teguh walaupun beda dengan punya orang lain. Bukan sekadar ada "masalahnya sendiri" aja.
 -- komentar
 
 # Lebih Dalam Tentang Diluc: I
@@ -244,6 +244,10 @@ zh-cn = 想要了解迪卢克·其四
 -- id-new
 Skakmat! ... Hmm, tapi kamu hebat juga sampai bisa memojokkanku seperti ini.
 -- id-new
+
+-- komentar
+Fun fact! Kata "Skakmat" di bahasa Indonesia dan kata "*Checkmate*" di bahasa Inggris memiliki etimologi yang sama. Keduanya berasal dari bahasa Persia, *shah mat* yang artinya "raja mati" atau "raja tidak bisa bergerak". Bahasa Jepang sepertinya menyerap dari bahasa Inggris, チェックメイト (*cekkumeito*), tapi di bahasa Mandarin pakai istilahnya sendiri, 将军 (*Jiangjun*, jenderal). 
+-- komentar
 
 # Lebih Dalam Tentang Diluc: V
 title:
