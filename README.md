@@ -1,5 +1,5 @@
 # Proyek Pradewata
-This repository contains the source code for Proyek Pradewata, a project that aims to retranslate a portion of Genshin Impact into Indonesian, and then put them up on display in a website powered by [Remix](https://remix.run) and [Eno](https://eno-lang.org). The site is work-in-progress and not currently live.
+This repository contains the source code for Proyek Pradewata, a project that aims to retranslate a portion of Genshin Impact into Indonesian, and then put them up on display in a website powered by [Remix](https://remix.run) and [Eno](https://eno-lang.org).
 
 This a personal passion project by me, [@PseudoMonious](https://twitter.com/PseudoMonious), who for some silly reasons decide to use up hours of her time to mash his translation skills and web developing skills together. And also her love for the video game Genshin Impact and all the characters in that world.
 
@@ -20,7 +20,14 @@ pnpm run dev:css
 ```
 
 ## Deployment
-I'm deploying this on Netlify ()I haven't decided where to deploy it yet. Probably Vercel or Fly.io. Maybe even get a DIY host if I feel like suffering.
+I'm deploying this on [Netlify](https://pradewata.netlify.app) at the moment, but if this takes off (and I have the motivation) I'm thinking of getting a shared hosting space for it with a proper domain and everything. 
+
+The Netlify deployment codes are not in this repository. 
+
+Note to self: for deployment, copy the app folder and the contents of the public folder *minus* the build folder in it to the Netlify folder. Then copy text-data to netlify/functions/server in the Netlify folder. Then run `pnpm run build` and `netlify deploy`.
 
 ## TODO
 - OpenGraph/Social Media cards
+- Better header links
+- Per-page error handling, especially for ENOENT when looking for characters, and a better generic 404 page
+- Comment section/guestbook?
