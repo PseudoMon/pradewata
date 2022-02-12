@@ -33,8 +33,12 @@ en-og = About Diluc
 zh-cn = 关于迪卢克自己…
 
 -- id-new
-Legenda "Pahlawan Malam Hitam"? Ada-ada saja.
+Legenda "Pahlawan Darknight"? Ada-ada saja.
 -- id-new
+
+-- komentar
+Tadinya mau kuterjemahkan jadi "Pahlawan Malam Hitam" atau gimana gitu, tapi lalu aku sadar ini referensi ke Batman. Versi Mandarin pakainya 暗夜 (*Ànyè*, malam gelap) sih, tapi memang versi Mandarin suka anti banget pakai istilah Inggris.
+-- komentar
 
 # Tentang Kita: Keperluan
 title:

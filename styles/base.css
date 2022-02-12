@@ -44,9 +44,19 @@ a {
     text-decoration:  none;
 }
 
+p a {
+    text-decoration:  underline;
+}
+
 a:hover {
     opacity:  0.6;
 }
+
+p a:hover {
+    text-decoration:  none;
+
+}
+
 
 h2 {
     line-height: 126%;

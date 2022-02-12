@@ -1,0 +1,237 @@
+name: Kaeya
+title: Kesatria Badai Salju
+type: Voice lines
+
+-- komentar
+Jadi ceritanya aku mau nerjemahin Diluc karena kecapean setelah nerjemahin Hu Tao dan pengen yang kira-kira lebih gampang. Tapi lalu kepikiran, kayaknya Kaeya lebih menarik deh? Diluc kan lurus-lurus banget. Akhirnya kutaruh poll di Twitter. Tanpa konteks: pilih Kaeya atau Diluc?
+
+Entah keajaiban atau apa, hasilnya 50%, rata dua-duanya. Oke. Jadinya kukerjain mereka berdua barengan. Akhirnya Diluc sih yang selesai lebih cepet. Dia kan lebih gampang.
+
+Sifat Kaeya bisa dibilang bertolak belakang dengan Diluc. Ketika Diluc *straightforward*, gak banyak basa-basi, dan selalu jujur, Kaeya gaya bicaranya lebih *playful*, lebih santai, tapi lebih banyak belit-belit dan pasang makna tersembunyi. Dari suaranya, ketika Diluc kesannya tidak peduli denganmu (tapi diam-diam *sangat* peduli), Kaeya lebih seperti kakak yang selalu memedulikanmu (walaupun? mungkin? tidak?).
+
+Gelar Kaeya di bahasa Inggris, *Frostwind Swordsman*, ini terjemahan lurus dari bahasa Mandarin, 寒风剑士: dingin-angin-pedang-pendekar. Bahasa Indonesia nggak ada musim dingin sih ya, jadi nggak banyak konotasi yang kita pasang ke es, salju, atau udara dingin. "Angin Dingin" itu rasanya biasa banget. Jadilah, kupakai "Badai Salju" saja.    
+-- komentar
+
+# Salam Kenal
+title:
+id-new = Salam Kenal
+id-og = Halo
+en-og = Hello
+zh-cn = 初次见面…
+
+-- id-new
+Aku Kaeya, anggota Kesatria Favonius. Tolong bolehkan aku ikut dalam perjalananmu, ya. Kayaknya bakal jauh lebih seru menemanimu daripada urusan Kesatria yang biasanya jadi tugasku.
+-- id-new
+
+# Tentang Kaeya
+title:
+id-new = Tentang Kaeya
+id-og = Tentang Kaeya sendiri
+en-og = About Kaeya
+zh-cn = 关于凯亚自己…
+
+-- id-new
+Sekte Abyss berulah lagi? Kamu tahu kan, kalau ada masalah, kamu bisa cerita ke aku?
+-- id-new
+
+# Tentang Kita: Hubungan Profesional
+title:
+id-new = Tentang Kita: Hubungan Profesional
+id-og = Tentang Kita: Hubungan Pekerjaan
+en-og = Tentang Kita: Employment Relationship
+zh-cn = 关于我们·雇佣关系
+
+-- id-new
+Kalau perlu bantuanku, cerita-cerita saja. Hubungan kita jangan dianggap seakan antara bos dan bawahan begitu. 
+-- id-new
+
+# Tentang Kita: Kekuatan
+title:
+id-new =  Tentang Kita: Kekuatan
+id-og = Tentang Kita: Kekuatan
+en-og = Strength
+zh-cn = 关于我们·实力
+
+-- id-new
+Oh? Kalau kamu masih mau hubungan kita lebih profesional, perintahkanku aku untuk lebih banyak bertarung di depan dong, bosku. Hahaha, tapi jangan takut ya kalau sudah lihat kekuatanku sebenarnya.
+-- id-new
+
+-- komentar
+*Voice Line* ini multi-intepretasi kayaknya (memang dasar ya si Kaeya ini). Penerjemah resmi bahasa Inggris kayaknya berusaha nangkep subtextnya dengan "maybe you can find more use for me on the front lines". Di versiku kugabungin ini dengan yang kutangkep dari versi Mandarinnya (就多使唤我一点吧) yang artinya kira-kira "beri aku perintah lagi".
+
+Sebenarnya apa sih maksudnya dia? Tau deh. "Bos, jadiin aku Main DPS dong, jangan ngasih artifact bagusnya ke karakter bintang lima aja" kali.
+
+Penerjemah resmi bahasa Indonesia mengira kata "bos" ini buat manggil si Kaeya, tapi kucek ke beberapa bahasa lain, Kaeya yang manggil si Pengembara "bos". Kemungkinan ini ambil dari bahasa Jepang, yang memang ambigu peletakan kata ボス (*bosu*)-nya. Kebetulan juga di bahasa Jepang, klausa "beri aku perintah/maju ke depan" ini menghilang, tapi ditambahkan 何度だって俺を呼べ, "sudah berkali-kali kubilang (hubungan kita jangan dianggap profesional)"
+-- komentar
+
+# Tentang Visionnya
+title:
+id-new = Tentang Visionnya
+id-og = Tentang Vision
+en-og = About the Vision
+zh-cn = 关于「神之眼」…
+
+-- id-new
+Masih bingung tentang cara kerja Vision? Oke, jadi... coba kujelasin pakai perumpamaan. Organ yang kita gunakan untuk melihat kan mata kita. Vision itu semacam organ yang kita gunakan untuk mengendalikan elemen. Begitu saja.
+-- id-new
+
+# Yang Ingin Diceritakan
+title:
+id-new = Yang Ingin Diceritakan
+id-og = Berbagi Cerita
+en-og = Something to Share
+zh-cn = 有什么想要分享…
+
+-- id-new
+Kamu suka minum anggur, nggak? Anggur Dandelion ada rasanya tersendiri... Lho, kamu belum cukup umur? Ya sudah, yuk coba sari apel khas Mondstadt saja. Aku tahu tempat yang enak.
+-- id-new
+
+# Serba-Serbi
+title:
+id-new = Serba-Serbi
+id-og = Rumor yang menarik
+en-og = Interesting Things
+zh-cn = 感兴趣的见闻…
+
+-- id-new
+Sudah pernah lihat burung hantu Dragonspine? Kalau bertatapan langsung dengan matanya, seakan-akan burung itu bisa melihat ke dalam  lubuk hatimu, tapi tanpa mengungkapkan hatinya sendiri... Menarik juga, kan? 
+-- id-new
+
+# Tentang Jean
+title:
+id-new = Tentang Jean
+id-og = Tentang Jean
+en-og = About Jean
+zh-cn = 关于琴…
+
+-- id-new
+Hmm? Sang Wakil Grand Master? Dukung terus dia, ya.
+-- id-new
+
+# Tentang Lisa
+title:
+id-new = Tentang Lisa
+id-og = Tentang Lisa
+en-og = About Lisa
+zh-cn = 关于丽莎…
+
+-- id-new
+Oh, Lisa? Hmm... Jangan lupa kembalikan buku perpustakaan tepat waktu, ya.  Dulu aku pernah terlambat mengembalikan bukunya dan saking marahnya dia... duh, pokoknya sampai sekarang tanganku masih mati rasa.
+-- id-new
+
+# Tentang Amber
+title:
+id-new = Tentang Amber
+id-og = Tentang Amber
+en-og = About Amber
+zh-cn = 关于安柏…
+
+-- id-new
+Sebagai anggota Satuan Perintis, Amber itu kesatria yang cerdik dan jujur. Tapi hati-hati, jangan berbuat melenceng di depannya.
+-- id-new
+
+# Tentang Diluc
+title:
+id-new = Tentang Diluc
+id-og = Tentang Diluc
+en-og = About Diluc
+zh-cn = 关于迪卢克…
+
+-- id-new
+Diluc? Dia imut loh pas masih kecil dulu, tapi sekarang dia sibuk dengan dunianya sendiri. Sudah tidak asyik lagi kalau diajak ngobrol.
+-- id-new
+
+# Tentang Klee
+title:
+id-new = Tentang Klee
+id-og = Tentang Klee
+en-og = About Klee
+zh-cn = 关于可莉…
+
+-- id-new
+Klee. Sepertinya bocah itu gagal lagi kabur dari pengawasan sang Wakil Grand Master, padahal sudah kukasih petunjuk... Haha, nggak, bercanda kok. Tidak usah cerita-cerita ke yang lain.
+-- id-new
+
+# Tentang Albedo
+title:
+id-new = Tentang Albedo
+id-og = Tentang Albedo
+en-og = About Albedo
+zh-cn = 关于阿贝多…
+
+-- id-new
+Albedo, ya? Si ganteng itu orangnya kalem tapi bakatnya bukan main, tipe yang semua orang suka. Kenapa? Kamu juga naksir?
+-- id-new
+
+-- komentar
+Ini... Kaeya x Albedo... canon?
+
+*Voice Line* ini kayaknya banyak konotasinya yang aku gak yakin bener-bener nangkep. Klausa "some even more so than others" di versi Inggris nggak kutemui di versi bahasa lain, tapi versi bahasa Jepang (dan sepertinya bahasa Mandarin juga?) menggunakan kata-kata yang mengindikasikan Kaeya "tertarik" ke Albedo (e.g. nyebut dia ganteng). Mungkin subtext ini yang berusaha disampaikan si penerjemah Inggris.
+
+Kaeya memang suka iseng, sih. Mungkin dia hanya isengin kamu aja ("hehe, kenapa nanya-nanya? naksir ya?"). Atau dia memang suka Albedo tapi nutup-nutupin ("ah, tipe gitu sih pasti banyak yang naksir kok, biasa aja kalau aku suka juga"). Atau mungkin aku aja yang salah baca, entah deh.
+-- komentar
+
+# Tentang Diona
+title:
+id-new = Tentang Diona
+id-og = Tentang Diona
+en-og = About Diona
+zh-cn = 关于迪奥娜…
+
+-- id-new
+Sudah pernah coba anggur racikan Diona? Oh iya, kamu kan belum cukup umur. Hahaha, sayang sekali ya, aku jadi tidak bisa berbagi kenikmatan seindah ini dengan kamu. Ya apa boleh buat. Kita tunggu sampai kamu cukup umur, ya.
+-- id-new
+
+# Tentang Varka
+title:
+id-new = Tentang Varka
+id-og = Tentang Varka
+en-og = About Varka
+zh-cn = 关于法尔伽…
+
+-- id-new
+Ngomong-ngomong Varka, rasanya sayang tidak ada di antara Kesatria Favonius yang etos kerjanya seperti beliau. Heh... Aku sebenarnya salut dengan orang-orang seperti Varka.
+-- id-new
+
+# Tentang Fischl
+title:
+id-new = Tentang Fischl
+id-og = Tentang Fischl
+en-og = About Fischl
+zh-cn = 关于菲谢尔…
+
+-- id-new
+Ha? Menurutmu penampilan Fischl yang matanya ditutup satu begitu cocok karena citranya sebagai "Prinzessin der Verurteilung"? Hahaha, kalau pakai logikamu itu, jangan-jangan aku juga pangeran dari negeri antah-berantah, dong?
+-- id-new
+
+-- komentar
+Ini, tanpa disangka, agak susah diterjemahin karena kayaknya? diam-diam? Kaeya membuat alusi ke asal usulnya sendiri yang dari Khaenri'ah. Di versi bahasa Mandarin asli, di kalimat terakhir, dia bilang spesifik keturunan *terakhir* keluarga kerajaan. Apa keluarganya semacam bangsawan sebelum negerinya hancur? Apa dia senyum-senyum saat mendengar Fischl memanggil dirinya putri dari negara antah-berantah karena dia sendiri juga...? Kaeya kamu tuh siapa sih???
+
+Oh ya dan tentu saja agak susah karena gelar Fischl, "Prinzessin der Verurteilung". Versi bahasa Inggris menggubahnya menjadi bahasa Jerman untuk menekankan esensi *chuuni* Fischl, sedangkan di bahasa Mandarin masih pakai bahasa Mandarin: 断罪皇女. Hubungan antara kata "Prinzessin" (yang mirip dengan "Princess", putri) ataupun 皇女 (*Huángnǚ*, putri) dan keturunan kerajaan masih kebaca jelas di dua bahasa itu.
+
+Akhirnya kuputuskan untuk lebih menekankan alusi ke Khaenri'ah-nya, karena lebih asyik. Fischl mengaku bergelar begitu karena dia putri dari negeri "Immernachtreich". Daripada mengandalkan hubungan kata Putri -> keluarga kerajaan, versi ini mengandalkan hubungan "asal usul" mereka berdua.
+-- komentar
+
+# Tentang Noelle
+Si Wakil Grand Master mempercayaiku untuk membantu Noelle dari balik layar, tapi beruntungnya tidak banyak yang harus kulakukan. Noelle sudah cukup pintar dengan sendirinya.
+
+# Tentang Rosaria
+Ahahaha, kamu mau tahu rahasia Suster Rosaria? Itu... Aku juga tidak bisa cerita. Tapi menurutku dia nggak buruk-buruk amat. Nggak seburuk si itu yang tidak perlu kusebut. Dia jujur dengan dirinya sendiri. Yang tidak perlu dia buang, dan dia tidak pura-pura tertarik dengan hal yang tidak menarik buatnya.
+
+# Tentang Sucrose
+Sucrose memang bukan tipe yang suka bergaul dengan orang lain, tapi dia diam-diam menghanyutkan. Menurut kabar burung, di  laboratoriumnya banyak peralatan yang tidak biasa. Eksperimennya pun banyak yang bukan hanya untuk mengedepankan ilmu pengetahuan... Kabar burung, ya. Masa aku ngintip ke dalam kamarnya perempuan?
+
+# Lebih Dalam Tentang Kaeya: I
+Gelar Kapten Kavaleri ini nggak sekeren itu, kok. Kalau dipikir lagi, Pak Grand Master membawa semua anggota kavaleri bersamanya saat ia pergi dari Mondstadt, jadi aku bukan kapten siapa-siapa sekarang... Heh.
+
+# Lebih Dalam Tentang Kaeya: II
+Ada sepuluh kapten dalam Kesatria Favonius. Tapi sejujurnya, tidak semuanya layak menjadi pemimpin.
+
+# Lebih Dalam Tentang Kaeya: III
+Mataku? Mataku tidak apa-apa kok. Nggak aneh kan menutupi sebagian anggota badan kita? Sama saja dengan memakai celana atau pakaian lain.
+
+# Lebih Dalam Tentang Kaeya: IV
+Khaneri'ah? Kamu banyak tahu juga ya! Tidak ada lagi yang tersisa dari Khaenri'ah selain penjahat, semuanya. Tidak ada dari mereka yang layak kuceritakan.
+
+# Lebih Dalam Tentang Kaeya: V
+Sudah lama sekali ya sejak kita pertama bertemu? Waktu cepat sekali berlalu! Tahu tidak, ikut bersamamu dalam perjalananmu ini adalah hal paling asyik yang pernah kulakukan dalam hidupku. Kuharap kita bisa terus bersama seperti ini. 

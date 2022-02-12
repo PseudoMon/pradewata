@@ -9,7 +9,7 @@ export default function SiteFooter() {
           <li><a target="_blank" href="https://twitter.com/PseudoMonious">Twitter Pembuat</a></li>
         </ul>
 
-        <p>Proyek Pradewata adalah sepenuhnya proyek <em>fanmade</em> dan tidak berafiliasi dengan miHoYo</p>
+        <p>Pradewata adalah sepenuhnya proyek <em>fanmade</em> oleh Aliya N. A. dan tidak berafiliasi dengan miHoYo</p>
         <p>Berbagai tulisan dalam website ini, selain yang merupakan milik miHoYo, dilisensikan di bawah <a target="_blank" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0.</a></p>
       </footer>
     )

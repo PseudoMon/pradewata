@@ -4,7 +4,7 @@
 
 Kadang agak bingung menentukan istilah apa yang perlu diterjemahkan, atau dibiarkan saja bahasa Inggris. Terutama mengingat di versi bahasa Mandarin hampir tidak ada kata serapan, padahal budaya yang ditampilkan di Genshin secara umum itu gabungan berbagai budaya di dunia. 
 
-Konsep-konsep mitologinya, misalnya, terinspirasi dari tradisi *gnosticism*. Kata "archon" pun diambilnya dari situ, sedangkan di versi Mandarin hanya memakai kata 神 (dewa) saja. Vision dikenal sebagai mata dewa di bahasa Mandarin, Jepang, Korea, Perancis, dan Jerman. Jujur: aku biarin Vision aja di versiku cuman karena males. "Mata Dewa" kesannya gimana ya... harus diadaptasi lagi kalimatnya setiap kali kata ini muncul.
+Konsep-konsep mitologinya, misalnya, terinspirasi dari tradisi *gnosticism*. Kata "archon" pun diambilnya dari situ, sedangkan di versi Mandarin hanya memakai kata 神 (dewa) saja. Vision dikenal sebagai mata dewa di bahasa Mandarin, Jepang, Korea, Prancis, dan Jerman. Jujur: aku biarin Vision aja di versiku cuman karena males. "Mata Dewa" kesannya gimana ya... harus diadaptasi lagi kalimatnya setiap kali kata ini muncul.
 
 Vision di bahasa Inggris menurutku udah cocok banget karena membawa artian "mata" tapi juga visi/tujuan. Dalam kisahnya kan Vision itu perwujudan keinginan seseorang. Apa itu berarti di bahasa Indonesia lebih enak dijadikan "Visi" aja? Hahaha, entah deh.
 
@@ -31,6 +31,50 @@ entry:
 id-new = Sekte Abyss
 en-og = Abyss Order
 zh-cn = 深渊教团
+
+
+# Mondstadt
+-- text 
+## Mondstadt
+Nama Mondstadt (蒙德, *Mengde* di bahasa Mandarin) berasal dari bahasa Jerman yang artinya "Kota Bulan". Secara budayanya, sepertinya Mondstadt berdasarkan dari Jerman, Belanda, dan Eropa Utara. Dari ketujuh negeri Teyvat, ini sepertinya yang paling deket ke Inggris, jadi kebanyakan istilanya juga aku bakal ambil dari versi Inggrisnya saja.
+
+Kesatrai Favonius dikenal sebagai 西风骑士团 (*Xīfēng Qíshìtuán*, Kesatria Angin Barat) di bahasa Mandarin. Favonius dalam mitologi Romawi adalah dewa angin barat, atau dikenal juga sebagai dewa Zephyr dalam mitologi Yunani. Di Genshin versi Jepang, 西风骑 dibacanya *Sepyurosu*.
+
+Fun fact: Angel's Share, yang jadi nama kedai anggur milik Diluc, sebenarnya adalah istilah di dunia nyata untuk sebagian alkohol yang menguap saat di dalam tong. Karakter di dalam Genshin juga pernah cerita tentang istilah ini.
+
+Posisi Amber di Favonius, *Outrider* dalam bahasa Inggris, dikenal di bahasa Mandarin sebagai 侦察 (*Zhēnchá*, *reconnaissance/scouting*, pengintaian) yaitu divisi yang melakukan pengawasan awal e.g. sebelum mengirim keseluruhan tentara. Bahasa Indonesia nggak punya kata yang enak sih buat ini. Aku ambil "Perintis" kayak dalam "perintis jalan" begitu. 
+-- text 
+
+## Dict
+entry:
+id-new = Kesatria Favonius
+en-og = Knights of Favonius
+zh-cn = 西风骑士团
+
+entry:
+id-new = Wakil Grand Master
+en-og = Acting Grand Master 
+zh-cn = 城的代理团长
+
+entry:
+id-new = (Kedai) Angel's Share
+en-og = Angel's Share (Tavern)
+zh-cn = 天使的馈赠
+
+entry:
+id-new = Pahlawan Darknight
+en-og = Darknight Hero
+zh-cn = 暗夜英雄
+
+entry:
+id-new = Satuan Perintis
+en-og = Outrider
+zh-cn = 侦察骑士
+
+entry:
+id-new = Prinzessin der Verurteilung
+en-og = Prinzessin der Verurteilung
+zh-cn = 断罪皇女
 
 
 
@@ -116,38 +160,6 @@ id-new = Hari Raya Lautan Cahaya
 en-og = Lantern Rite Festival
 zh-cn = 海灯节
 
-# Mondstadt
--- text 
-## Mondstadt
-Nama Mondstadt (蒙德, *Mengde* di bahasa Mandarin) berasal dari bahasa Jerman yang artinya "Kota Bulan". Secara budayanya, sepertinya Mondstadt berdasarkan dari Jerman, Belanda, dan Eropa Utara. Dari ketujuh negeri Teyvat, ini sepertinya yang paling deket ke Inggris, jadi kebanyakan istilanya juga aku bakal ambil dari versi Inggrisnya saja.
-
-Kesatrai Favonius dikenal sebagai 西风骑士团 (*Xifeng Qishituan*, Kesatria Angin Barat) di bahasa Mandarin. Favonius dalam mitologi Romawi adalah dewa angin barat, atau dikenal juga sebagai dewa Zephyr dalam mitologi Yunani. Di Genshin versi Jepang, 西风骑 dibacanya *Sepyurosu*.
-
-Fun fact: Angel's Share, yang jadi nama kedai anggur milik Diluc, sebenarnya adalah istilah di dunia nyata untuk sebagian alkohol yang menguap saat di dalam tong. Karakter di dalam Genshin juga pernah cerita tentang istilah ini.
--- text 
-
-## Dict
-entry:
-id-new = Kesatria Favonius
-en-og = Knights of Favonius
-zh-cn = 西风骑士团
-
-entry:
-id-new = Wakil Grand Master
-en-og = Acting Grand Master 
-zh-cn = 城的代理团长
-
-entry:
-id-new = (Kedai) Angel's Share
-en-og = Angel's Share (Tavern)
-zh-cn = 天使的馈赠
-
-entry:
-id-new = Pahlawan Malam Hitam
-en-og = Darknight Hero
-zh-cn = 暗夜英雄
-
-
 # Snezhnaya
 -- text
 ## Snezhnaya
@@ -157,7 +169,7 @@ Tentara/militer/mata-mata Snezhnaya bernama Fatui. Ini dari bahasa latin, artiny
 
 "Harbinger" dikenal dengan istilah 执行官 (*Zhixingguan*) di bahasa Mandarin, atau terjemahan harfiahnya "petinggi eksekutif". Agak ngebosenin ya? Tapi kalau gak salah istilah ini juga dipakai di lingkaran mafia/yakuza jadi kayaknya cocok-cocok aja. Aku masih mikir-mikir versi bahasa Indonesianya mau gimana, jadi untuk sekarang kubiarin Harbinger.
 
-Di bahasa Perancis istilah yang dipake *Exécuteurs*. Kata ini bisa dibaca sebagai "pejabat eksekutif" tapi bisa juga dibaca "pengeksekusi" AKA algojo. Nice.
+Di bahasa Prancis istilah yang dipake *Exécuteurs*. Kata ini bisa dibaca sebagai "pejabat eksekutif" tapi bisa juga dibaca "pengeksekusi" AKA algojo. Nice.
 
 Delusion di versi Mandarin adalah 邪眼 (*Xieyan*, Mata Jahat), yang kontras dengan Vision (神之眼, *Shenzhiyan*, Mata Dewa). Terjemahan Inggrisnya bagus banget sih waw. Untuk Indonesia aku belum kepikiran alternatifnya, jadi kubiarkan Vision/Delusion saja.
 -- text

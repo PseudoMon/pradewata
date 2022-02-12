@@ -20,7 +20,7 @@ pnpm run dev:css
 ```
 
 ## Deployment
-I haven't decided where to deploy it yet. Probably Vercel or Fly.io. Maybe even get a DIY host if I feel like suffering.
+I'm deploying this on Netlify ()I haven't decided where to deploy it yet. Probably Vercel or Fly.io. Maybe even get a DIY host if I feel like suffering.
 
 ## TODO
 - OpenGraph/Social Media cards

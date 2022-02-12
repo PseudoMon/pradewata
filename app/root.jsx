@@ -11,7 +11,11 @@ import normalizeStyles from '~/styles/normalize.css'
 import baseStyles from '~/styles/base.css' 
 
 export function meta() {
-  return { title: "Pradewata" };
+  return { 
+    title: "Pradewata",
+    author: "Aliya N. A.",
+    description: "Proyek penerjemahan ulang (sebagian) Genshin Impact ke bahasa Indonesia" 
+  };
 }
 
 export function links() {
