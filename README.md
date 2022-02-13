@@ -1,7 +1,9 @@
 # Proyek Pradewata
-This repository contains the source code for Proyek Pradewata, a project that aims to retranslate a portion of Genshin Impact into Indonesian, and then put them up on display in a website powered by [Remix](https://remix.run) and [Eno](https://eno-lang.org).
+This repository contains the source code for Pradewata, a project that aims to retranslate a portion of Genshin Impact into Indonesian, and then put them up on display in a website powered by [Remix](https://remix.run) and [Eno](https://eno-lang.org).
 
 This a personal passion project by me, [@PseudoMonious](https://twitter.com/PseudoMonious), who for some silly reasons decide to use up hours of her time to mash his translation skills and web developing skills together. And also her love for the video game Genshin Impact and all the characters in that world.
+
+The live version of this site can be seen [here](https://pradewata.netlify.app).
 
 I've put the source code for public display here in hope that it can be helpful for other web developers, whether they want to make their own Genshin fansites or otherwise, but it is still a solo project. Please do not take anything here without my permission.
 
@@ -30,4 +32,4 @@ Note to self: for deployment, copy the app folder and the contents of the public
 - OpenGraph/Social Media cards
 - Better header links
 - Per-page error handling, especially for ENOENT when looking for characters, and a better generic 404 page
-- Comment section/guestbook?
+- Comment section/guestbook page?

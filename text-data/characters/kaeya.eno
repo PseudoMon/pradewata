@@ -5,7 +5,7 @@ type: Voice lines
 -- komentar
 Jadi ceritanya aku mau nerjemahin Diluc karena kecapean setelah nerjemahin Hu Tao dan pengen yang kira-kira lebih gampang. Tapi lalu kepikiran, kayaknya Kaeya lebih menarik deh? Diluc kan lurus-lurus banget. Akhirnya kutaruh poll di Twitter. Tanpa konteks: pilih Kaeya atau Diluc?
 
-Entah keajaiban atau apa, hasilnya 50%, rata dua-duanya. Oke. Jadinya kukerjain mereka berdua barengan. Akhirnya Diluc sih yang selesai lebih cepet. Dia kan lebih gampang.
+Entah keajaiban atau apa, hasilnya rata dua-duanya. Oke. Jadinya kukerjain mereka berdua barengan. Akhirnya Diluc sih yang selesai lebih cepet. Dia kan lebih gampang, hehe.
 
 Sifat Kaeya bisa dibilang bertolak belakang dengan Diluc. Ketika Diluc *straightforward*, gak banyak basa-basi, dan selalu jujur, Kaeya gaya bicaranya lebih *playful*, lebih santai, tapi lebih banyak belit-belit dan pasang makna tersembunyi. Dari suaranya, ketika Diluc kesannya tidak peduli denganmu (tapi diam-diam *sangat* peduli), Kaeya lebih seperti kakak yang selalu memedulikanmu (walaupun? mungkin? tidak?).
 
@@ -103,6 +103,7 @@ id-new = Tentang Jean
 id-og = Tentang Jean
 en-og = About Jean
 zh-cn = 关于琴…
+jp-og = ジンについて…
 
 -- id-new
 Hmm? Sang Wakil Grand Master? Dukung terus dia, ya.
@@ -114,6 +115,7 @@ id-new = Tentang Lisa
 id-og = Tentang Lisa
 en-og = About Lisa
 zh-cn = 关于丽莎…
+jp-og = リサについて…
 
 -- id-new
 Oh, Lisa? Hmm... Jangan lupa kembalikan buku perpustakaan tepat waktu, ya.  Dulu aku pernah terlambat mengembalikan bukunya dan saking marahnya dia... duh, pokoknya sampai sekarang tanganku masih mati rasa.
@@ -125,6 +127,7 @@ id-new = Tentang Amber
 id-og = Tentang Amber
 en-og = About Amber
 zh-cn = 关于安柏…
+jp-og = アンバーについて…
 
 -- id-new
 Sebagai anggota Satuan Perintis, Amber itu kesatria yang cerdik dan jujur. Tapi hati-hati, jangan berbuat melenceng di depannya.
@@ -136,6 +139,7 @@ id-new = Tentang Diluc
 id-og = Tentang Diluc
 en-og = About Diluc
 zh-cn = 关于迪卢克…
+jp-og = ディルックについて…
 
 -- id-new
 Diluc? Dia imut loh pas masih kecil dulu, tapi sekarang dia sibuk dengan dunianya sendiri. Sudah tidak asyik lagi kalau diajak ngobrol.
@@ -147,6 +151,7 @@ id-new = Tentang Klee
 id-og = Tentang Klee
 en-og = About Klee
 zh-cn = 关于可莉…
+jp-og = クレーについて…
 
 -- id-new
 Klee. Sepertinya bocah itu gagal lagi kabur dari pengawasan sang Wakil Grand Master, padahal sudah kukasih petunjuk... Haha, nggak, bercanda kok. Tidak usah cerita-cerita ke yang lain.
@@ -158,6 +163,7 @@ id-new = Tentang Albedo
 id-og = Tentang Albedo
 en-og = About Albedo
 zh-cn = 关于阿贝多…
+jp-og = アルベドについて…
 
 -- id-new
 Albedo, ya? Si ganteng itu orangnya kalem tapi bakatnya bukan main, tipe yang semua orang suka. Kenapa? Kamu juga naksir?
@@ -168,7 +174,9 @@ Ini... Kaeya x Albedo... canon?
 
 *Voice Line* ini kayaknya banyak konotasinya yang aku gak yakin bener-bener nangkep. Klausa "some even more so than others" di versi Inggris nggak kutemui di versi bahasa lain, tapi versi bahasa Jepang (dan sepertinya bahasa Mandarin juga?) menggunakan kata-kata yang mengindikasikan Kaeya "tertarik" ke Albedo (e.g. nyebut dia ganteng). Mungkin subtext ini yang berusaha disampaikan si penerjemah Inggris.
 
-Kaeya memang suka iseng, sih. Mungkin dia hanya isengin kamu aja ("hehe, kenapa nanya-nanya? naksir ya?"). Atau dia memang suka Albedo tapi nutup-nutupin ("ah, tipe gitu sih pasti banyak yang naksir kok, biasa aja kalau aku suka juga"). Atau mungkin aku aja yang salah baca, entah deh.
+Kaeya memang suka iseng, sih. Mungkin dia hanya isengin kamu aja ("hehe, kenapa nanya-nanya? naksir ya?"). Atau dia memang suka Albedo tapi nutup-nutupin ("ah, tipe gitu sih pasti banyak yang naksir kok, biasa aja kalau aku suka juga"). 
+
+Atau mungkin aku aja yang kejauhan bacanya. Entah deh, ehe.
 -- komentar
 
 # Tentang Diona
@@ -177,6 +185,7 @@ id-new = Tentang Diona
 id-og = Tentang Diona
 en-og = About Diona
 zh-cn = 关于迪奥娜…
+jp-og = ディオナについて…
 
 -- id-new
 Sudah pernah coba anggur racikan Diona? Oh iya, kamu kan belum cukup umur. Hahaha, sayang sekali ya, aku jadi tidak bisa berbagi kenikmatan seindah ini dengan kamu. Ya apa boleh buat. Kita tunggu sampai kamu cukup umur, ya.
@@ -188,6 +197,7 @@ id-new = Tentang Varka
 id-og = Tentang Varka
 en-og = About Varka
 zh-cn = 关于法尔伽…
+jp-og = ファルカについて…
 
 -- id-new
 Ngomong-ngomong Varka, rasanya sayang tidak ada di antara Kesatria Favonius yang etos kerjanya seperti beliau. Heh... Aku sebenarnya salut dengan orang-orang seperti Varka.
@@ -199,6 +209,7 @@ id-new = Tentang Fischl
 id-og = Tentang Fischl
 en-og = About Fischl
 zh-cn = 关于菲谢尔…
+jp-og = フィッシュルについて…
 
 -- id-new
 Ha? Menurutmu penampilan Fischl yang matanya ditutup satu begitu cocok karena citranya sebagai "Prinzessin der Verurteilung"? Hahaha, kalau pakai logikamu itu, jangan-jangan aku juga pangeran dari negeri antah-berantah, dong?
@@ -207,31 +218,119 @@ Ha? Menurutmu penampilan Fischl yang matanya ditutup satu begitu cocok karena ci
 -- komentar
 Ini, tanpa disangka, agak susah diterjemahin karena kayaknya? diam-diam? Kaeya membuat alusi ke asal usulnya sendiri yang dari Khaenri'ah. Di versi bahasa Mandarin asli, di kalimat terakhir, dia bilang spesifik keturunan *terakhir* keluarga kerajaan. Apa keluarganya semacam bangsawan sebelum negerinya hancur? Apa dia senyum-senyum saat mendengar Fischl memanggil dirinya putri dari negara antah-berantah karena dia sendiri juga...? Kaeya kamu tuh siapa sih???
 
-Oh ya dan tentu saja agak susah karena gelar Fischl, "Prinzessin der Verurteilung". Versi bahasa Inggris menggubahnya menjadi bahasa Jerman untuk menekankan esensi *chuuni* Fischl, sedangkan di bahasa Mandarin masih pakai bahasa Mandarin: 断罪皇女. Hubungan antara kata "Prinzessin" (yang mirip dengan "Princess", putri) ataupun 皇女 (*Huángnǚ*, putri) dan keturunan kerajaan masih kebaca jelas di dua bahasa itu.
+Oh ya dan agak susah juga karena gelar Fischl, "Prinzessin der Verurteilung". Versi bahasa Inggris menggubahnya menjadi bahasa Jerman untuk menekankan esensi *chuuni* Fischl, sedangkan di bahasa Mandarin masih pakai bahasa Mandarin: 断罪皇女. Hubungan antara kata "Prinzessin" (yang mirip dengan "Princess", putri) ataupun 皇女 (*Huángnǚ*, putri) dan keturunan kerajaan masih kebaca jelas di dua bahasa itu.
 
 Akhirnya kuputuskan untuk lebih menekankan alusi ke Khaenri'ah-nya, karena lebih asyik. Fischl mengaku bergelar begitu karena dia putri dari negeri "Immernachtreich". Daripada mengandalkan hubungan kata Putri -> keluarga kerajaan, versi ini mengandalkan hubungan "asal usul" mereka berdua.
 -- komentar
 
 # Tentang Noelle
-Si Wakil Grand Master mempercayaiku untuk membantu Noelle dari balik layar, tapi beruntungnya tidak banyak yang harus kulakukan. Noelle sudah cukup pintar dengan sendirinya.
+title:
+id-new = Tentang Noelle
+id-og = Tentang Noelle
+en-og = About Noelle
+jp-og =　ノエルについて…
+zh-cn = 关于诺艾尔…
+
+-- id-new
+Si Wakil Grand Master meminta tolong padaku untuk membantu Noelle dari balik layar, tapi beruntungnya tidak banyak yang harus kulakukan. Noelle sendiri juga sudah cukup serba bisa.
+-- id-new
 
 # Tentang Rosaria
-Ahahaha, kamu mau tahu rahasia Suster Rosaria? Itu... Aku juga tidak bisa cerita. Tapi menurutku dia nggak buruk-buruk amat. Nggak seburuk si itu yang tidak perlu kusebut. Dia jujur dengan dirinya sendiri. Yang tidak perlu dia buang, dan dia tidak pura-pura tertarik dengan hal yang tidak menarik buatnya.
+title:
+id-new = Tentang Rosaria
+id-og = Tentang Rosaria
+en-og = About Rosaria
+jp-og = ロサリアについて…
+zh-cn = 关于罗莎莉亚…
+
+-- id-new
+Ahaha, kamu mau tahu rahasia Suster Rosaria? Itu... Aku juga tidak bisa cerita. Tapi menurutku dia nggak buruk-buruk amat. Nggak seburuk si itu yang tidak perlu kusebut. Rosaria jujur dengan dirinya sendiri. Hal yang menurutnya tidak perlu, dia buang, dan dia tidak pura-pura tertarik dengan hal yang tidak menarik baginya.
+-- id-new
+
+-- komentar
+Aku nggak tahu versi resmi bahasa Indonesia dapet "Sebenarnya ini tidak boleh aku katakan, tetapi tidak apa-apalah kali ini" dari mana. Di bahasa Inggris, Jepang, Prancis, dan sepertinya Mandarin juga, implikasinya adalah ada sesuatu tentang Rosaria yang memang Kaeya tidak bisa cerita, tapi dia bisa cerita tentang pendapatnya ini.
+
+Di versi Inggris dan Jepang, Kaeya membandingkan Rosaria dengan seseorang spesifik yang tidak dia namai ("someone whose name I won't bother to mention" / 誰かさん). Entah sih siapa yang dia maksud. Diluc? Versi resmi Indonesia dan Prancis memakai frasa "orang lain" secara umum. Di versi Mandarain aslinya aku nggak yakin. 
+-- komentar
 
 # Tentang Sucrose
-Sucrose memang bukan tipe yang suka bergaul dengan orang lain, tapi dia diam-diam menghanyutkan. Menurut kabar burung, di  laboratoriumnya banyak peralatan yang tidak biasa. Eksperimennya pun banyak yang bukan hanya untuk mengedepankan ilmu pengetahuan... Kabar burung, ya. Masa aku ngintip ke dalam kamarnya perempuan?
+title:
+id-new = Tentang Sucrose
+id-og = Tentang Sucrose
+en-og = About Sucrose
+zh-cn = 关于砂糖…
+jp-og = スクロースについて…
+
+-- id-new
+Sucrose memang bukan tipe yang suka bergaul dengan orang lain, tapi dia diam-diam menghanyutkan. Menurut kabar burung, di laboratoriumnya ada banyak peralatan yang tidak biasa. Eksperimennya pun banyak yang bukan hanya untuk mengedepankan ilmu pengetahuan... Tapi ini desas-desus saja, ya. Masa aku ngintip ke dalam kamar perempuan?
+-- id-new
 
 # Lebih Dalam Tentang Kaeya: I
-Gelar Kapten Kavaleri ini nggak sekeren itu, kok. Kalau dipikir lagi, Pak Grand Master membawa semua anggota kavaleri bersamanya saat ia pergi dari Mondstadt, jadi aku bukan kapten siapa-siapa sekarang... Heh.
+title:
+id-new = Lebih Dalam Tentang Kaeya: I
+id-og = Mengenal Kaeya: I
+en-og = More About Kaeya: I
+zh-cn = 想要了解凯亚·其一
+jp-og = ガイアを知る·1
+
+-- id-new
+Gelar Kapten Kavaleri ini nggak sekeren itu, kok. Lagipula, semua anggota kavaleri juga sudah dibawa pergi Pak Grand Master, jadi aku bukan kapten siapa-siapa sekarang. Hehe.
+-- id-new
+
+-- komentar
+Klausa "jadi aku bukan kapten siapa-siapa" hanya kutemukan di versi bahasa Inggris. Di versi Mandarin, Jepang, ataupun Prancis nggak ada. Aku pertahankan di versiku karena lebih asik aja. 
+-- komentar
 
 # Lebih Dalam Tentang Kaeya: II
+title:
+id-new = Lebih Dalam Tentang Kaeya: II
+id-og = Mengenal Kaeya: II
+en-og = More About Kaeya: II
+zh-cn = 想要了解凯亚·其二
+jp-og = ガイアを知る·2
+
+-- id-new
 Ada sepuluh kapten dalam Kesatria Favonius. Tapi sejujurnya, tidak semuanya layak menjadi pemimpin.
+-- id-new
 
 # Lebih Dalam Tentang Kaeya: III
+title:
+id-new = Lebih Dalam Tentang Kaeya: III
+id-og = Mengenal Kaeya: III
+en-og = More About Kaeya: III
+zh-cn = 想要了解凯亚·其三
+jp-og = ガイアを知る·3
+
+-- id-new
 Mataku? Mataku tidak apa-apa kok. Nggak aneh kan menutupi sebagian anggota badan kita? Sama saja dengan memakai celana atau pakaian lain.
+-- id-new
 
 # Lebih Dalam Tentang Kaeya: IV
-Khaneri'ah? Kamu banyak tahu juga ya! Tidak ada lagi yang tersisa dari Khaenri'ah selain penjahat, semuanya. Tidak ada dari mereka yang layak kuceritakan.
+title:
+id-new = Lebih Dalam Tentang Kaeya: IV
+id-og = Mengenal Kaeya: IV
+en-og = More About Kaeya: IV
+zh-cn = 想要了解凯亚·其四
+jp-og = ガイアを知る·4
+
+-- id-new
+Khaenri'ah? Kamu banyak tahu juga ya! Tidak ada yang tersisa dari kejayaan Khaenri'ah selain penjahat, semuanya. Tidak ada dari mereka yang layak kuceritakan.
+-- id-new
 
 # Lebih Dalam Tentang Kaeya: V
-Sudah lama sekali ya sejak kita pertama bertemu? Waktu cepat sekali berlalu! Tahu tidak, ikut bersamamu dalam perjalananmu ini adalah hal paling asyik yang pernah kulakukan dalam hidupku. Kuharap kita bisa terus bersama seperti ini. 
+title:
+id-new = Lebih Dalam Tentang Kaeya: V
+id-og = Mengenal Kaeya: V
+en-og = More About Kaeya: V
+zh-cn = 想要了解凯亚·其五
+jp-og = ガイアを知る·5
+
+-- id-new
+Sudah lama ya sejak kita pertama bertemu? Waktu cepat sekali berlalu! Tahu tidak? Mendampingimu dalam perjalanan ini adalah hal paling seru yang pernah kulakukan sepanjang hidupku. Kuharap, kamu tidak mengecewakanku di masa depan. 
+-- id-new
+
+-- komentar
+Lagi-lagi aku bingung akan subtext yang ingin Kaeya katakan. "今后可别让我失望哦"? Kamu harap aku tidak mengecewakanmu, Kaeya? Kenapa? Apa pernah ada yang mengecewakanmu, jadi kamu bilang begini? Siapa? Diluc? Crepus? Ayah kandungmu?
+
+Versi bahasa Inggris mengintepretasi "mengecewakanku" sebagai perubahan ke keadaan dan hubungan mereka. "*I hope it stays that way*", ia berharap kita bisa terus berpetualang bersama seperti ini. Lebih halus daripada "*I hope you don't disappoint me*" yang frontal masang ekspektasinya ke pundakmu, tapi memang penafsirannya bisa beda tipis.
+-- komentar
