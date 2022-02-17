@@ -1,12 +1,14 @@
-import { useLoaderData } from 'remix'
+import { useLoaderData, useParams } from 'remix'
 import { useState } from 'react'
 import { getCharaVoiceLines, getCharaData } from '~/parse-files'
 import VoiceLineCard from '~/components/voice-line-card.jsx'
 import charaPageStyles from '~/styles/charapage.css'
 
 export function meta({ data }) {
-  const charaName = data.charaData.name 
-  return { title: `Pradewata | ${charaName}` };
+  const charaName = data?.charaData.name || "ERROR"
+  return { 
+    title: `Pradewata | ${charaName}`, 
+  };
 }
 
 export function links() {
@@ -24,6 +26,16 @@ export async function loader({ params }) {
   }))
 
   return { voiceLines, charaId, charaData }
+}
+
+export function ErrorBoundary() {
+  const { chara } = useParams()
+  return (
+    <div>
+      <h1>Error 500</h1>
+      <p>Error saat membuka halaman karakter "{ chara }". Mungkin ada kesalahan ketik atau karakter dengan ID ini belum memiliki halaman sendiri.</p> 
+    </div>
+  )
 }
 
 export default function CharacterPage() {
@@ -82,11 +94,17 @@ export default function CharacterPage() {
           <li
             className={ getIsLangActive("id-og") }
             onClick={ () => setLang("id-og") }
-          >ID Ofc</li>
+          >ID Offi</li>
           <li
             className={ getIsLangActive("en-og") }
             onClick={ () => setLang("en-og") }
-          >EN Ofc</li>
+          >EN Offi</li>
+          { voiceLines[0].line["jp-og"] ?
+            <li
+              className={ getIsLangActive("jp-og") }
+              onClick={ () => setLang("jp-og") }
+            >JP Offi</li> : null
+          }
           <li
             className={ getIsLangActive("zh-cn") }
             onClick={ () => setLang("zh-cn") }
