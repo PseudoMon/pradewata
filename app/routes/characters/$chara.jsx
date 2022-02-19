@@ -56,11 +56,11 @@ export default function CharacterPage() {
     <article className="character-main">
       <section className="sidebar">
         <img src={`/images/chara-side/${ charaId }.webp`} />
-        <div class="character-header">
-          <span class="character-title">{ charaData.title }</span>
-          <span class="character-name">{ charaData.name }</span>
+        <div className="character-header">
+          <span className="character-title">{ charaData.title }</span>
+          <span className="character-name">{ charaData.name }</span>
           <button 
-            class="comment-button"
+            className="comment-button"
             onClick={ () => setCommentOpenState(true) } 
           >
             Komentar
@@ -71,7 +71,7 @@ export default function CharacterPage() {
         </div>
 
         { commentIsOpen ? (
-          <section class="comment-overlay">
+          <section className="comment-overlay">
             <div dangerouslySetInnerHTML={
               { __html: charaData.comment } 
             } />

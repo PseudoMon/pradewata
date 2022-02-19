@@ -38,22 +38,22 @@ Sekte Abyss berulah lagi? Kamu tahu kan, kalau ada masalah, kamu bisa cerita ke 
 title:
 id-new = Tentang Kita: Hubungan Profesional
 id-og = Tentang Kita: Hubungan Pekerjaan
-en-og = Tentang Kita: Employment Relationship
+en-og = About Us: Employment Relationship
 zh-cn = 关于我们·雇佣关系
 
 -- id-new
-Kalau perlu bantuanku, cerita-cerita saja. Hubungan kita jangan dianggap seakan antara bos dan bawahan begitu. 
+Kalau perlu bantuanku, cerita-cerita aja. Hubungan kita jangan dianggap seakan antara bos dan bawahan begitu. 
 -- id-new
 
 # Tentang Kita: Kekuatan
 title:
-id-new =  Tentang Kita: Kekuatan
+id-new = Tentang Kita: Kekuatan
 id-og = Tentang Kita: Kekuatan
-en-og = Strength
+en-og = About Us: Strength
 zh-cn = 关于我们·实力
 
 -- id-new
-Oh? Kalau kamu masih mau hubungan kita lebih profesional, perintahkanku aku untuk lebih banyak bertarung di depan dong, bosku. Hahaha, tapi jangan takut ya kalau sudah lihat kekuatanku sebenarnya.
+Oh? Kalau kamu masih mau hubungan kita lebih profesional, perintahkan aku untuk lebih banyak bertarung di depan dong, bosku. Hahaha, tapi jangan takut ya kalau sudah lihat kekuatanku sebenarnya.
 -- id-new
 
 -- komentar
@@ -61,7 +61,7 @@ Oh? Kalau kamu masih mau hubungan kita lebih profesional, perintahkanku aku untu
 
 Sebenarnya apa sih maksudnya dia? Tau deh. "Bos, jadiin aku Main DPS dong, jangan ngasih artifact bagusnya ke karakter bintang lima aja" kali.
 
-Penerjemah resmi bahasa Indonesia mengira kata "bos" ini buat manggil si Kaeya, tapi kucek ke beberapa bahasa lain, Kaeya yang manggil si Pengembara "bos". Kemungkinan ini ambil dari bahasa Jepang, yang memang ambigu peletakan kata ボス (*bosu*)-nya. Kebetulan juga di bahasa Jepang, klausa "beri aku perintah/maju ke depan" ini menghilang, tapi ditambahkan 何度だって俺を呼べ, "sudah berkali-kali kubilang (hubungan kita jangan dianggap profesional)"
+Penerjemah resmi bahasa Indonesia mengira kata "bos" ini buat manggil si Kaeya, tapi kucek ke beberapa bahasa lain, Kaeya lah yang manggil si Pengembara "bos". Kemungkinan ini ambil dari bahasa Jepang yang memang ambigu peletakan kata ボス (*bosu*)-nya. Kebetulan juga di bahasa Jepang, klausa "beri aku perintah maju ke depan" ini menghilang, tapi ditambahkan 何度だって俺を呼べ, "sudah berkali-kali kubilang (hubungan kita jangan dianggap profesional)"
 -- komentar
 
 # Tentang Visionnya
@@ -72,7 +72,7 @@ en-og = About the Vision
 zh-cn = 关于「神之眼」…
 
 -- id-new
-Masih bingung tentang cara kerja Vision? Oke, jadi... coba kujelasin pakai perumpamaan. Organ yang kita gunakan untuk melihat kan mata kita. Vision itu semacam organ yang kita gunakan untuk mengendalikan elemen. Begitu saja.
+Masih bingung tentang cara kerja Vision? Oke, jadi... coba kujelasin pakai perumpamaan. Organ yang kita gunakan untuk melihat kan mata kita. Vision itu semacam organ yang kita gunakan untuk mengendalikan elemen. Gampang lah.
 -- id-new
 
 # Yang Ingin Diceritakan
@@ -83,7 +83,7 @@ en-og = Something to Share
 zh-cn = 有什么想要分享…
 
 -- id-new
-Kamu suka minum anggur, nggak? Anggur Dandelion ada rasanya tersendiri... Lho, kamu belum cukup umur? Ya sudah, yuk coba sari apel khas Mondstadt saja. Aku tahu tempat yang enak.
+Kamu suka minum anggur, nggak? Anggur Dandelion ada rasanya tersendiri... Lho, kamu belum cukup umur? Ya sudah, yuk coba sari apel khas Mondstadt aja. Aku tahu tempat yang enak.
 -- id-new
 
 # Serba-Serbi
@@ -106,7 +106,7 @@ zh-cn = 关于琴…
 jp-og = ジンについて…
 
 -- id-new
-Hmm? Sang Wakil Grand Master? Dukung terus dia, ya.
+Hmm? Si Wakil Grand Master? Dukung terus dia, ya.
 -- id-new
 
 # Tentang Lisa
@@ -130,7 +130,7 @@ zh-cn = 关于安柏…
 jp-og = アンバーについて…
 
 -- id-new
-Sebagai anggota Satuan Perintis, Amber itu kesatria yang cerdik dan jujur. Tapi hati-hati, jangan berbuat melenceng di depannya.
+Sebagai anggota Satuan Perintis, Amber itu kesatria yang pintar dan jujur. Tapi hati-hati, jangan melanggar aturan di depannya.
 -- id-new
 
 # Tentang Diluc
@@ -250,7 +250,7 @@ Ahaha, kamu mau tahu rahasia Suster Rosaria? Itu... Aku juga tidak bisa cerita. 
 -- komentar
 Aku nggak tahu versi resmi bahasa Indonesia dapet "Sebenarnya ini tidak boleh aku katakan, tetapi tidak apa-apalah kali ini" dari mana. Di bahasa Inggris, Jepang, Prancis, dan sepertinya Mandarin juga, implikasinya adalah ada sesuatu tentang Rosaria yang memang Kaeya tidak bisa cerita, tapi dia bisa cerita tentang pendapatnya ini.
 
-Di versi Inggris dan Jepang, Kaeya membandingkan Rosaria dengan seseorang spesifik yang tidak dia namai ("someone whose name I won't bother to mention" / 誰かさん). Entah sih siapa yang dia maksud. Diluc? Versi resmi Indonesia dan Prancis memakai frasa "orang lain" secara umum. Di versi Mandarain aslinya aku nggak yakin. 
+Di versi Inggris dan Jepang, Kaeya membandingkan Rosaria dengan seseorang spesifik yang tidak dia namai ("someone whose name I won't bother to mention" / 誰かさん). Entah sih siapa yang dia maksud. Diluc? Versi resmi Indonesia dan Prancis memakai frasa "orang lain" secara umum. Di versi Mandarin aslinya aku nggak yakin. 
 -- komentar
 
 # Tentang Sucrose
@@ -314,7 +314,7 @@ zh-cn = 想要了解凯亚·其四
 jp-og = ガイアを知る·4
 
 -- id-new
-Khaenri'ah? Kamu banyak tahu juga ya! Tidak ada yang tersisa dari kejayaan Khaenri'ah selain penjahat, semuanya. Tidak ada dari mereka yang layak kuceritakan.
+Khaenri'ah? Kamu banyak tahu juga ya... Tidak ada yang tersisa dari kejayaan Khaenri'ah selain penjahat, semuanya. Tidak ada dari mereka yang layak kuceritakan.
 -- id-new
 
 # Lebih Dalam Tentang Kaeya: V

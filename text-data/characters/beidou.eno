@@ -1,0 +1,337 @@
+name: Beidou
+title: Penakluk Samudra Tak Bermahkota
+type: Voice Lines
+
+-- komentar 
+Ini *request* dari seseorang di Twitter. "Kalau ada Ningguang, sekalian tambah Beidou dong!" Siap, bosku.
+
+Sifat Beidou kontras dengan Ningguang: dia santai, gaya bicaranya akrab di jalanan, dan dia dekat dengan pekerja kelas bawah. Tapi keduanya sama-sama tinggi percaya dirinya. Entah kenapa, aku kebayang Beidou bicara pakai aksen Jawa agak medhok. Hampir kubuat dia manggil kamu dengan "sampeyan", tapi terlalu Jawa-sentris entar, hahaha.  
+
+Tadinya kukira untuk menerjemahkan Beidou harus belajar banyak tentang pelayaran. Akhirnya malah banyak baca-baca tentang astronomi dan ornitologi. Silakan baca komentar-komentar di halaman ini untuk tahu kenapa, hahaha :'D.
+
+Gelar Beidou di bahasa Mandarin menggunakan kata 龙王 (*Lóngwáng*) yang artinya "Raja Naga". Dia mendapat gelar ini setelah mengalahkan naga laut Haishan. Versi bahasa Inggris memilih menerjemahkan ini menjadi "*Lord of the Ocean*" (Penguasa Samudra) untuk lebih menekankan hubungan ke laut, berhubung kata "*Dragon*" di bahasa Inggris lebih merujuk ke naga bersayap yang terbang di angkasa dibanding ular naga yang diimplikasikan kata 龙. Haishan pun disebut *sea monster* atau *leviathan* di versi Inggris, bukan *dragon*. 
+
+Di bahasa Indonesia, kata "naga" berasal dari Sansekerta yang artinya ular, dan di tradisi Hindu Jawa dan Bali kadang digambarkan semacam dewa ular. Yah, tapi kalau di penggunaan modern sih "naga" bisa merujuk ke naga terbang Eropa juga, dan  naga Jawa pun setahuku nggak ada hubungannya dengan lautan. Akhirnya kuambil "Samudra" saja, tapi lalu aku ambil "Penakluk" daripada ratu/raja/penguasa untuk menghubungkan dengan statusnya sebagai penakluk Haishan. 
+-- komentar
+
+# Salam Kenal
+title:
+id-new = Salam Kenal
+id-og = Halo
+en-og = Hello
+zh-cn = 初次见面…
+jp-og = 初めまして…
+
+-- id-new
+Aku Beidou. Sudah pernah dengar tentang armada kapalku, Bintang Pari? Kalau kamu haus akan petualangan, ikutlah dengan kami. Kamu bisa mengandalkanku. 
+-- id-new
+
+-- komentar
+Di bahasa Mandarin, armada Beidou dikenal dengan  南十字 (*Nanshizi*, Silang Selatan), nama rasi bintang yang di bahasa Inggris dikenal dengan "*The Crux*". Aku memilih mengadaptasi ini ke "Bintang Pari", salah satu nama yang dipakai orang Melayu/Indonesia untuk rasi bintang ini.
+
+Versi resmi bahasa Inggris dan bahasa Indonesia di sini sama-sama salah tangkap. "The Crux" itu merujuk ke nama armadanya, bukan kapalnya. 
+-- komentar
+
+# Tentang Beidou
+title:
+id-new = Tentang Beidou
+id-og = Tentang Beidou sendiri
+en-og = About Beidou
+zh-cn = 关于北斗自己…
+jp-og = 北斗自身について…
+
+-- id-new
+Ayo angkat jangkar! Semuanya, ambil posisi kalian! Petualangan baru akan dimulai!
+-- id-new
+
+# Tentang Kita: Gelar
+title:
+id-new = Tentang Kita: Gelar
+id-og = Tentang Kita: Sebutan
+en-og = About Us: Titles
+zh-cn = 关于我们·称呼
+jp-og = 呼び方について…
+
+-- id-new
+Aku nakhoda kapal ini, jadi aku bisa menjadikanmu mualimku! Mau? ... Ha? Gelar-gelar begini terlalu kuno buatmu, ya? Ya sudah, kita saling panggil pakai nama apapun yang kamu mau deh.
+-- id-new
+
+# Tentang Kita: Membaca Orang
+title:
+id-new = Tentang Kita: Membaca Orang
+id-og = Tentang Kita: Menilai orang
+en-og = About Us: Eye for People
+zh-cn = 关于我们·识人
+jp-og = 人を見る目について…
+
+-- id-new
+Aku lumayan bisa menebak watak orang lain. Kalau sudah terbiasa membaca lautan, membaca orang lain pun jadi biasa saja. Haha, jadi begitulah, aku langsung tahu kalau kamu orang baik sejak pertama kita bertemu.
+-- id-new
+
+# Tentang  Kita: Terpilih
+title:
+id-new = Tentang Kita: Terpilih
+id-og = Tentang Kita: Pilihan
+en-og = About Us: Choices
+zh-cn = 关于我们·选择
+jp-og = 選択について…
+
+-- id-new
+Aku telah memilihmu menjadi anggota armadaku, saudaraku yang kupilih sendiri. Aku bangga bisa mengatakan itu. 
+-- id-new
+
+-- komentar
+Sejujurnya aku juga nggak begitu ngerti maksud Beidou di sini. Dia bangga karena dia sendiri yang memilihmu? Atau dia bangga karena bisa memanggilmu saudaranya? Ngomong-ngomong, klausa "dalam mengarungi lautan" / "on the sea" hanya ada di versi resmi Indonesia dan Inggris; tidak ada di versi Jepang atau Mandarin asli.
+
+Perbandingan katanya di sini menarik. Versi resmi Indonesia: "rekan", versi Inggris: "*comrade*", versi Jepang: 仲間 (*nakama*, pasti yang sering nonton anime kenal dengan kata ini), versi Mandarin: 兄弟 (*xiōngdì*, saudara).
+
+Versi Prancis melempar itu semua. Seluruh *Voice Line* ini hanya diterjemahkan begini: "*C'est mon honneur que de t'avoir choisi en tant que membre d'équipage*", "Sebuah kehormatan telah memilihmu menjadi anggota kruku." 
+-- komentar
+
+# Tentang Visionnya
+title:
+id-new = Tentang Visionnya
+id-og = Tentang Vision
+en-og = About the Vision
+zh-cn = 关于「神之眼」…
+jp-og = 「神の目」について…
+
+-- id-new
+Bagi mereka yang tidak memiliki Vision, pemegang Vision pasti terlihat seakan kapal yang melayangkan bendera pada dewa untuk mereka ikuti. Karena itu, aku selalu berusaha menjadi contoh yang baik untuk bisa layak mengibarkan bendera itu. 
+-- id-new
+
+# Yang Ingin Diceritakan
+title:
+id-new = Yang Ingin Diceritakan
+id-og = Berbagi Cerita
+en-og = Something to Share
+zh-cn = 有什么想要分享…
+jp-og = シェアしたいこと…
+
+-- id-new
+Sedang galau? Kalau kamu bingung harus melakukan apa, ambil satu langkah saja dulu. Sisanya akan datang dengan sendirinya.
+-- id-new
+
+# Serba-Serbi
+title:
+id-new = Serba-Serbi
+id-og = Rumor yang menarik
+en-og = Interesting Things
+zh-cn = 感兴趣的见闻…
+jp-og = 興味のあること…
+
+-- id-new
+Setiap pulang dari perjalanan yang panjang, kalau aku melihat elang batu beterbangan di langit, aku tahu kalau sebentar lagi aku akan sampai di rumah.  Pemandangan di tengah lautan tidak pernah berubah, jadi melihat burung-burung itu terbang begitu bebas... walaupun mereka memang burung pemangsa, melihatnya saja membuatku merasa senang.
+-- id-new
+
+-- komentar 
+Burung layang batu ini di aslinya 石鸢 (Shíyuān) dan di versi Inggris menjadi *Lapis Glede*. 石 artinya batu. 鸢 itu nama untuk burung pemangsa yang di bahasa Inggris bisa dikenal sebagai *Glede*, tapi lebih sering dikenal sebagai *Kite*. Di bahasa Indonesia kita sebutnya... bukan burung layang-layang wkwkwk. Di Indonesia burung layang-layang itu burung kecil, bukan burung pemangsa. Bahkan ada satu spesies spesifik yang disebut "Layang-layang Batu", *Hirundo tahitica*. 
+
+OKE SAATNYA BELAJAR NAMA-NAMA BURUNG DI INDONESIA. Sayangnya gak banyak kata Indonesia untuk burung pemangsa. "Elang" itu nama yang paling umum. "Alap-alap" itu khusus *Falconidae*, sudah beda famili dengan yang biasanya disebut 鸢. Ada pula "Elang-alap", "Baza", "Rajawali". Terima kasih kontributor Wikipedia yang niat sekali membuat halaman [Daftar nama burung di Indonesia](https://id.wikipedia.org/wiki/Daftar_nama_burung_di_Indonesia).
+
+Kesimpulan: di Indonesia nggak ada nama khusus untuk famili yang biasanya disebut 鸢 / *kite* / *glede*. Oke. Jadi "Elang Batu" aja deh :'D.
+
+Sebenarnya, aku kurang yakin maksud Beidou di sini. Kalau melihat elang itu di langit, berarti sebentar lagi sampai rumah. Oke. Lalu apa hubungannya dengan pemandangan di tengah laut? Kenapa diperkarakan kalau elang itu burung pemangsa? Mau aku cek ke versi manapun juga, semuanya sama-sama ambigu. 
+-- komentar 
+
+# Tentang Ningguang: Liyue Qixing
+title:
+id-new = Tentang Ningguang: Liyue Qixing
+id-og = Tentang Ningguang: Liyue Qixing
+en-og = About Ningguang: Liyue Qixing
+zh-cn = 关于凝光·璃月七星
+jp-og = 凝光について·璃月七星
+
+-- id-new
+Ningguang, ya? Kalau urusan Liyue Qixing sih, kerjanya selalu paling mantap. Tapi tanggung jawabku sendiri ada pada armadaku, bukan pada Liyue Qixing.
+-- id-new
+
+# Tentang Ningguang: Perilaku
+title:
+id-new = Tentang Ningguang: Perilaku
+id-og = Tentang Ningguang: Perilaku
+en-og = About Ningguang: Attitudes
+zh-cn = 关于凝光·态度
+jp-og = 凝光について·態度
+
+-- id-new
+Ningguang biasanya tidak begitu gamblang bicaranya, tapi kalau mengkritisiku dia blak-blakan sekali, haha... Tapi, ya... mau dia suka atau benci padaku, itu pilihan dia sendiri. Bukan urusanku mengubah pikirannya. 
+-- id-new
+
+-- komentar
+Versi resmi Indonesia, Inggris, dan Mandarin asli menggunakan kata "mau dia suka atau benci". Versi Prancis menggunakan "mau dia suka atau tidak". Versi Jepang lebih sederhana: "bagaimanapun pendapatnya tentangku". 
+
+Wahai pendukung BeiGuang, udah jangan terlalu berkutat sama kalimat ini. 
+-- komentar
+
+# Tentang Xiangling: Kemampuan Memasak
+title:
+id-new = Tentang Xiangling: Kemampuan Memasak
+id-og = Tentang Xiangling: Kemampuan memasak
+en-og = About Xiangling: Culinary Skills
+zh-cn = 关于香菱·好厨艺
+jp-og = 香菱について·料理の腕
+
+-- id-new
+Saat ada di laut lepas, kita semua jadi kangen masakan Xiangling. Kalau sedang suntuk, tinggal cerita-cerita tentang sedapnya Cabai Jueyun goreng buatan Xiangling dan semuanya pasti langsung jadi semangat.
+-- id-new
+
+-- komentar
+Loh tumben versi resmi bahasa Indonesia gak nyebutnya "Jueyun Chili" aja. Biasanya nama bahan makanan yang jadi Item dalam game gini gak diterjemahin.
+-- komentar
+
+# Tentang Xiangling: Uji Rasa
+title:
+id-new = Tentang Xiangling: Uji Rasa
+id-og = Tentang Xiangling: Mencicipi makanan
+en-og = About Xiangling: Food Tasting
+zh-cn = 关于香菱·试吃
+jp-og = 香菱について·試食
+
+-- id-new
+Xiangling, ya? Kadang dia menggunakan bahan yang... menarik, agar masakannya memiliki rasa yang... hmm, istimewa, begitu. Tapi dia tidak bisa melatih kemampuannya kalau tidak ada yang mencoba hasil karyanya, kan? Kalau untuk itu, aku selalu bersedia membantunya.
+-- id-new
+
+# Tentang Zhongli
+title:
+id-new = Tentang Zhongli
+id-og = Tentang Zhongli
+en-og = About Zhongli
+zh-cn = 关于钟离…
+jp-og = 鍾離について…
+
+-- id-new
+Bapak konsultan di Rumah Duka Wangsheng? Anak buahku suka bisik-bisik tentang beliau, aku jadi penasaran dia seperti apa. Kalau sempat, aku juga mau kenalan dengannya.
+-- id-new
+
+# Tentang Xiao
+title:
+id-new = Tentang Xiao
+id-og = Tentang Xiao
+en-og = About Xiao
+zh-cn = 关于魈…
+jp-og = 魈について…
+
+-- id-new
+Beberapa tahun lalu, sehari sebelum Hari Lautan Cahaya, aku dan awak kapalku terjebak dalam badai saat sedang kembali ke pelabuhan. Kami sudah berusaha sebaik mungkin, tapi pada akhirnya baru bisa masuk ke Pelabuhan Liyue tengah malam, jauh setelah semua lentera sudah dilepas ke langit. Saat aku menengok ke Hutan Batu Guyun, aku melihat seorang Xian mengambang di angkasa dalam wujud anak muda. Sepertinya semua legenda itu benar, ya? Selalu ada yang mengawasi Liyue walaupun tidak ada yang melihatnya.
+-- id-new
+
+# Tentang Ganyu
+title:
+id-new = Tentang Ganyu
+id-og = Tentang Ganyu
+en-og = About Ganyu
+zh-cn = 关于甘雨…
+jp-og = 甘雨について…
+
+-- id-new
+Aku dan Ganyu sebenarnya akur loh! Ya tapi kamu tahu sendiri, kan? Dia sekretaris Liyue Qixing dan mereka kurang suka denganku. Buatku sih bukan masalah, tapi aku tidak mau mempersulit urusan Ganyu. Jadi, anu, ini tidak usah diceritakan ke orang lain, ya.
+-- id-new
+
+# Tentang Xinyan
+title:
+id-new = Tentang Xinyan
+id-og = Tentang Xinyan
+en-og = About Xinyan
+zh-cn = 关于辛焱…
+jp-og = 辛炎について…
+
+-- id-new
+Dia keren juga! Awak kapalku sudah jadi penggemar berat musik rock-nya... Oh? Aku sendiri? Wah, gimana ngejelasinnya, ya. Banyak yang bisa kubahas bareng Xinyan, tapi kalau urusan musik sih... kita sendiri-sendiri aja deh.
+-- id-new
+
+# Tentang Yaoyao 
+title:
+id-new = Tentang Yaoyao
+id-og = Tentang Yaoyao
+en-og = About Yaoyao
+zh-cn = 关于瑶瑶…
+jp-og = ヨォーヨについて…
+
+-- id-new
+Kalau kita ada di pelabuhan, Yaoyao pasti datang untuk bermain di atas kapal. Masalahnya, kalau kita sudah harus berangkat, matanya jadi memelas begitu, jadi tidak ada yang tega menyuruhnya pulang. Akhirnya jadwal berlayar kita jadi selalu pas-pasan.
+-- id-new
+
+# Tentang Kaedehara Kazuha
+title:
+id-new = Tentang Kaedehara Kazuha
+id-og = Tentang Kaedehara Kazuha
+en-og = About Kaedehara Kazuha
+zh-cn = 关于枫原万叶…
+jp-og = 楓原万葉について…
+
+-- id-new
+Si Kazuha itu beneran menangkis serangan Raiden Shogun di depan istana Tenshukaku! Keren juga dia! Setelah perang di Inazuma usai, dia kembali ke armadaku, bilang dia masih mau ikut berlayar dengan kami. Tentu saja aku terima dengan senang hati! Saat suatu hari nanti ia ingin pergi berkelana sendirian lagi, akan kuberi dia arak ternikmat sebagai tanda perpisahan, hahaha!
+-- id-new
+
+# Lebih Dalam Tentang Beidou: I
+title:
+id-new = Lebih Dalam Tentang Beidou: I
+id-og = Mengenal Beidou: I
+en-og = More About Beidou: I
+zh-cn = 想要了解北斗·其一
+jp-og = 北斗を知る·1
+
+-- id-new
+Sebelum naik ke kapal Bintang Petaka, kamu harus bisa menjawab satu pertanyaan. Lautan dipenuhi dengan mara bahaya, jadi kenapa kamu masih berniat naik ke kapalku? 
+-- id-new
+
+-- komentar
+Fun fact! "Alcor", nama kapal milik Beidou di versi bahasa Inggris, adalah nama salah satu bintang di rasi Ursa Mayor, rasi yang disebut 北斗 (*Běidǒu*) di bahasa mandarin. Ursa Mayor memiliki tujuh bintang, dan nama Mandarin ketujuh bintang ini dijadikan gelar ketujuh anggota Liyue Qixing (*Tianquan* untuk Ningguang, *Yuheng* untuk Keqing).
+
+Nah, Alcor bisa dikatakan adalah bintang kedelapan: posisinya bersebelahan dengan bintang Mizar (*Kaiyang* di bahasa Mandarin) yang jauh lebih terang. Di beberapa budaya kuno di dunia, kemampuan membedakan antara kedua bintang ini dijadikan uji mata: kalau Mizar keliatan tapi Alcor enggak, berarti matanya udah rabun.
+
+Di China, bintang ini dikenal dengan 死兆星 (*Sǐzhàoxīng*), yang artinya "Bintang Pertanda Kematian". Rasi bintang *Beidou* juga, menurut cerita kuno, pernah disebut pertanda malapetaka. Di *Hangout Event* Beidou, dia cerita kalau dia dulu dianggap pembawa malapetaka ke kampung halamannya, yang lalu dihubungkan ke nama *Beidou*.
+
+Aku memutuskan untuk mengganti nama kapalnya menjadi *Bintang Petaka*. Di *Voice Line* ini, Beidou sepertinya merujuk ke nama bintangnya ini ("tahu namanya gini, kamu masih mau naik ke kapalku?"). Menamainya "Alcor" juga rasanya aneh, terlalu kontras dengan nama-nama lain di Liyue yang basisnya China.
+
+Kenapa Beidou menamai kapalnya begini kalau tahu itu tanda petaka? Mungkin dia sengaja mau menantang maut, mengakuisisi namanya sendiri, membawa petaka ke musuh-musuhnya. 
+-- komentar
+
+# Lebih Dalam Tentang Beidou: II
+title:
+id-new = Lebih Dalam Tentang Beidou: II
+id-og = Mengenal Beidou: II
+en-og = More About Beidou: II
+zh-cn = 想要了解北斗·其二
+jp-og = 北斗を知る·2
+
+-- id-new
+Kisah-kisah legendarisku? Hahaha, itu hanya anak buahku saja yang berlebihan kalau bercerita. Tapi kalau kamu mau tahu tentang makhluk-makhluk bengis yang bisa muncul dari kedalaman lautan, ini jawabanku: tidak ada satupun dari mereka yang aku takuti. 
+-- id-new
+
+# Lebih Dalam Tentang Beidou: III
+title:
+id-new = Lebih Dalam Tentang Beidou: III
+id-og = Mengenal Beidou: III
+en-og = More About Beidou: III
+zh-cn = 想要了解北斗·其三
+jp-og = 北斗を知る·3
+
+-- id-new
+Hmm? Kenapa aku banyak membantu rakyat biasa? Kenapa tidak? Siapapun pasti pernah melalui masa-masa terkelamnya. Bantuanku juga tidak seberapa, sekedar mengarahkan mereka ke masa depan yang lebih cerah. 
+-- id-new
+
+# Lebih Dalam Tentang Beidou: IV
+title:
+id-new = Lebih Dalam Tentang Beidou: IV
+id-og = Mengenal Beidou: IV
+en-og = More About Beidou: IV
+zh-cn = 想要了解北斗·其四
+jp-og = 北斗を知る·4
+
+-- id-new
+Aku banyak melalui masa-masa sulit dulu. Saat masih kecil, aku saking miskinnya sampai harus mencuri buah dari pohon tetangga untuk bisa makan. Bahkan setelah mendapat kapalku sendiri, aku masih juga dikucilkan oleh pedagang-pedagang yang sombong. Ah, tapi aku cerita-cerita begini untuk menghabiskan waktu saja. Semoga kamu tidak melalui kesulitan seperti itu juga.
+-- id-new
+
+# Lebih Dalam Tentang Beidou: V
+title:
+id-new = Lebih Dalam Tentang Beidou: V
+id-og = Mengenal Beidou: V
+en-og = More About Beidou: V
+zh-cn = 想要了解北斗·其五
+jp-og = 北斗を知る·5
+
+-- id-new
+Semua yang berlayar bersamaku adalah saudaraku. Aku sudah menanyai alasan mereka semua naik ke kapalku, dan jawaban mereka sudah kuhafal luar dalam. Tapi, kamu? Kamu tidak seperti mereka. Aku tahu kamu punya urusanmu sendiri, jadi aku tidak akan memaksamu tetap berlayar bersamaku. Tapi ingat ini: akan selalu ada tempat bagimu di atas Bintang Petaka.
+-- id-new
