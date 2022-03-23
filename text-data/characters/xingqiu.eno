@@ -1,0 +1,405 @@
+name: Xingqiu
+title: Pemuda Gagah Piawai
+type: Voice Lines
+
+-- komentar
+Aku udah takut aja Xinqiu bakal susah diterjemahin karena, konon kabarnya dari pemain Genshin bahasa Mandarin, Xinqiu banyak membuat referensi ke sastra-sastra kuno yang artinya bisa berbelit-belit saking puitisnya. Tapi ternyata, setidaknya buat bagian yang udah kuterjemahin di sini, Xingqiu justru lumayan gampang diterjemahin? Gampang tapi banyak yang aneh-aneh juga sih.
+
+Sepinter-pinternya Xingqiu, dia juga sebenernya bocah iseng yang seneng main juga. Kosa-kata yang biasanya dia pakai juga kosa kata sehari-hari, walaupun jelas dia sendiri tahu banyak kata-kata dan frasa susastra yang berat. Kadang dia sengaja pakai gaya bahasa dari sastra kesukaannya (i.e. kuno), tapi biasanya gaya bahasanya juga biasa aja.
+
+Mungkin aku sendiri *relate* karena aku juga kutu buku yang dari kecil baca sastra berat ya hahaha.     
+
+Dalam mengerjakan ini aku terbantu banget oleh sobatku yang orang asli China, [@SiriusWolfH](https://twitter.com/SiriusWolfHS), yang mau aja kulempar-lempar pertanyaan tentang gaya bahasa Xingqiu dan serba-serbi lain tentang budaya China. Terima kasih banyak, Sirius-laoshi!!
+
+Yang paling menarik, aku belajar konsep 侠 (*xiá*) yang dipegang teguh sama si bocah bernama Xingqiu ini. Di versi bahasa Inggris, ini biasanya jadi *chivalry*, tapi artinya ternyata gak terlalu mirip. Ketika *chivalry* macem kesatria Eropa Barat itu juga merujuk ke kepatuhan pada raja, *xiá* justru merujuk ke pembangkangan terhadap pemerintah demi melindungi rakyat kecil.
+
+Konsepnya agak susah diterjemahin ya. Kalau buka-buka KBBI, kata yang terdekat ke konsep ini itu "pendekar":  "1) orang yang pandai bersilat (bermain pedang dan sebagainya), 2) orang yang gagah berani (suka membela yang lemah dan sebagainya); pahlawan". Tapi aku juga curiga arti ini justru didapat karena terjemahan novel *wuxia* (武侠) lama banyak menggunakan kata pendekar e.g. "Pendekar Pemanah Rajawali". Muter balik lagi deh artinya ke bahasa asal haha.
+
+Gelar Xingqiu di bahasa Mandarin, 少年春衫薄 (*shàonián chūn shān báo*), adalah kutipan dari puisi China klasik tradisi/faksi 花间 (*huājiān*, harfiah: di antara bunga), yang biasanya berisi kisah cinta dan nostalgia masa muda. Gelar Xingqiu secara harfiah artinya "pemuda berpakaian ringan", tapi konotasinya pemuda yang berdiri dengan gagah, pakaiannya melambai tertiup angin. Menurut Sirius ini merujuk ke bagaimana Xingqiu hidup bebas di masa mudanya, belum terbebani urusan dewasa atau urusan keluarganya. "*Young and Carefree*" gitu mungkin terjemahannya, katanya.
+
+Versi yang diambil bahasa Inggris menurutku bagus banget: "*Juvenile Gallant*". *Gallant* bisa dianggap sikap kesatria, setara *chivalrous*, tapi juga dengan konotasi romantisme. "Gagah" gitu, kalau di bahasa Indonesia. *Juvenile* artinya pemuda, tapi dengan konotasi kekanak-kanakan atau seseorang yang suka iseng. Sebagian makna aslinya dapat, dan dapat juga hubungan ke Xingqiu. 
+
+Untuk versiku... aku agak bingung gimana nerjemahinnya, haha. "Pemuda Gagah" udah cukup mewakilkan, tapi rasanya kurang kalau hanya dua kata. Setelah muter-muter mikir, akhirnya kutambahkan "Piawai", mereferensikan kemampuan dan ilmu Xingqiu yang agak unik. Plus, kesannya bahasa agak kuno/puitis gitu, sampai editorku pun gak tahu artinya apa sebelum buka kamus, ehe. 
+
+Ah, masih kurang sreg... Tapi kalau gini terus nanti malah gak jadi-jadi. Yowess deh, semoga kalian suka!
+-- komentar
+
+# Salam Kenal
+title:
+en-og = Hello
+zh-cn = 初次见面…
+id-og = Halo
+id-new = Salam Kenal
+jp-og = 初めまして…
+
+-- id-new
+Salam sejahtera, wahai Pengembara! Hamba ini bernama Xinqiu, dan walau dalam hal bakat, saya memang masih terbatas, saya akan berusaha membantu sebaik mungkin. Haha, aku jarang ada kesempatan bicara dengan gaya seperti ini. Boleh juga.
+-- id-new
+
+-- komentar
+Menurut Sirius, versi bahasa Inggris agak berlebihan merendahkannya. Di versi Mandarin asli, Xingqiu hanya menggunakan gaya bahasa kuno sopan yang sering ada di novel *wuxia*, tapi gak merendah-rendah banget. Jadinya di versiku juga kuusahakan gak terlalu merendah begitu.
+
+"Salam Sejahtera" ini emang nggak ada di versi salan, tapi kutambahin buat menekan rasa-rasa kunonya.
+-- komentar
+
+# Tentang Xingqiu
+title:
+en-og = About Xingqiu
+zh-cn = 关于行秋自己…
+id-og = Tentang Xingqiu sendiri
+id-new = Tentang Xingqiu
+jp-og = 行秋自身について…
+
+-- id-new
+Orang lain hanya melihatku sebagai putra kedua Perserikatan Dagang Feiyun, jadi di depan mereka aku harus selalu menjaga sikapku. Aku lega bisa menjadi diriku sendiri kalau di depanmu. Sepertinya kamu tidak melihatku sama seperti mereka.
+-- id-new
+
+# Tentang Kita: Sobat Sastra
+title:
+en-og = About Us: Reading Buddies
+zh-cn = 关于我们·书友
+id-og = Tentang Kita: Teman membaca
+id-new = Tentang Kita: Sobat Sastra
+jp-og = 読書仲間について…
+
+-- id-new
+Kita berdua bisa dibilang sobat sastra kan, ya? Ha? Bertarung? Klan Guhua? Saudara dalam medan tempur? ... Aduh, apaan sih? Kan sudah kubilang, itu jadi rahasia antara kita berdua saja!
+-- id-new
+
+# Tentang Kita: Sumpah
+title:
+en-og = About Us: Swornship
+zh-cn = 关于我们·结拜
+id-og = Tentang Kita: Ikatan janji
+id-new = Tentang Kita: Sumpah
+jp-og = 契りについて…
+
+-- id-new
+Bersamamu aku akan menyatakan sumpah persahabatan, jadi ayo kita ke altar di Karst Jueyun. Nggak pakai tapi! Kamu sudah tahu terlalu banyak tentangku! Kamu tahu tentang diriku yang bisanya harus kusembunyikan. Tidak akan kubiarkan kamu lolos sampai kamu janji akan ikut bersumpah denganku!
+-- id-new
+
+# Tentang Vision: Buku-Buku Kuno
+title:
+en-og = About the Vision: Ancient Books
+zh-cn = 关于「神之眼」·古书
+id-og = Tentang Vision: Buku kuno
+id-new = Tentang Vision: Buku-Buku Kuno
+jp-og = 「神の目」について·古書
+
+-- id-new
+Hanya ada sedikit tulisan yang membahas Vision, tapi aku pernah menemukan penjelasan khusus tentangnya di antara buku-buku kuno koleksiku. Kalau kamu mau, bisa kupinjamkan padamu.  
+-- id-new
+
+# Tentang Vision: Pencerahan
+title:
+en-og = About the Vision: Realization
+zh-cn = 关于「神之眼」·领悟
+id-og = Tentang Vision: Penguasaan
+id-new = Tentang Vision: Pencerahan
+jp-og = 「神の目」について·理解
+
+-- id-new
+Aku baru dapat pencerahan dari beberapa tulisan yang sedang kubaca. Esensi dari seni bela diri baik dengan tongkat maupun pedang berasal dari ilmu bola mata. Ugh, agak susah dijelaskan... Kalau kamu memang ingin tahu, ayo ikut denganku ke Aula Wangshan. Tapi pertama, janji jangan ketawa ya.
+-- id-new
+
+-- komentar
+Jujur aku gak ngerti maksudnya Xingqiu di sini apa. Ilmu bola mata? Kamu ngomong apa sih, bocah? Mau aku cek ke bahasa lain juga sama-sama bingung.
+
+Versi Jepang pakai kata 瞳術 (*doujutsu*, "seni (dalam arti bela diri)/jurus bola mata"), kurang lebih sama dengan versi asli Mandarin, 瞳术 (*tóngshù*). Versi Perancis pakai *l'art de la coordination de l'œil* (seni koordinasi mata). Versi Inggris mentok aja *art of the "eye"* (seni mata), pakai tanda kutip karena penerjemahnya juga bingung kayaknya hahaha. Versi resmi Indonesia nih yang berani bilang koordinasi tangan-mata.  
+
+Kalau ngegugel 瞳术 sih dapetnya Naruto, tapi kayaknya Xingqiu gak ke situ juga deh haha... eh... kalau dia memang takut diketawain, jangan-jangan emang dia baru baca cerita ninja-ninja ajaib macem Naruto terus dibawa serius ya? Xingqiu... chuuni...? 
+-- komentar
+
+# Yang Ingin Diceritakan
+title:
+en-og = Something to Share
+zh-cn = 有什么想要分享…
+id-og = Berbagi Cerita
+id-new =  Yang Ingin Diceritakan
+jp-og = シェアしたいこと…
+
+-- id-new
+Tempat-tempat yang wajib dikunjungi di Liyue? Wah, susah juga pertanyaannya. Hmm... Tempat yang kalau menghilang akan paling kukangeni pastinya Toko Buku Wanwen. Tempat berkumpulnya Klan Guhua juga pasti masuk sepuluh besar.
+-- id-new
+
+-- komentar
+Untuk frasa yang kuterjemahkan menjadi "tempat berkumpulnya Klan Guhua", di versi Inggris ini hanya "Guhua Sect", yang sebenernya aneh karena "Sect" itu bukan nama tempat. Itu merujuk ke kelompok, dan selama ini nama kelompoknya selalu "Guhua Clan" jadi dapet dari mana mereka kata "Sect"??
+
+Di bahasa Mandarin kata yang dipakai di sini 堂 (*táng*). Kalau kata kamusku sih artinya aula atau ruang untuk berkumpul. Yowess. Tempat yang paling disukai Xingqiu itu adalah di manapun ini yang dia bisa ketemu sama sesama pengikut Guhua.
+-- komentar
+
+# Serba-Serbi
+title:
+en-og = Interesting Things
+zh-cn = 感兴趣的见闻…
+id-og = Rumor yang menarik
+id-new = Serba-Serbi
+jp-og = 興味のあること…
+
+-- id-new
+Dulu aku suka sekali kelinci, tapi sekarang aku lebih suka rusa. Ada ungkapan yang berbunyi, "Sikap kependekaranku akan bersinar paling terang pada titik-titik penghabisan". Ini kuanggap berarti meninggalkan segala urusan dunia dan meraih capaian surgawi. Lalu tempat peristirahatan terakhir sang rusa merepresentasikan harapan akan hidup yang baru. Oh, betapa aku ingin melihatnya lagi. 
+-- id-new
+
+-- komentar
+Kutipan yang Xingqiu pakai di sini, "请从绝处，读我侠义", adalah referensi ke "请从绝处读侠气", kutipan dari buku karya Jin Yong. Yang suka cerita *wuxia* (atau sering disebut cerita "silat" China) pasti kenal deh. Beliau penulis *Legenda Pendekar Pemanah Rajawali*, *Kisah Pedang Langit dan Golok Pembunuh Naga*, dan novel-novel *wuxia* lainnya. Jin Yong sudah dianggap bapak kisah *wuxia* modern.
+
+Terjemahanku ini dibantu banget sama sobatku Sirius yang bisa referensi ke kutipan aslinya. Kutipan dari Jin Yong artinya kurang lebih "侠 (*xiá*) akan paling terlihat/diuji pada masa-masa genting" dan adaptasi Xingqiu mengubahnya jadi tentang 侠 (*xiá*) milik dirinya sendiri. Kasih bumbu-bumbu sastra dikit, jadilah versiku: "Sikap kependekaranku akan bersinar paling terang pada titik-titik penghabisan". 
+
+Aku memilih mengambil "sikap kependekaran" dibanding "sikap satria" di sini karena 1) artinya lebih cocok kalau lihat KBBI, 2) referensi ke *wuxia*-nya masuk.
+
+Terus hubungannya sama rusa apa? Nggak tahu. Bahkan Sirius juga nggak tahu padahal dia udah buka-buka novel *wuxia* dan baca-baca diskusi penggemar Genshin di China. Si Xingqiu lagi ngelantur gak jelas abis terinspirasi sama bacaan terakhirnya kali.
+
+Atau mungkin maksudnya sesimpel "dulu aku kanak-kanak banget, sukanya kelinci. sekarang sukanya rusa, binatang yang lebih gahar"?? Entah deh. Bocah, kamu ngomong apa siihhh?? 
+-- komentar
+
+# Tentang Beidou
+title:
+en-og = About Beidou
+zh-cn = 关于北斗…
+id-og = Tentang Beidou
+id-new = Tentang Beidou
+jp-og = 北斗について…
+
+-- id-new
+Tuan Nakhoda Beidou adalah seseorang yang sangat aku hormati. Tapi, aku agak kesal juga dia terus memanggilku "bocah" dan mengacak-acak rambutku setiap kali kita bertemu.
+-- id-new
+
+-- komentar
+Xingqiu memanggil Beidou dengan gelar kehormatan: 阁下 (*géxià*) di bahasa Mandarin, 殿 (*dono*) di bahasa Jepang, *Lady* di bahasa Inggris, mungkin ngikutin sastra lama yang dibacanya. Versi resmi bahasa Indonesia memakai "Nona", yang menurutku kurang mendekati level hormat di bahasa lainnya. Tadinya mau pakai "Tuan Beidou", ah tapi di zaman sekarang "tuan" selalu dianggap maskulin... kecuali di frasa semacam "tuan putri"...
+
+"Tuan Kapten"? Kurang sreg ah. "Tuan Nakhoda"? Boleh juga. Ada kesan-kesan kunonya gitu lah.   
+-- komentar
+
+# Tentang Ningguang
+title:
+en-og = About Ningguang
+zh-cn = 关于凝光…
+id-og = Tentang Ningguang
+id-new = Tentang Ningguang
+jp-og = 凝光について…
+
+-- id-new
+Dalam kapasitasnya sebagai sang Tianquan, aku berkewajiban menghormatinya. Kalau tidak, akan ada masalah bagi ayah dan kakakku. Tapi kalau menurutku pribadi? Hmm... Lebih baik tidak usah kita bahas. Aku tidak mau menjeleki orang lain di belakang mereka.
+-- id-new
+
+# Tentang Chongyun
+title:
+en-og = About Chongyun
+zh-cn = 关于重云…
+id-og = Tentang Chongyun
+id-new = Tentang Chongyun
+jp-og = 重雲について…
+
+-- id-new
+Ah, sobatku si Chongyun. Dia memang yang paling mengerti tentang diriku, tapi harus berhati-hati kalau pergi bertualang dengannya. Teknik bela dirinya memang makin lama makin tajam, tapi dia masih belum menghayati bagaimana menjadi seorang pendekar. Hanya perlu latihan saja... Terutama latihan makan makanan pedas, haha...
+-- id-new
+
+-- komentar
+Ini siapaaaa di tim penerjemah bahasa Indonesiaaaa, yang 侠 dijadiin "*Knight*"? Pakai huruf K kapital lagi. Senggaknya "kesatria" bahkan lebih deket artinya. AAAAaaaÄAAaa.
+
+Tadinya mau kujadiin "belum menghayati kode etik kesatria", tapi, lagi-lagi, kayaknya pendekar lebih cocok. Plus bisa kuat makan makanan pedas kayaknya lebih cocok ke "pendekar" yang kesannya lebih gahar deh daripada "kesatria" yang lebih formal. 
+-- komentar 
+
+# Tentang Yun Jin
+title:
+en-og = About Yun Jin
+zh-cn = 关于雲菫…
+id-og = Tentang Yun Jin
+id-new = Tentang Yun Jin
+jp-og = 雲菫について…
+
+-- id-new
+Yun Jin? Saat ia meminum minuman yang disukainya, ia akan terinspirasi untuk menulis karya yang baru. Karena itu, aku selalu menyimpan satu toples daun teh di bawah ranjangku, siap dikirim padanya pada hari ketika ia kehilangan inspirasi. Dengan begini, aku tidak akan kehabisan kisah-kisah kepahlawanan untuk dinikmati!
+-- id-new
+
+-- komentar
+Versi resmi bahasa Indonesia yang salah di sini. Di semua versi lain, tehnya siap dikirim ke Yun Jin kalau dia kehilangan/kurang inspirasi, bukan justru saat inspirasi datang.
+-- komentar
+
+# Tentang Hu Tao 
+title:
+en-og = About Hu Tao
+zh-cn = 关于胡桃…
+id-og = Tentang Hu Tao
+id-new = Tentang Hu Tao
+jp-og = 胡桃について…
+
+-- id-new
+Ah ya, gadis muda yang sekarang menjadi direktur Rumah Duka Wangsheng. Hmm? Kamu mau tahu pendapatku tentangnya? Ah, memang ada banyak rumor tentang caranya bekerja, tapi kalau kamu memang ingin kenal dengan seseorang, kamu harus tahu apa yang benar-benar ia inginkan.
+-- id-new
+
+# Tentang Qiqi
+title:
+en-og = About Qiqi
+zh-cn = 关于七七…
+id-og = Tentang Qiqi
+id-new = Tentang Qiqi
+jp-og = 七七について…
+
+-- id-new
+Aku selalu merasa ada hawa misteri yang meliputi Qiqi. Tapi tidak mungkin bisa mengobrol dengannya selama dia diawasi Dokter Baizhu. Hmm. Kita bisa menunggu sampai Dokter Baizhu pergi menjenguk pasiennya, lalu kita sergap dia... 
+-- id-new
+
+# Tentang Xiangling
+title:
+en-og = About Xiangling
+zh-cn = 关于香菱…
+id-og = Tentang Xiangling
+id-new = Tentang Xiangling
+jp-og = 香菱について…
+
+-- id-new
+Kalau kamu melihat Xiangling jalan-jalan di luar, apalagi kalau dia baru saja selesai mengumpulkan bahan-bahan masakan baru, yang pertama harus kamu lakukan adalah periksa raut wajahnya. Semakin semangat ekspresinya, semakin berbahaya mendekatinya. Kalau dia melihatmu, kamu akan dipaksa mencoba hasil racikan terbarunya... Biasanya sih aku biarkan Chongyun yang kena ampasnya, hehe... 
+-- id-new
+
+# Tentang Xinyan
+title:
+en-og = About Xinyan
+zh-cn = 关于辛焱…
+id-og = Tentang Xinyan
+id-new = Tentang Xinyan
+jp-og = 辛炎について…
+
+-- id-new
+Di mana saja sih Xinyan memainkan musiknya? Dari ujung Batu Chihu hingga puncak Teras Yujing, tidak ada titik yang tidak disentuh suara nyaringnya... Duh. Hari-hari yang sunyi ketika aku bisa bersantai dan membaca bukuku, memang merupakan harta yang begitu langka.   
+-- id-new
+
+
+# Tentang Albedo
+title:
+en-og = About Albedo
+zh-cn = 关于阿贝多…
+id-og = Tentang Albedo
+id-new = Tentang Albedo
+jp-og = アルベドについて…
+
+-- id-new
+Aku sudah kepikiran semua ilustrasi yang kuinginkan untuk setiap kejadian penting di volume berikutnya, dan volume berikutnya juga, sampai tiga volume ke depan! Sebaiknya langsung kutulis sebelum aku lupa, lalu langsung kukirim ke Kak Kreidenprinz.
+-- id-new
+
+-- komentar
+Laoshi?? Sensei?? Xingqiu manggil Albedo pakai laoshi???? Lucu banget!! Sayangnya bahasa Indonesia nggak punya kata khusus untuk manggil guru, sih. "Pak" kayaknya aneh deh. "Tuan" mungkin cocok karena Xingqiu orangnya gitu, tapi... Hmm.
+
+Aku kurang tahu sih budaya di China gimana, tapi di Jepang kadang penggemar manga manggil penulis/ilustratornya pakai *sensei*. Kalau disamakan di sini, kata yang paling deket kayaknya "Kak".
+
+Hmm. Kak aja deh. Pending nunggu ada interaksi lagi antara Xingqiu sama Albedo.
+-- komentar
+
+# Tentang Zhongli
+title:
+en-og = About Zhongli
+zh-cn = 关于钟离…
+id-og = Tentang Zhongli
+id-new = Tentang Zhongli
+jp-og = 鍾離について…
+
+-- id-new
+Ayah dan kakakku pernah menerima beliau sebagai tamu dulu. Dari cara mereka memperlakukannya, dia pasti seseorang yang sangat penting. Kudengar dia juga yang mengarahkan pemakaman para Xian, jadi pasti pengetahuannya sangat dalam, jauh melebihi orang biasa. Hmm. Mau ikut aku cari tahu rahasianya?
+-- id-new
+
+-- komentar
+Kata yang digunakan Xingqiu untuk mendeskripsikan Zhongli di sini menarik. Versi Inggris menggunakan frasa "*he must surely have great depth to his character*" yang aneh karena ini mengimplikasikan budi pekerti yang baik, sedangkan di bahasa lain frasa yang digunakan mengacu ke pengetahuan.
+
+Bahasa Jepang memakai 物知り (*monoshiri*), kurang lebih artinya orang yang tahu banyak hal. Bahasa Prancis pakai "*doit connaître certaines choses que peu connaissent*", tahu beberapa hal yang diketahui sedikit orang. Bahasa Indonesia pakai "dia pasti punya informasi dari orang dalam" yang??? Dapet dari mana ini??? Siapa orang dalemnya?? 
+
+Ini kukonsultasikan ke temanku Sirius, dan penjelasannya teryata menarik. Kata yang dipakai di versi asli Mandarin adalah 底蕴 (dǐyùn), artinya kurang lebih: pengetahuan mendalam, mengakar, yang kemungkinan didapat secara turun temurun, yang tidak akan bisa dipelajari sepenuhnya oleh seseorang yang tidak benar-benar menyerapnya sejak lama. Cocok digunakan untuk, misalnya, pengetahuan seseorang yang keluarganya turun temurun ada di satu profesi, atau, dalam kasus ini, seorang dewa berusia ribuan tahun yang sudah mengerti betul semua tradisi tanahnya. 
+
+Aku belum kepikiran kata Indonesia yang artinya mendekati ini, jadi aku gabungin versi Jepang dan Perancis aja deh.
+-- komentar
+
+# Tentang Shenhe
+title:
+en-og = About Shenhe
+zh-cn = 关于申鹤…
+id-og = Tentang Shenhe
+id-new = Tentang Shenhe
+jp-og = 申鶴について…
+
+-- id-new
+Nona Shenhe seringkali melihatku dengan tatapan yang agak tajam, jadi aku selalu berhati-hati saat mendekatinya. Aneh, deh. Apa aku pernah menyalahinya? Atau mungkin... aku menyalahi orang yang dekat dengannya?
+-- id-new
+
+# Lebih Dalam Tentang Xingqiu: I
+title:
+en-og = More About Xingqiu: I
+zh-cn = 想要了解行秋·其一
+id-og = Mengenal Xingqiu: I
+id-new = Lebih Dalam Tentang Xingqiu: I
+jp-og = 行秋を知る·1
+
+-- id-new
+Bagaimana kabar Anda akhir-akhir ini, wahai Pengembara? Jika tidak ada urusan yang genting, apa Anda bisa menemaniku berkunjung ke Toko Buku Wanwen?
+-- id-new
+
+-- komentar
+Kata sobatku Sirius, di sini Xingqiu menggunakan gaya bahasa yang merupakan gabungan bahasa kuno dan modern (istilahnya 半文半白 (*bàn wén bàn bái*)), biasanya digunakan untuk memberi kesan kuno tapi bisa dimengerti juga oleh pembaca modern. Ini sering dipakai di game *wuxia*. 
+
+Aku lihat versi Jepang, Perancis, maupun versi resmi bahasa Indonesia menggunakan gaya bahasa yang biasa aja, sedangkan versi Inggris pakai cekcokan *my liege* yang juga ada di *voice line* "Salam Kenal". The translation struggles.
+
+Versiku kubuat kayak sastra-sastra lama dikit lah. Eh. Jadinya mirip sama gaya bahasa yang kupakai buat Zhongli ya? Hahaha.
+-- komentar
+
+# Lebih Dalam Tentang Xingqiu: II
+title:
+en-og = More About Xingqiu: II
+zh-cn = 想要了解行秋·其二
+id-og = Mengenal Xingqiu: II
+id-new = Lebih Dalam Tentang Xingqiu: II
+jp-og = 行秋を知る·2
+
+-- id-new
+Kenapa aku suka membaca sendirian...? Ah, suka belajar itu bukan kebiasaan buruk, kan? Begitu saja, kok. Iya, begitu saja.
+-- id-new
+
+# Lebih Dalam Tentang Xingqiu: III
+title:
+en-og = More About Xingqiu: III
+zh-cn = 想要了解行秋·其三
+id-og = Mengenal Xingqiu: III
+id-new = Lebih Dalam Tentang Xingqiu: III
+jp-og = 行秋を知る·3
+
+-- id-new
+Ada waktu luang kah hari ini? Baguslah. Aku juga siap berangkat kapanpun kamu siap. Bukuku?  Haha, nggak apa-apa kok. Buku bisa lanjut kubaca kapanpun kita kembali, tapi siapapun itu yang perlu pertolongan kita tidak akan bisa terus menunggu. 
+-- id-new 
+
+# Lebih Dalam Tentang Xingqiu: IV
+title:
+en-og = More About Xingqiu: IV
+zh-cn = 想要了解行秋·其四
+id-og = Mengenal Xingqiu: IV
+id-new = Lebih Dalam Tentang Xingqiu: IV
+jp-og = 行秋を知る·4
+
+-- id-new
+Terinspirasi, katamu? Setelah petualangan yang kita lalui bersama, kamu jadi terinspirasi menulis novel cerita detektif plus silat? Dan mau kamu beri judul "Babad Wanwen"? Anu... Haha, bagus kok idenya, serius. Tapi harus kutolak, ya. Iya, maaf ya.
+-- id-new
+
+-- komentar
+Novel yang Xinqiu sebut di sini katanya gabungan genre 探案集 (*tan'anji*, kumpulan cerita detektif macem Sherlock Holmes) dan 武侠 (*wǔxiá*, genre yang udah sering kusebut deh di kolom komentar-komentar lain). Di Indonesia genre *wuxia* sering diterjemahkan jadi "cerita silat". Kupakai di sini buat merujuk ke budaya penerjemahan ini. 
+
+Fun fact: dalam perkembangannya di Indonesia, *wuxia* juga menginspirasi cerita sejenis dengan latar lokal e.g. *Wiro Sableng*. Istilah "cerita silat" jadi mengandung cerita-cerita lokal ini selain juga *wuxia* China.  
+
+Di versi bahasa Indonesia resmi mereka pakai "novel pendekar detektif", dan ini juga udah bagus tbh.
+-- komentar
+
+# Lebih Dalam Tentang Xingqiu: V
+title:
+en-og = More About Xingqiu: V
+zh-cn = 想要了解行秋·其五
+id-og = Mengenal Xingqiu: V
+id-new = Lebih Dalam Tentang Xingqiu: V
+jp-og = 行秋を知る·5
+
+-- id-new
+"Dia yang menenun sajak dari lautan kata-kata," itulah reputasi yang ingin kuraih. Kamu satu-satunya orang yang bisa kuceritakan tentang ini. Jadi, sebenarnya aku sedang menulis novel. Ah, tapi kamu tidak boleh lihat dulu. Suatu hari nanti... akan bisa kamu lihat saat sudah dijual di toko buku di seluruh Liyue. 
+-- id-new
+
+-- komentar
+Kutipan yang dipakai Xingqiu di versi Mandarin adalah "洋洋万言，织诗成锦". Frasa keduanya sama persis dengan yang dikatakannya saat Elemental Burst, *Zhī shī chéng jǐn* atau di versi Inggris *Let me weave you a verse*. Arti versi Mandarinnya secara harfiah "menenun puisi menjadi tenunan". Frasa pertamanya, *Yángyáng wàn yán* bisa diterjemahkan menjadi "lautan ribuan kata-kata". 
+
+Di bahasa Mandarin, kutipan ini singkat, padat, indah, jadi buat versiku juga kuusahakan singkat juga. Gak perlu ribet-ribet lah kiasannya.  
+-- komentar
+
+
+

@@ -14,7 +14,7 @@ export function meta() {
   return { 
     title: "Pradewata",
     author: "Aliya N. A.",
-    description: "Proyek penerjemahan ulang (sebagian) Genshin Impact ke bahasa Indonesia" 
+    description: "Proyek penerjemahan ulang Genshin Impact ke bahasa Indonesia yang lebih berkarakter" 
   };
 }
 
@@ -26,7 +26,7 @@ export function links() {
     },
     {
       rel: "stylesheet",
-      href: "https://fonts.googleapis.com/css2?family=Gentium+Book+Basic&family=Signika:wght@400;600;700&family=Outfit&family=Signika+Negative&display=swap"
+      href: "https://fonts.googleapis.com/css2?family=Gentium+Book+Basic&family=Signika+Negative&display=swap"
     },
     { rel: "stylesheet", href: normalizeStyles },
     { rel: "stylesheet", href: baseStyles },
